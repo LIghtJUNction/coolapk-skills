@@ -1,0 +1,17 @@
+---
+name: ace2-susfs-kernelsu-adaptation
+description: "记录帖子提及的机型、功能组合和 GitHub 工作流资源；没有固件版本或构建细节可供确认。"
+---
+
+# ACE2 的 SUSFS 与 KernelSU 适配资源记录
+
+帖子提到 ACE2 的 SUSFS 与 KernelSU 适配项目，并称可提供 GitHub 工作流。帖子同时表示适配需求需提供机型、是否需要 SUSFS、Root 管理器和开源偏好等信息。
+
+## 可确认范围
+
+- 帖子明确提到的机型标识：ACE2。
+- 提到的组件组合：SUSFS、KernelSU。
+- 资源是 GitHub 项目链接；输入未说明其中是否包含可直接刷入的构建产物。
+- 固件完整版本、地区、升级或降级类型、清数据要求、构建工具、恢复材料和实际适配结果均未知。
+
+项目仓库未读取，因此不能据此给出安装、刷写或恢复步骤。来源：[帖子 74362813](https://www.coolapk.com/feed/74362813)。

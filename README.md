@@ -29,6 +29,16 @@
 | 跨系统移植 | [UniXNU 阶段进展核查](skills/unixnu-android-device-port-progress/SKILL.md) |
 | 硬件设计 | [拓展坞接口与散热取舍](skills/dock-design-tradeoffs/SKILL.md) |
 | 网络与手机扫描 | [打印 WiFi 凭据识别核查](skills/printed-wifi-credential-scan-check/SKILL.md) |
+| 酷安命令行 | [安装、认证与功能验证范围](skills/coolapk-cli/SKILL.md) |
+| Agent 社区 | [MSG 交互与权限核查](skills/msg-agent-community/SKILL.md) |
+| 开发环境 | [跨平台脚本索引与审阅](skills/lmm-scripts/SKILL.md) |
+| ColorOS 网络 | [Google 应用联网限制线索](skills/coloros-google-network-restrictions/SKILL.md) |
+| 安卓内核 | [ACE2 SUSFS 与 KernelSU 资源核查](skills/ace2-susfs-kernelsu-adaptation/SKILL.md) |
+| 模块开发 | [技能与案例资源发现](skills/magisk-module-skill-discovery/SKILL.md) |
+| Agent 长时协作 | [共享文件传递目标与更新](skills/shared-cloud-file-agent-workflow/SKILL.md) |
+| LaTeX 排版 | [聊天文字逐句字号](skills/latex-chat-text-size-sequence/SKILL.md) |
+| 开源软件功能 | [HireFerry 接口与能力核查](skills/hireferry-feature-evidence-review/SKILL.md) |
+| 安卓应用异常 | [登录会话自动退出排查](skills/app-session-logout-module-triage/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
