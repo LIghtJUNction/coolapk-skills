@@ -88,6 +88,14 @@
 | Linux 文件系统 | [bees 的 Btrfs 去重机制与范围](skills/btrfs-bees-deduplication/SKILL.md) |
 | 手机与平板参数 | [小米/Redmi 历史发布记录](skills/xiaomi-redmi-historical-launch-specs/SKILL.md) |
 | 安卓 Root | [启动镜像与 Root 架构](skills/android-root-architecture/SKILL.md) |
+| 技术工具 | [在 Termux 中配置 Pi 的 LMM Provider](skills/termux-pi-lmm-provider-setup/SKILL.md) |
+| 技术工具 | [MagicNet：模块版本记录、安装说明与验证边界](skills/magicnet-android-module-history/SKILL.md) |
+| 技术工具 | [用 Kam 初始化与构建 Android 管理器模块](skills/termux-kam-module-workflow/SKILL.md) |
+| 技术工具 | [在 Termux 中安装并运行 dirmap](skills/termux-dirmap-install-and-use/SKILL.md) |
+| Agent 工作流 | [用任务仓库组织 Agent 工作](skills/agent-task-repository-workflow/SKILL.md) |
+| Agent 工作流 | [用文本表示游戏世界，供 Agent 观察和规划](skills/game-world-text-agent-interface/SKILL.md) |
+| Agent 工作流 | [Codex 全局提示词记录](skills/agent-global-prompt-case/SKILL.md) |
+| Agent 工作流 | [把伪造对话结构当作提示词注入案例](skills/prompt-injection-message-boundaries/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
