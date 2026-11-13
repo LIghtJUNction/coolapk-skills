@@ -4,6 +4,10 @@
 
 | 分类 | 技能 |
 |---|---|
+| 静态网页部署 | [PageDrop 文件上传与 GitHub Pages 流程](skills/pagedrop-static-site-deployment/SKILL.md) |
+| 安卓原生 CLI | [MT 终端 Kimi 运行时与脚本资源](skills/mt-terminal-kimi-native-runtime/SKILL.md) |
+| 安卓应用编译 | [AOT 编译流程、空间与残留包排查](skills/android-aot-compilation-case/SKILL.md) |
+| GSI 与通话 | [DSU 启动和特定 IMS 设置案例](skills/dsu-gsi-ims-case/SKILL.md) |
 | Termux 与 GPU 容器 | [Debian LXC、X11、Adreno 透传与配置纠错](skills/termux-lxc-debian-adreno/SKILL.md) |
 | 路由器 UBI 安装 | [W1701K：TTL、TFTP 与完整命令](skills/w1701k-ttl-ubi-flashing/SKILL.md) |
 | 安卓手表 | [ADB、OMS、保活参数与错误码](skills/android-watch-adb-oms-toolbox/SKILL.md) |

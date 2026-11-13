@@ -5,7 +5,7 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 
 # Android Root 模块知识与资源
 
-按需求查阅 [分类说明、配置与资源](references/modules.md)。其中保留可直接使用的公开项目、下载站和发布页地址，不需要额外数据库。
+按需求查阅 [分类说明、配置与资源](references/modules.md)。另有 [122 项模块与工具分享目录](references/downloads.md)，保留逐项对应的真实公开地址。其中保留可直接使用的公开项目、下载站和发布页地址，不需要额外数据库。
 
 使用时先定位功能，再检查同节的机型、系统、内核和互斥条件。例如 ct 与 AsoulOpt 不同时开启；cs 的 Android 版本范围和 schedhorizon 内核范围分别检查；音效模块的高通、DAX 路径与扬声器条件不能混用。
 
