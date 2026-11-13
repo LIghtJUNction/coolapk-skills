@@ -67,6 +67,11 @@
 | OTA 分区提取 | [boot 镜像、内核替换示例与资源](skills/ota-boot-image-extraction/SKILL.md) |
 | 安卓界面行为 | [Activity 归属与动态壁纸兼容案例](skills/android-ui-behavior-cases/SKILL.md) |
 | 手机端侧 AI | [语言模型、生图跑测条件与案例](skills/android-on-device-ai-benchmarks/SKILL.md) |
+| Android APK 瘦身 | [扩展库、XZ 与加载壳](skills/android-apk-size-and-loaders/SKILL.md) |
+| Android 核心进程 | [SO 启动壳、IPC 与 VPN socket 保护](skills/android-native-core-ipc/SKILL.md) |
+| CMake 入门 | [最小项目与配置构建命令](skills/cmake-project-basics/SKILL.md) |
+| Windows LLVM | [CLion、LLVM MinGW 与格式化配置](skills/windows-llvm-mingw-clion/SKILL.md) |
+| 小米电池服务 | [历史扩容容量与服务入口](skills/xiaomi-battery-service-records/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
