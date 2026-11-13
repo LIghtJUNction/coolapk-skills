@@ -5,6 +5,8 @@
 | 分类 | 技能 |
 |---|---|
 | 安卓刷机、Root | [适配与恢复判断](skills/android-change-triage/SKILL.md) |
+| 安卓具体机型 | [机型与固件案例](skills/android-device-cases/SKILL.md) |
+| 路由器具体机型 | [型号与固件案例](skills/router-device-cases/SKILL.md) |
 | 安卓工具 | [无线调试排查](skills/android-debugging-triage/SKILL.md) |
 | 路由器、IPv6 | [网络变更排查](skills/network-change-triage/SKILL.md) |
 | 硬件数码 | [存储测试评估](skills/storage-benchmark-review/SKILL.md) |
