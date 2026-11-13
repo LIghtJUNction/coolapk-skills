@@ -4,6 +4,10 @@
 
 | 分类 | 技能 |
 |---|---|
+| MCP 开发工具 | [kamcp 安装、启动与客户端字段](skills/kamcp-mcp-setup/SKILL.md) |
+| 本地音乐播放器 | [SaltPlayer 版本差异与适配记录](skills/saltplayer-android-update-notes/SKILL.md) |
+| 笔记软件 | [椒盐笔记备份恢复变更与资源](skills/salt-notes-0320-update/SKILL.md) |
+| 主题与图标包 | [跨品牌版本、更新与资源](skills/android-theme-icon-pack-maintenance/SKILL.md) |
 | 路径检查与代码审查 | [真值契约、文件类型与 shell 边界](skills/path-existence-contracts/SKILL.md) |
 | 多系统实验机 | [ESXi、iKuai、Windows 与 Ubuntu 案例](skills/esxi-multi-guest-lab/SKILL.md) |
 | 电视软硬件 | [Redmi X75 桌面、WebView 与显示体验](skills/redmi-x75-tv-software-and-display/SKILL.md) |
@@ -51,6 +55,11 @@
 | LaTeX 排版 | [聊天文字逐句字号](skills/latex-chat-text-size-sequence/SKILL.md) |
 | 开源软件功能 | [HireFerry 接口与能力核查](skills/hireferry-feature-evidence-review/SKILL.md) |
 | 安卓应用异常 | [登录会话自动退出排查](skills/app-session-logout-module-triage/SKILL.md) |
+
+| 模块开发 | [Kam 项目、模板与构建钩子](skills/kam-module-workflow/SKILL.md) |
+| 模块管理 | [Kam 搜索、下载与安装](skills/kam-module-cli/SKILL.md) |
+| 模块签名 | [Kam 验签与历史信任链](skills/kam-signatures-and-trust/SKILL.md) |
+| 安卓 Linux | [ASL 与 Rurima 容器](skills/asl-rurima-containers/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
