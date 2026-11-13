@@ -86,6 +86,7 @@
 | 游戏开发 | [PEAK 地形射线扫描](skills/peak-terrain-raycast-case/SKILL.md)；模组资源、10米向下射线与遮挡局限 |
 | 手机摄影 | [大师模式、HEIF 与历史相机案例](skills/phone-camera-master-mode-cases/SKILL.md) |
 | Linux 文件系统 | [bees 的 Btrfs 去重机制与范围](skills/btrfs-bees-deduplication/SKILL.md) |
+| 手机与平板参数 | [小米/Redmi 历史发布记录](skills/xiaomi-redmi-historical-launch-specs/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
