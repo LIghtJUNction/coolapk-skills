@@ -83,3 +83,7 @@ kam config --global ui.language zh
 - kamcp 对应帖子提到的上文：<https://www.coolapk.com/feed/69234886>
 
 来源：<https://www.coolapk.com/feed/69234886>、<https://www.coolapk.com/feed/69243761>、<https://www.coolapk.com/feed/69250473>、<https://www.coolapk.com/feed/69269555>。外链页面内容未在本次资料中提供。
+
+## 仓库安装与更新保留配置
+
+[Termux 依赖、Git 源码安装与配置保留](references/source-install-and-config.md)补充后续帖中的依赖清单、仓库标识安装流程和 kamfw 文件覆盖行为。

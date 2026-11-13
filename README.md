@@ -80,13 +80,17 @@
 | LG G8 Windows | [24H2 部署、驱动与历史资源](skills/lg-g8-windows-24h2-case/SKILL.md) |
 | Thanox 情景规则 | [按应用事件启停 Google 框架](skills/thanox-google-framework-rule/SKILL.md) |
 | Root 模块编写 | [安装、启动阶段与旧模板边界](skills/android-root-module-authoring/SKILL.md) |
-| Android 音效 | [ViPER4Android 管理器与驱动](skills/viper4android-manager-driver/SKILL.md) | Ace2 历史安装、配置目录、资源与公开提取码 |
-| Linux 与 Android | [USB 权限与规则](skills/linux-android-usb-permissions/SKILL.md) | ADB/Fastboot 模式、udev、额外规则与故障归因 |
-| Android 自动化 | [模块定时任务](skills/android-cron-module-scheduling/SKILL.md) | UniCron 4.2 配置、刷新、路径与日志 |
-| 游戏开发 | [PEAK 地形射线扫描](skills/peak-terrain-raycast-case/SKILL.md) | 模组资源、10米向下射线与遮挡局限 |
+| Android 音效 | [ViPER4Android 管理器与驱动](skills/viper4android-manager-driver/SKILL.md)；Ace2 历史安装、配置目录、资源与公开提取码 |
+| Linux 与 Android | [USB 权限与规则](skills/linux-android-usb-permissions/SKILL.md)；ADB/Fastboot 模式、udev、额外规则与故障归因 |
+| Android 自动化 | [模块定时任务](skills/android-cron-module-scheduling/SKILL.md)；UniCron 4.2 配置、刷新、路径与日志 |
+| 游戏开发 | [PEAK 地形射线扫描](skills/peak-terrain-raycast-case/SKILL.md)；模组资源、10米向下射线与遮挡局限 |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
 采集数据、采集脚本与进度放在仓库外的本机私有目录。`.gitignore` 默认忽略其他内容，仅放行技能 Markdown 和本说明。提交前仍需检查暂存区；忽略规则不能排除已经被跟踪的文件。
 
 技能直接提供已整理的公开资源地址（下载分享页、项目页面）及公开分享提取码、分享访问密码和解压密码（原帖提供时），不依赖本机数据库或内部编号。原始采集内容、作者进度和账户凭据不公开；链接是否已检查、文件是否已校验分别注明。
+
+使用时先打开对应的 `SKILL.md`，再按需读取 `references/`；导入技能时复制整个技能目录，保持相对链接。
+
+本库原创整理文本采用 [MIT 许可证](LICENSE)。源项目代码片段及第三方资料保留各自许可，链接不代表重新授权。

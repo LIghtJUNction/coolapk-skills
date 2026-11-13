@@ -22,3 +22,8 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 
 - 一加 Ace2 的 OxygenOS 14 历史刷机路径，读取 [Ace2 案例](references/oneplus-ace-2-oxygenos14.md)，先处理缺失的固件、快照与分区条件。
 - LG G8 的 Pixel 安卓 14 历史资源，读取 [资源入口](references/lg-g8-pixel-android14.md)，未核验下载与安装。
+
+## NikoHyper OS3.0.315.0.WPBCNXM 移植版
+
+- 小米13/13 Pro/13 Ultra：区分 [Free Kalama](references/nikohyper-free-kalama-os3-315.md) 与 [Fast Kalama](references/nikohyper-fast-kalama-os3-315.md)，两帖标注2026-05-01补丁；Free作者评论给出了完整分享地址及公开提取码 `1145`。
+- 小米10/10 Pro/10 Ultra：[Fast Kona](references/nikohyper-fast-kona-os3-315.md) 标注2026-06-01补丁，不套用Kalama的内核/功能记录或分享链接。

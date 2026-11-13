@@ -49,3 +49,7 @@ MagicNet 使用 kam 构建，kamfw 提供可复用的 shell 函数以减少模�
 该版本说明支持 KSU/APatch，并明确称未维护 Magisk 支持；“Magisk 继续用以前的模块”指向旧方案，不表示这份 0.0.1 制品支持 Magisk。它与前文较晚版本的支持范围分开记录。原帖还称可点击 KernelSU 模块卡片进入 WebUI，没有给出下载 URL 或安装命令。
 
 [功能建议帖](https://www.coolapk.com/feed/61594643)当时考虑安装时选择默认界面/YACD、尝试集成 `sub_store`、增加订阅和自定义规则集合。这些都是计划，不是该帖证明已发布的功能。[原讨论入口](https://github.com/LIghtJUNction/RootManage-Module-Model/discussions)按来源保留；其仓库当前已归档，不能视作仍活跃的支持渠道。
+
+## 可复用的命令与配置
+
+[MagicNet 构建、TUN 路径与局域网代理](magicnet-operations.md)记录原帖实际命令、规则源码、8槽配置差异和发布包修复。源码安装与配置保留另见 [Kam 仓库安装](../../kam-module-cli/references/source-install-and-config.md)。
