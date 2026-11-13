@@ -75,6 +75,10 @@
 | Docker 配置分析 | [镜像源、网络规则与日志字段](skills/docker-daemon-comment-config/SKILL.md) |
 | NexusHyper ROM | [分版本机型、底包与下载入口](skills/nexushyper-rom-versions/SKILL.md) |
 | K100 Pro Recovery | [OrangeFox 解密声明与资源](skills/orangefox-k100-pro-case/SKILL.md) |
+| 帧感知调度 | [fas-rs 配置、模式与插件](skills/fas-rs-frame-aware-scheduling/SKILL.md) |
+| Rust UI 架构 | [Tessera 渲染管线与版本边界](skills/tessera-ui-architecture/SKILL.md) |
+| LG G8 Windows | [24H2 部署、驱动与历史资源](skills/lg-g8-windows-24h2-case/SKILL.md) |
+| Thanox 情景规则 | [按应用事件启停 Google 框架](skills/thanox-google-framework-rule/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 

@@ -67,3 +67,7 @@ magiskboot repack boot.img
 另一帖介绍 Ace 2 的后续内核计划：基于开源内核、按需要启用部分配置，并计划重点支持 Mountify 一类元模块。原帖用“ramdisk 侧注入、kernel 侧配置”说明自编译内核与 LKM 方案可以并存；这只是该帖的简化解释，不作为所有设备 boot/init_boot 镜像布局或 KernelSU 版本机制的通用描述。
 
 原帖关于 KernelSU v3 模式变化及未来支持的说法按历史背景和发布计划记录，没有给出此次内核的源码、构建产物、固件适用条件或刷写步骤，也没有提供 Mountify 下载地址，不能据此执行刷写或认定计划已经交付。来源：[Ace 2 内核计划](https://www.coolapk.com/feed/68964164)。
+
+## 镜像补丁与管理器应用
+
+[Root 方案切换问答](references/root-image-switching.md)区分镜像改动和管理器卸载，保留原帖思路及其缺失条件，不将简短答复当通用迁移教程。
