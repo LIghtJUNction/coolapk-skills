@@ -81,6 +81,9 @@
 | Thanox 情景规则 | [按应用事件启停 Google 框架](skills/thanox-google-framework-rule/SKILL.md) |
 | Root 模块编写 | [安装、启动阶段与旧模板边界](skills/android-root-module-authoring/SKILL.md) |
 | Android 音效 | [ViPER4Android 管理器与驱动](skills/viper4android-manager-driver/SKILL.md) | Ace2 历史安装、配置目录、资源与公开提取码 |
+| Linux 与 Android | [USB 权限与规则](skills/linux-android-usb-permissions/SKILL.md) | ADB/Fastboot 模式、udev、额外规则与故障归因 |
+| Android 自动化 | [模块定时任务](skills/android-cron-module-scheduling/SKILL.md) | UniCron 4.2 配置、刷新、路径与日志 |
+| 游戏开发 | [PEAK 地形射线扫描](skills/peak-terrain-raycast-case/SKILL.md) | 模组资源、10米向下射线与遮挡局限 |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 

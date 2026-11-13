@@ -40,3 +40,7 @@ description: 查询 LG G8 Windows 11 24H2 历史部署步骤、DISM++ 与离线�
 只读取了已存储的热门第一页、最新前两页及返回回复，不是完整评论历史；图片未读。小米平板 5/5 Pro、骁龙 870 驱动支持等说法仅作为当时评论记录，不作为今天的兼容列表。
 
 来源：[酷安原帖](https://www.coolapk.com/feed/56500590)。
+
+## 更早的 22H2 资料
+
+[Windows 11 22H2 / Mindows v8 历史记录](references/windows-22h2-history.md)恢复了原帖混淆的分享、支持资料和驱动链接，保留旧帖大写 `NICE`，并将其与 24H2 的小写码及驱动流程分开。

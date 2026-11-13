@@ -112,3 +112,7 @@ nvim
 - AstroNvim 模板：<https://github.com/AstroNvim/template>
 
 来源：<https://www.coolapk.com/feed/69054461>、<https://www.coolapk.com/feed/69083921>、<https://www.coolapk.com/feed/69104127>、<https://www.coolapk.com/feed/69105650>。帖子中的图片未读取。
+
+## 较早的终端环境与更新
+
+[ASL 早期环境说明](references/early-terminal-environment.md)记录默认 Android/Termux 环境、手动部署 GNU/Linux 的区别、7个别名、终端配置、旧下载及 SHA256，以及 Termux/zsh 报错的修复自述。
