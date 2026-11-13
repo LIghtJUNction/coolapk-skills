@@ -84,6 +84,8 @@
 | Linux 与 Android | [USB 权限与规则](skills/linux-android-usb-permissions/SKILL.md)；ADB/Fastboot 模式、udev、额外规则与故障归因 |
 | Android 自动化 | [模块定时任务](skills/android-cron-module-scheduling/SKILL.md)；UniCron 4.2 配置、刷新、路径与日志 |
 | 游戏开发 | [PEAK 地形射线扫描](skills/peak-terrain-raycast-case/SKILL.md)；模组资源、10米向下射线与遮挡局限 |
+| 手机摄影 | [大师模式、HEIF 与历史相机案例](skills/phone-camera-master-mode-cases/SKILL.md) |
+| Linux 文件系统 | [bees 的 Btrfs 去重机制与范围](skills/btrfs-bees-deduplication/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
