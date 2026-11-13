@@ -60,3 +60,10 @@ magiskboot repack boot.img
 - [OnePlus kernel manifest](https://github.com/OnePlusOSS/kernel_manifest/)
 
 来源：[资源分享帖](https://www.coolapk.com/feed/65499121)。上游命令文档核对日期：2026-11-14；未运行提取、替换内核、刷写或构建操作。
+
+
+## 内核配置与 LKM 的原帖计划
+
+另一帖介绍 Ace 2 的后续内核计划：基于开源内核、按需要启用部分配置，并计划重点支持 Mountify 一类元模块。原帖用“ramdisk 侧注入、kernel 侧配置”说明自编译内核与 LKM 方案可以并存；这只是该帖的简化解释，不作为所有设备 boot/init_boot 镜像布局或 KernelSU 版本机制的通用描述。
+
+原帖关于 KernelSU v3 模式变化及未来支持的说法按历史背景和发布计划记录，没有给出此次内核的源码、构建产物、固件适用条件或刷写步骤，也没有提供 Mountify 下载地址，不能据此执行刷写或认定计划已经交付。来源：[Ace 2 内核计划](https://www.coolapk.com/feed/68964164)。

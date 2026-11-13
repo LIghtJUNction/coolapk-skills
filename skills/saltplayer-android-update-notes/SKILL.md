@@ -48,3 +48,10 @@ description: "SaltPlayer Android 版本变更参考"
 项目相关站点：[moriafly.com](https://moriafly.com)。较早的站点更新帖当时称软件页面尚未实现；本次没有核对该站今天是否提供安装包，不把首页标作 APK 直链。
 
 补充来源：[维护经验](https://www.coolapk.com/feed/74624911)、[网站更新](https://www.coolapk.com/feed/60892106)、[iOS 发布](https://www.coolapk.com/feed/74833056)、[iOS 1.0.1 版本上下文](https://www.coolapk.com/feed/74870298)。整理日期：2026-11-14。
+
+
+## 微软商店版本线（SPW）
+
+帖文称 SaltPlayer（SPW）1.16.0 已上线微软商店；1.16.1 在发帖当天计划再次提交审核，状态为待提交审核，而非已上线。帖文没有提供商店页面链接，也没有说明图片中的其他信息。
+
+这条商店记录与本页 Android 12.x、iOS 1.x 版本分别看待，不将不同平台的版本号横向比较。来源：[微软商店发布状态原帖](https://www.coolapk.com/feed/73091523)。
