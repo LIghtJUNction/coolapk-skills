@@ -4,6 +4,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| Root 模块知识 | [分类、配置参数与公开资源](skills/android-root-module-catalog/SKILL.md) |
 | 安卓刷机、Root | [适配与恢复判断](skills/android-change-triage/SKILL.md) |
 | 浏览器安卓工具 | [WebUSB 能力与边界](skills/android-webusb-device-tool/SKILL.md) |
 | ColorOS 主题 | [日期与星期布局](skills/coloros16-date-layout/SKILL.md) |
