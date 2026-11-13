@@ -72,6 +72,9 @@
 | CMake 入门 | [最小项目与配置构建命令](skills/cmake-project-basics/SKILL.md) |
 | Windows LLVM | [CLion、LLVM MinGW 与格式化配置](skills/windows-llvm-mingw-clion/SKILL.md) |
 | 小米电池服务 | [历史扩容容量与服务入口](skills/xiaomi-battery-service-records/SKILL.md) |
+| Docker 配置分析 | [镜像源、网络规则与日志字段](skills/docker-daemon-comment-config/SKILL.md) |
+| NexusHyper ROM | [分版本机型、底包与下载入口](skills/nexushyper-rom-versions/SKILL.md) |
+| K100 Pro Recovery | [OrangeFox 解密声明与资源](skills/orangefox-k100-pro-case/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
