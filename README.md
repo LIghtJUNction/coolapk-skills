@@ -4,6 +4,10 @@
 
 | 分类 | 技能 |
 |---|---|
+| Termux 与 GPU 容器 | [Debian LXC、X11、Adreno 透传与配置纠错](skills/termux-lxc-debian-adreno/SKILL.md) |
+| 路由器 UBI 安装 | [W1701K：TTL、TFTP 与完整命令](skills/w1701k-ttl-ubi-flashing/SKILL.md) |
+| 安卓手表 | [ADB、OMS、保活参数与错误码](skills/android-watch-adb-oms-toolbox/SKILL.md) |
+| proot 与 Root | [守护桥接原理、路径与实现缺口](skills/proot-root-daemon-bridge/SKILL.md) |
 | Root 模块知识 | [分类、配置参数与公开资源](skills/android-root-module-catalog/SKILL.md) |
 | 安卓刷机、Root | [适配与恢复判断](skills/android-change-triage/SKILL.md) |
 | 浏览器安卓工具 | [WebUSB 能力与边界](skills/android-webusb-device-tool/SKILL.md) |
