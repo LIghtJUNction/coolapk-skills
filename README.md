@@ -18,6 +18,16 @@
 | 安卓应用隔离 | [设备管理身份核对](skills/android-device-policy-review/SKILL.md) |
 | 电脑装机 | [分组件验收](skills/pc-acceptance-triage/SKILL.md) |
 | Linux、Termux、容器 | [可复现性与性能证据](skills/mobile-linux-evidence/SKILL.md) |
+| OPPO、一加、真我固件 | [机型、版本与资源索引](skills/oplus-coloros-oxygenos-firmware-resource-reference/SKILL.md) |
+| 安卓自动化 | [虚拟副屏后台交互](skills/virtual-secondary-display-background-interaction/SKILL.md) |
+| 安卓车机 | [实体控件映射](skills/android-car-head-unit-physical-controls/SKILL.md) |
+| 车机改装 | [组件、已实现功能与计划](skills/budget-android-head-unit-retrofit/SKILL.md) |
+| 车机软件 | [功能与下载入口核对](skills/car-head-unit-features-and-download-review/SKILL.md) |
+| 折叠屏交互 | [铰链角度联动](skills/foldable-hinge-angle-interactions/SKILL.md) |
+| 跨地区 ROM | [语言与组件适配](skills/china-rom-language-component-adaptation/SKILL.md) |
+| 手机摄影改装 | [旋转输入方案](skills/phone-camera-rotary-controls/SKILL.md) |
+| 跨系统移植 | [UniXNU 阶段进展核查](skills/unixnu-android-device-port-progress/SKILL.md) |
+| 硬件设计 | [拓展坞接口与散热取舍](skills/dock-design-tradeoffs/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
