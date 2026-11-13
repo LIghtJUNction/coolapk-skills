@@ -4,6 +4,14 @@
 
 | 分类 | 技能 |
 |---|---|
+| 平板 Linux | [Fedora KDE 黑屏与 Vulkan 组件](skills/fedora-nabu-kde-vulkan-recovery/SKILL.md) |
+| 内核构建 | [ARM64 主机构建 MTK 内核](skills/arm64-mtk-kernel-host-tools/SKILL.md) |
+| Termux 博客 | [Hexo 初始化、本地预览与部署](skills/termux-hexo-blog-setup/SKILL.md) |
+| 随身 Wi-Fi | [中兴 U10L/MF936 客户端模式](skills/zte-u10l-mf936-wifi-client/SKILL.md) |
+| 智能家居 | [语音桥接追觅清扫场景](skills/smart-home-acoustic-command-bridge/SKILL.md) |
+| 网络基础 | [hosts、正向代理与反向代理](skills/hosts-forward-reverse-proxy-basics/SKILL.md) |
+| 手机 Linux 游戏 | [DroidSpaces 输入、Decky 与会话排障](skills/droidspaces-steamos-arm64-reference/SKILL.md) |
+| Android 账户 | [Accounts、Shizuku 与 Hail](skills/shizuku-accounts-hail-management/SKILL.md) |
 | HyperOS 移植 | [按分区排查、具体参数与互斥方案](skills/hyperos-rom-port-debugging/SKILL.md) |
 | MCP 开发工具 | [kamcp 安装、启动与客户端字段](skills/kamcp-mcp-setup/SKILL.md) |
 | 本地音乐播放器 | [SaltPlayer 版本差异与适配记录](skills/saltplayer-android-update-notes/SKILL.md) |
