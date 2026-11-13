@@ -76,3 +76,9 @@ description: "Android 跨品牌主题与图标包适配维护参考"
 ## 评论中的具体适配案例
 
 [HyperOS 3 状态栏与小部件案例](references/hyperos3-comment-cases.md)补充图标格数、音乐组件临时处理、重新放置时钟小部件、控制中心图标语义与启动类变化。审核限制属于当时作者经历，不作为现行官方规则。
+
+
+## 其他主题的版本与平台差异
+
+- [完美图标 v3.0–v3.2](references/perfect-icons-history.md)：小米主题商店搜索入口、重绘范围与 v4.0 当时的计划。
+- [Eleven、陆识、洪、X49](references/eleven-lushi-hong-x49-history.md)：图标适配数量、鸿蒙上架与 Flyme 上传状态；平台版本和项目版本分别记录。

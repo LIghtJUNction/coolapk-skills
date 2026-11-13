@@ -19,3 +19,8 @@ description: "记录帖子提及的机型、功能组合和 GitHub 工作流资�
 ## 编译与历史排障
 
 [内核编译、清单选择与 SUSFS WebUI](references/build-and-history.md)保留 repo 同步、构建脚本、common 分支差异、历史构建配置和具体路径。损坏的原命令与经过仓库回读的修正版分开列出；未编译、刷入或验证设备。
+
+
+## 源码版本声明的核对
+
+[版本号、上游提交与构建证据](references/source-version-provenance.md)说明修改Makefile、引入功能、启用配置和实际运行是不同证据；该通用区别不扩大本技能的机型适配清单。

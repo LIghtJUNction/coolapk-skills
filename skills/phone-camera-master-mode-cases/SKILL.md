@@ -61,3 +61,8 @@ HEIF 是存储格式；JPG Max 是原帖使用的模式名称。评论中有人�
 ## RAW 取舍中的体积自述
 
 对为何不用 RAWMax 的提问，作者在评论中以体积为理由，称有约十倍差别，并说512GB不够拍；没有提供成对文件或测试条件。这是其工作流和存储感受，不是所有 RAW/HEIF 文件的固定倍率或容量门槛。
+
+
+## EV、RAW与负片风格的来源边界
+
+[Find X7 Ultra与GR IIIx的曝光、RAW及调色记录](references/find-x7-gr3x-exposure-color.md)保留EV回调、Lightroom观察与负片风格描述；明确GR IIIx等效40mm、不同场景不可据此作传感器比较，且缺少可复现调色参数。

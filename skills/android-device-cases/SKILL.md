@@ -27,3 +27,8 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 
 - 小米13/13 Pro/13 Ultra：区分 [Free Kalama](references/nikohyper-free-kalama-os3-315.md) 与 [Fast Kalama](references/nikohyper-fast-kalama-os3-315.md)，两帖标注2026-05-01补丁；Free作者评论给出了完整分享地址及公开提取码 `1145`。
 - 小米10/10 Pro/10 Ultra：[Fast Kona](references/nikohyper-fast-kona-os3-315.md) 标注2026-06-01补丁，不套用Kalama的内核/功能记录或分享链接。
+
+
+## 历史硬件规格
+
+[小米2022机型规格](references/xiaomi-2022-specifications.md)补充Civi2、K50至尊版、MIX Fold2、12S/Pro/Ultra的原帖明确字段与历史起售价；不以宣传词代替测量，也不补填原帖缺失配置。

@@ -25,3 +25,8 @@ description: 区分手机运存改件、电池更换与板级返修案例中的�
 整理建议：每次维修分别记录原状态、物料身份、系统读数、功能症状，以及所用方法和观察结果。将仪表读数与实际功能验证分开记录；保留无法核验的项目和证据缺口。
 
 来源：[案例62959033](https://www.coolapk.com/feed/62959033)、[案例62887848](https://www.coolapk.com/feed/62887848)、[案例74109194](https://www.coolapk.com/feed/74109194)、[案例73089303](https://www.coolapk.com/feed/73089303)。全部评论未读，也未执行实体维修或验证零件。
+
+
+## 更多改件目标与验收缺口
+
+[六条扩容、存储改用与电池更换记录](references/capacity-and-component-claims.md)保留iPhone Air、一加Ace竞速版、小米17ProMax、Mate40Pro系列及Pura70Pro的原帖目标值；不把寿命显示100%、恢复气密或缺少单位的12w写成实测结论。

@@ -4,6 +4,8 @@
 
 | 分类 | 技能 |
 |---|---|
+| 小米 ROM | [Mitsuha框架、包名与版本案例](skills/mitsuha-framework-rom-cases/SKILL.md) |
+| 耳机测量 | [降噪、频响、佩戴与调音案例](skills/earphone-measurement-and-listening-cases/SKILL.md) |
 | CPU 能效 | [频率、功率与任务能量](skills/cpu-frequency-energy-comparison/SKILL.md) |
 | Android 后台 | [缓存应用冻结与默认配置](skills/android-cached-app-freezer/SKILL.md) |
 | 一加 ROM | [KaleidoscopeOS Alpha2与后续阶段](skills/kaleidoscopeos-op8-alpha2-history/SKILL.md) |
