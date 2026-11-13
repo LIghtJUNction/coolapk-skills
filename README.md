@@ -104,6 +104,7 @@
 | 技术案例 | [如何解读内核中的 freezer 符号](skills/interpreting-freezer-symbols/SKILL.md) |
 | 技术案例 | [用内核 uprobe 观察应用帧生成时间](skills/libhwui-frame-generation-timing/SKILL.md) |
 | 技术案例 | [在截图与录屏中排除 Oplus 小窗](skills/oplus-hide-zoom-window/SKILL.md) |
+| 硬件维修 | [改件与返修案例的验收记录](skills/phone-repair-case-records/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
