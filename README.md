@@ -65,6 +65,7 @@
 | 浮动工具主题 | [FV 炫蓝主题版本与资源](skills/fv-floating-ball-theme/SKILL.md) |
 | 云备份与相册 | [备份选择与删除回收行为](skills/coloros-cloud-gallery-backup/SKILL.md) |
 | OTA 分区提取 | [boot 镜像、内核替换示例与资源](skills/ota-boot-image-extraction/SKILL.md) |
+| 安卓界面行为 | [Activity 归属与动态壁纸兼容案例](skills/android-ui-behavior-cases/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
