@@ -29,3 +29,8 @@ description: 按设备条件、分区和故障分析 HyperOS 3 移植记录，�
 6. 区分 APK 最低签名方案版本和完整签名、证书验证。原帖的 `getMinimumSignatureSchemeVersionForTargetSdk` 修改不能称为取消全部校验，详见联发科记录中的 AOSP 对照。
 
 两份参考包含具体键值、路径、方法、失败现象和资源缺口；无需私有采集编号或数据库即可阅读。
+
+
+## 补丁工程的当前文档
+
+另读了 OnePlus15-Port-Script 的当前 README，整理为[补丁工作目录、元数据与失败语义](references/patch-workspace.md)。它描述显式选择模块、底包与原包分区映射、身份快照和单补丁回退；不能反推旧版 ROM 包已包含全部当前模块。

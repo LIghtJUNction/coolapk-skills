@@ -4,6 +4,13 @@
 
 | 分类 | 技能 |
 |---|---|
+| 平板 ROM | [enuma LineageOS 分版本文件与流程](skills/enuma-lineageos-rom-versions/SKILL.md) |
+| 魅族 ROM | [魅族20 Pro LineageOS24](skills/meizu-20-pro-lineageos24-case/SKILL.md) |
+| 小米 ROM | [小米14 ColorOS移植记录](skills/xiaomi14-houji-coloros-port/SKILL.md) |
+| DSU 移植 | [一加15 HyperOS4 DSU V2](skills/oneplus15-hyperos4-dsu-case/SKILL.md) |
+| 笔记本恢复 | [R9000P2021恢复镜像与密码](skills/legion-r9000p-2021-recovery-resource/SKILL.md) |
+| Android 日志 | [Droidlog崩溃溯源与下载](skills/droidlog-android-crash-log-collection/SKILL.md) |
+| 手机 APK 构建 | [yo_build纯手机构建编辑器](skills/yo-build-mobile-java-apk-editor/SKILL.md) |
 | 平板 Linux | [Fedora KDE 黑屏与 Vulkan 组件](skills/fedora-nabu-kde-vulkan-recovery/SKILL.md) |
 | 内核构建 | [ARM64 主机构建 MTK 内核](skills/arm64-mtk-kernel-host-tools/SKILL.md) |
 | Termux 博客 | [Hexo 初始化、本地预览与部署](skills/termux-hexo-blog-setup/SKILL.md) |
