@@ -4,6 +4,15 @@
 
 | 分类 | 技能 |
 |---|---|
+| CPU 能效 | [频率、功率与任务能量](skills/cpu-frequency-energy-comparison/SKILL.md) |
+| Android 后台 | [缓存应用冻结与默认配置](skills/android-cached-app-freezer/SKILL.md) |
+| 一加 ROM | [KaleidoscopeOS Alpha2与后续阶段](skills/kaleidoscopeos-op8-alpha2-history/SKILL.md) |
+| Android 工具 | [Cmd2GUI v6与提取码](skills/cmd2gui-android-command-ui/SKILL.md) |
+| 帧时间测量 | [SurfaceFlinger、提交观测与Binder](skills/android-frame-interval-measurement/SKILL.md) |
+| 旧游戏运行 | [Flash单机包、启动文件与存档](skills/flash-offline-game-package-notes/SKILL.md) |
+| 性能测量工具 | [帧率计v11与公开资源](skills/android-frame-rate-counter-v11/SKILL.md) |
+| 游戏分辨率 | [CFM选项与长宽比复算](skills/cfm-resolution-measurement-case/SKILL.md) |
+| 视觉帧率 | [trdrop视频帧差异分析](skills/video-visual-frame-rate-analysis/SKILL.md) |
 | 平板 ROM | [enuma LineageOS 分版本文件与流程](skills/enuma-lineageos-rom-versions/SKILL.md) |
 | 魅族 ROM | [魅族20 Pro LineageOS24](skills/meizu-20-pro-lineageos24-case/SKILL.md) |
 | 小米 ROM | [小米14 ColorOS移植记录](skills/xiaomi14-houji-coloros-port/SKILL.md) |
