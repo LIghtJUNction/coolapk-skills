@@ -61,6 +61,9 @@
 | 安卓 Linux | [ASL 与 Rurima 容器](skills/asl-rurima-containers/SKILL.md) |
 | 家庭服务器 | [J1900 OpenWrt、WebDAV、智能家居与子网路由](skills/openwrt-home-server-setup/SKILL.md) |
 | 局域网打印 | [Windows USB 打印机桥接与逐层排障](skills/windows-network-printing/SKILL.md) |
+| 跨设备媒体 | [KDE Connect 配对与 ColorOS 流体云](skills/kde-connect-android-media-control/SKILL.md) |
+| 浮动工具主题 | [FV 炫蓝主题版本与资源](skills/fv-floating-ball-theme/SKILL.md) |
+| 云备份与相册 | [备份选择与删除回收行为](skills/coloros-cloud-gallery-backup/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 

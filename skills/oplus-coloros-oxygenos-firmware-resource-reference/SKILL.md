@@ -102,3 +102,5 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 整理日期：2026-11-13。版本与资源对应关系已按原帖锚点上下文复核；文件内容及实机适配未验证。
 
 补充索引：[更多机型、版本与资源](references/version-supplement-02.md)。
+
+补充索引：[ColorOS 17 全量包、Ace 3 与 Find X7 Ultra 降级资源](references/version-supplement-03.md)。
