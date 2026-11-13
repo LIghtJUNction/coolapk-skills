@@ -18,3 +18,9 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 ## 管理工具的兼容记录
 
 [爱玩机工具箱更新与 Android 17 启动故障](references/aiwanji-update.md)单独记录管理器行为，不与模块本身的兼容性混淆。
+
+## 完整性检查的历史资料
+
+[TrickyStore 与检查工具的历史记录](references/attestation-history.md)分别保留源码/构建入口、当时故障报告与 TEE 观察的证据限度，不把工具读数当作硬件修复证明。
+
+[APatch Android 14 故障引用](references/apatch-android14-report.md)将酷安内核信息与上游 issue 的一加 6T 环境分开，保留关联资料和未读范围。

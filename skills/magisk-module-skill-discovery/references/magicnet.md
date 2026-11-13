@@ -41,3 +41,11 @@ MagicNet 使用 kam 构建，kamfw 提供可复用的 shell 函数以减少模�
 项目与技能入口见 [模块开发资源](../SKILL.md)。原帖没有披露 Tailscale 冲突、热点修复或黑名单同步的具体配置，因此本文保留问题与报告结果，不伪造操作方案。
 
 来源：[MagicNet-v1.1 原帖](https://www.coolapk.com/feed/72149110)。整理日期：2026-11-13；未做实机或外链实现验收。
+
+## 更早的 0.0.1 记录与后续建议
+
+[0.0.1 原帖](https://www.coolapk.com/feed/59878661)记录：内核二进制安排在 `/system/bin/`，取消原帖写作 `server.d` 的通用脚本，以及模块目录之外另建目录的做法；还称解决了关闭后只能重启再开启的问题。原帖没有提供具体脚本、挂载方式或完整路径，不能把 `server.d` 默默改成 `service.d`，也不能由该描述推定直接写入物理系统分区。
+
+该版本说明支持 KSU/APatch，并明确称未维护 Magisk 支持；“Magisk 继续用以前的模块”指向旧方案，不表示这份 0.0.1 制品支持 Magisk。它与前文较晚版本的支持范围分开记录。原帖还称可点击 KernelSU 模块卡片进入 WebUI，没有给出下载 URL 或安装命令。
+
+[功能建议帖](https://www.coolapk.com/feed/61594643)当时考虑安装时选择默认界面/YACD、尝试集成 `sub_store`、增加订阅和自定义规则集合。这些都是计划，不是该帖证明已发布的功能。[原讨论入口](https://github.com/LIghtJUNction/RootManage-Module-Model/discussions)按来源保留；其仓库当前已归档，不能视作仍活跃的支持渠道。

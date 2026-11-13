@@ -79,6 +79,8 @@
 | Rust UI 架构 | [Tessera 渲染管线与版本边界](skills/tessera-ui-architecture/SKILL.md) |
 | LG G8 Windows | [24H2 部署、驱动与历史资源](skills/lg-g8-windows-24h2-case/SKILL.md) |
 | Thanox 情景规则 | [按应用事件启停 Google 框架](skills/thanox-google-framework-rule/SKILL.md) |
+| Root 模块编写 | [安装、启动阶段与旧模板边界](skills/android-root-module-authoring/SKILL.md) |
+| Android 音效 | [ViPER4Android 管理器与驱动](skills/viper4android-manager-driver/SKILL.md) | Ace2 历史安装、配置目录、资源与公开提取码 |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
