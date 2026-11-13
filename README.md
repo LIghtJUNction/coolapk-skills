@@ -5,6 +5,10 @@
 | 分类 | 技能 |
 |---|---|
 | 安卓刷机、Root | [适配与恢复判断](skills/android-change-triage/SKILL.md) |
+| 浏览器安卓工具 | [WebUSB 能力与边界](skills/android-webusb-device-tool/SKILL.md) |
+| ColorOS 主题 | [日期与星期布局](skills/coloros16-date-layout/SKILL.md) |
+| 安卓通知 | [通知样式与版本差异](skills/android-notification-style-module/SKILL.md) |
+| 设备散热 | [Root 风扇控制与适配限制](skills/rooted-phone-fan-control/SKILL.md) |
 | 安卓具体机型 | [机型与固件案例](skills/android-device-cases/SKILL.md) |
 | 路由器具体机型 | [型号与固件案例](skills/router-device-cases/SKILL.md) |
 | 安卓工具 | [无线调试排查](skills/android-debugging-triage/SKILL.md) |
@@ -18,3 +22,5 @@
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
 采集数据、采集脚本与进度放在仓库外的本机私有目录。`.gitignore` 默认忽略其他内容，仅放行技能 Markdown 和本说明。提交前仍需检查暂存区；忽略规则不能排除已经被跟踪的文件。
+
+部分技能引用 `R-` 开头的私有资源标识。原始下载地址、提取信息和作者采集进度不随公开库分发；标识只供本机私有资源清单核对，不能代替文件校验。
