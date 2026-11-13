@@ -4,6 +4,9 @@
 
 | 分类 | 技能 |
 |---|---|
+| 路径检查与代码审查 | [真值契约、文件类型与 shell 边界](skills/path-existence-contracts/SKILL.md) |
+| 多系统实验机 | [ESXi、iKuai、Windows 与 Ubuntu 案例](skills/esxi-multi-guest-lab/SKILL.md) |
+| 电视软硬件 | [Redmi X75 桌面、WebView 与显示体验](skills/redmi-x75-tv-software-and-display/SKILL.md) |
 | 静态网页部署 | [PageDrop 文件上传与 GitHub Pages 流程](skills/pagedrop-static-site-deployment/SKILL.md) |
 | 安卓原生 CLI | [MT 终端 Kimi 运行时与脚本资源](skills/mt-terminal-kimi-native-runtime/SKILL.md) |
 | 安卓应用编译 | [AOT 编译流程、空间与残留包排查](skills/android-aot-compilation-case/SKILL.md) |
