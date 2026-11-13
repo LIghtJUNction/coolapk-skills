@@ -33,3 +33,7 @@ description: 从 Root 模块历史模板学习安装脚本、架构判断、管�
 ## 术语
 
 [LKM、GKI、KMI 与目录含义](references/terminology.md)保留可核对的技术术语，排除未证实的命名起源。
+
+## 安装结果与误执行案例
+
+[安装结果验证与脚本执行记录](references/install-verification.md)区分日志提示、模块识别和实际功能；[历史模板迁移](../legacy-magisk-template-migration/SKILL.md)另列旧接口、公开下载和兼容边界。

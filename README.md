@@ -105,6 +105,8 @@
 | 技术案例 | [用内核 uprobe 观察应用帧生成时间](skills/libhwui-frame-generation-timing/SKILL.md) |
 | 技术案例 | [在截图与录屏中排除 Oplus 小窗](skills/oplus-hide-zoom-window/SKILL.md) |
 | 硬件维修 | [改件与返修案例的验收记录](skills/phone-repair-case-records/SKILL.md) |
+| 模块开发 | [历史模板、下载与接口迁移](skills/legacy-magisk-template-migration/SKILL.md) |
+| 软件排错 | [通过版本时间线定位回归](skills/regression-localization-from-delayed-feedback/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
