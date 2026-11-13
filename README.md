@@ -4,6 +4,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| HyperOS 移植 | [按分区排查、具体参数与互斥方案](skills/hyperos-rom-port-debugging/SKILL.md) |
 | MCP 开发工具 | [kamcp 安装、启动与客户端字段](skills/kamcp-mcp-setup/SKILL.md) |
 | 本地音乐播放器 | [SaltPlayer 版本差异与适配记录](skills/saltplayer-android-update-notes/SKILL.md) |
 | 笔记软件 | [椒盐笔记备份恢复变更与资源](skills/salt-notes-0320-update/SKILL.md) |
