@@ -11,60 +11,60 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 
 ## 资源索引
 
-下表列出输入资料明确关联到的机型与版本。云盘链接只作为帖子所给的资源入口；未获取文件，不能据此确认文件内容、包内版本、完整性或可访问性。表中 R- 标识对应本机私有资源清单，不随公开库分发。
+下表按机型、完整版本和包类型直接列出分享地址及提取码。先核对型号代码、地区后缀和版本，再打开对应的下载页面；有多个网盘时可选择其中一个。链接是作者提供的分享入口，文件内容、完整性和实际刷写适配尚未校验。
 
 | 机型与型号 | 帖子标注版本 | 包类型／条件 | 资源 |
 |---|---|---|---|
-| OPPO A6v（PLT130） | ColorOS PLT130_16.0.5.1000(CN01) C.54 | 降级包；清数据 | R-77cda7ecb9cc2501、R-7cdce18a818a1cb8 |
-| OPPO Find N2（PGU110） | ColorOS PGU110_16.0.5.1300(CN01) H.21 | 降级包；清数据 | R-68a6defdbad69a33、R-7cc388e1803bfb74 |
-| OPPO Find N3（PHN110） | ColorOS PHN110_16.0.5.1201(CN01) H.22 | 降级包；清数据 | R-d6f88e55fbd207ab、R-7aef1c26f9c7aa8e |
-| OPPO Find N5（PKH110） | ColorOS PKH110_16.0.9.400(CN01) C.95 | 降级包；清数据 | R-abdebe846aefad71、R-1d6e7fc4f8233fb8 |
-| OPPO Find N6（PLP110） | ColorOS PLP110_16.0.9.400(CN01) A.39 | 降级包；清数据 | R-7987dd349193d707、R-f70f0675d359dc8a |
-| OPPO Find X7（PHZ110） | ColorOS PHZ110_16.0.10.500(CN01) F.35 | 降级包；清数据 | R-5c90069b06aee051、R-610b53f24bc57390 |
-| OPPO Find X8（PKB110） | ColorOS PKB110_16.0.9.400(CN01) C.97 | 降级包；清数据 | R-c0f9d872f4a9365c、R-46facec8f5b85f8e |
-| OPPO Find X8 Pro（PKC110） | ColorOS PKC110_16.0.9.402(CN01) C.78 | 降级包；清数据 | R-6b667d6ff16a9dd2、R-1b2205a18ec27848、R-56ac7b0f888bb6b8 |
-| OPPO Find X8 Ultra（PKJ110） | ColorOS PKJ110_16.0.9.401(CN01) C.72 | 降级包；清数据 | R-24cff4110e10bca5、R-25335a309faa93c6、R-be0d63c5b30f3823 |
-| OPPO Find X8 Ultra 卫星通信版（PKU110） | ColorOS PKU110_16.0.9.401(CN01) C.72 | 降级包；清数据 | R-a679e7fa74e239ef、R-f6b9c5b0da82703f |
-| OPPO Find X9（PLJ110） | ColorOS PLJ110_16.0.9.401(CN01) A.14 | 降级包；清数据 | R-2852f595f5245230、R-29382cbb2ae783ff |
-| OPPO Find X9 Pro（PLG110） | PLG110_16.0.8.301(CN01) A.13 | 降级包；清数据 | R-462bd86555918934、R-ebb8ddc5c93284d0、R-df42760d20085c73 |
-| OPPO Find X9 Ultra（PMA110） | ColorOS PMA110_16.0.8.306(CN01) A.55 | 降级包；清数据 | R-8e1692e4599102b6、R-a4afbec0189ff1ea、R-36f066c51fdc889f |
-| OPPO Find X9 Ultra 卫星通信版（PMA120） | ColorOS PMA120_16.0.8.306(CN01) A.55 | 降级包；清数据 | R-354bd2f4109d7a74、R-ea95556641bc74a9、R-43e60e6ae5d1e819 |
-| OPPO Find X9s Pro（PME110） | ColorOS PME110_16.0.9.402(CN01) A.59 | 降级包；清数据 | R-a86b83fb554cc0ae、R-81072ec22c6ec9a3、R-f0cf5dc41ae8f19e |
-| OPPO Pad 5 Pro（OPD2511） | ColorOS OPD2511_16.0.9.401(CN01) A.32 | 降级包；清数据 | R-46cf4c0bba5dfef0、R-9d829828c4f517c6 |
-| OPPO Pad Mini（OPD2515） | ColorOS OPD2515_16.0.8.310(CN01) A.32 | 降级包；清数据 | R-aa38aed8e3003f66、R-d24b873feb36997f |
-| 真我 GT5 Pro（RMX3888） | RealmeUI RMX3888_16.0.10.500(CN01) F.35 | 降级包；清数据 | R-619062a1e5b4b28a、R-11fceba411c7b517 |
-| 真我 GT6（RMX3800） | RealmeUI RMX3800_16.0.10.510(CN01) F.34 | 降级包；清数据 | R-2da3a1144854f397、R-2a67d7308e1eca66、R-63339fc2da38ba7d |
-| 真我 GT7（RMX6688） | RealmeUI RMX6688_16.0.8.301(CN01) C.56 | 降级包；清数据 | R-c7dd73a541265f0d、R-5a5477c0e50e3561 |
-| 真我 GT7 Pro（RMX5010） | RealmeUI RMX5010_16.0.8.300(CN01) F.65 | 降级包；清数据 | R-37458f97e9b99e18、R-2262458724e6af17 |
-| 真我 GT7 Pro 竞速版（RMX5090） | RealmeUI RMX5090_16.0.8.300(CN01) C.18 | 降级包；清数据 | R-0b4eb88558cc7614、R-49d74a7da029a890、R-ea6312827b9dde90 |
-| 真我 GT8（RMX6699） | RealmeUI RMX6699_16.0.8.300(CN01) A.72 | 降级包；清数据 | R-172ef4c5e32f9abc、R-90a67292b5136341、R-3da353aed145575e |
-| 真我 GT8 Pro（RMX5200） | RealmeUI RMX5200_16.0.10.501(CN01) A.73 | 降级包；清数据 | R-4e816758c4b6277f、R-cf1eca4f6e81dbf7、R-b2190fc8d9730edc |
-| 真我 GT8 Pro（RMX5200） | RealmeUI RMX5200_16.0.9.402(CN01) A.71 | 降级包；清数据 | R-d1cdc6287999f6c4、R-be869b310e88a282、R-22f5732a1a0b95c4 |
-| 真我 Neo7（RMX5060） | RealmeUI RMX5060_16.0.9.400(CN01) C.48 | 降级包；每种约 11.01 GB，共 2 包；清数据 | R-85a260295274c278、R-e1cbd14320088331、R-195049d672ae0d75 |
-| 真我 Neo7 SE（RMX5080） | RealmeUI RMX5080_16.0.8.301(CN01) C.54 | 降级包；清数据 | R-21e201f6d82f5475、R-ec16c8390b055e1f、R-b4b985a01992888d |
-| 真我 Neo7 Turbo（RMX5062） | RealmeUI RMX5062_16.0.9.400(CN01) C.31 | 降级包；清数据 | R-369e5167cfbaa324、R-2ddf6c82efba90a7、R-79717a7acf45aa54 |
-| 真我 Neo8（RMX8899） | RealmeUI RMX8899_16.0.10.500(CN01) A.41 | 降级包；清数据 | R-75eb724b8bfb1364、R-659e3802831b8fe1、R-ef42c9576dd8e7d3 |
-| 一加 12（PJD110） | ColorOS PJD110_16.0.10.501(CN01) F.57 | 降级包；目录说明标注含 ARB；清数据 | R-b193dedeee9d7270、R-08026f389a4322c9、R-9f09243a0791958f |
-| 一加 13（PJZ110） | ColorOS PJZ110_16.0.9.402(CN01) C.92 | 降级包；目录说明标注含 ARB；清数据 | R-6e17b69856b75c38、R-1b0e9fdd44c7859e、R-5fdd5a056203bdb1 |
-| 一加 13T（PKX110） | ColorOS PKX110_16.0.10.500(CN01) C.58 | 降级包；清数据 | R-69a11cf85e2a2b36、R-a75ef82a727a23c7、R-c874aa06a114e684 |
-| 一加 15（PLK110） | ColorOS PLK110_16.0.8.301(CN01) A.66 | 降级包；清数据 | R-e7d1bd5370234925、R-42b88b4a4bf28163、R-f7dafddbbc33a09c |
-| 一加 15T（PLZ110） | ColorOS PLZ110_16.0.9.400(CN01) A.33 | 降级包；目录说明标注含 ARB；清数据 | R-7c9a481f9a90fc73、R-bc9561d26fdc06d4、R-43e98e1d9976c59a |
-| 一加 Ace 3 Pro（PJX110） | ColorOS PJX110_16.0.5.1001(CN01) F.17 | 降级包；目录说明标注含 ARB；清数据 | R-b80a9e5ae0f4f8ec、R-5b9774afc8e16ae8、R-d1d9b0e2dae1bf15 |
-| 一加 Ace 3V（PJF110） | ColorOS PJF110_16.0.5.1001(CN01) F.15 | 降级包；清数据 | R-43ab0cc0fd806169、R-f78c117adb85359e、R-be039fc9e3d95813 |
-| 一加 Ace 5（PKG110） | ColorOS PKG110_16.0.9.400(CN01) F.54 | 降级包；清数据 | R-b6536aa5f0fca6bf、R-560b03899ab1d421、R-035c7fc7a1c26d1c |
-| 一加 Ace 5 竞速版（PLF110） | ColorOS PLF110_16.0.9.402(CN01) C.64 | 降级包；清数据 | R-ec4ab7e971ffac3e、R-990092c266cfc22e、R-033ad6b0b4f308c3 |
-| 一加 Ace 5 至尊版（PLC110） | ColorOS PLC110_16.0.9.400(CN01) C.34 | 降级包；清数据 | R-fc3f506e9993b1ee、R-039b0063867379bf、R-bb30f6d012901104 |
-| 一加 Ace 5 Pro（PKR110） | ColorOS PKR110_16.0.9.400(CN01) C.27 | 降级包；清数据 | R-64dd6d16f53e1705、R-5fbf997c0d161dc2、R-a18398528d038f16 |
-| 一加 Ace 5 Pro（PKR110） | ColorOS PKR110_16.0.9.401(CN01) C.28 | 降级包；清数据 | R-bf2202ed2ef6d420、R-ce9f8e4aef10951b、R-a0a9163af53240e1 |
-| 一加 Ace 6（PLQ110） | ColorOS PLQ110_16.0.9.402(CN01) A.56 | 降级包；目录说明标注含 ARB；清数据 | R-4b6045f4700a4132、R-2998757e91e861f2、R-8223955c4de61bf2 |
-| 一加 Ace 6 至尊版（PMB110） | ColorOS PMB110_16.0.9.400(CN01) A.23 | 降级包；每种约 10.60 GB，共 2 包；清数据 | R-7d48c248cb37e878、R-454569fed0459004、R-7a6f4dbcab5bb22a |
-| 一加 Ace 6T（PLR110） | ColorOS PLR110_16.0.10.500(CN01) A.65 | 降级包；清数据 | R-4c1dfb9a815c1258、R-d303cd4e6c217f63、R-0b804d5b36114939 |
-| 一加平板 2 Pro（OPD2413） | ColorOS OPD2413_16.0.8.300(CN01) C.33 | 降级包；目录说明标注含 ARB；清数据 | R-f12b706c139db31e、R-b56e48a8d561f258、R-5c88259373090c4a |
-| 一加平板 3 Pro（OPD2513） | ColorOS OPD2513_16.0.9.402(CN01) A.33 | 降级包；清数据 | R-6850979c2e66ef28、R-32d04350600164cb、R-e397e23cef89ab36 |
-| 一加平板 Pro（OPD2404） | ColorOS OPD2404_16.0.5.1201(CN01) F.30 | 降级包；目录说明标注含 ARB；清数据 | R-5b4739c16772c036、R-25ba29ba1ad3596b、R-ae61eddab0858c7c |
-| 一加 Turbo 6（PLU110） | ColorOS PLU110_16.0.9.401(CN01) A.54 | 降级包；清数据 | R-375d71f7befb33da、R-da576907549a86f9、R-1d6c835afe49f9b0 |
-| 一加 Turbo 6V（PLY110） | ColorOS PLY110_16.0.9.401(CN01) A.39 | 降级包；清数据 | R-42178af1446a4df9、R-c935d154aedfc2a5、R-99c698a235a99fa3 |
-| 一加 Turbo 6X（PYS110） | ColorOS PYS110_16.0.5.1100(CN01) A.37 | 降级包；清数据 | R-958b4536e1ccb2d1、R-f0d2d8cbe26c9ff8、R-975d83787e35da05、R-b5fea6cd2e066f5c |
+| OPPO A6v（PLT130） | ColorOS PLT130_16.0.5.1000(CN01) C.54 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/1e67d6be4646>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5DfmgjrUJRlzI3vHvKx6ESA1?pwd=z463>)（提取码：`z463`） |
+| OPPO Find N2（PGU110） | ColorOS PGU110_16.0.5.1300(CN01) H.21 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/4759e711fdce>)、[迅雷云盘](<https://pan.xunlei.com/s/VP54ePF8pG4_t5Cf5KhySyRXA1?pwd=mkfa>)（提取码：`mkfa`） |
+| OPPO Find N3（PHN110） | ColorOS PHN110_16.0.5.1201(CN01) H.22 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/aaee07ef0e92>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5RBKo9sQZQn3E5RWTCCqNGA1?pwd=4672>)（提取码：`4672`） |
+| OPPO Find N5（PKH110） | ColorOS PKH110_16.0.9.400(CN01) C.95 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/f0c047fd2f21>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5vHIi3wEuS-ZOp1qiEgu1DA1?pwd=sy5y>)（提取码：`sy5y`） |
+| OPPO Find N6（PLP110） | ColorOS PLP110_16.0.9.400(CN01) A.39 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/92b86d9df895>)、[迅雷云盘](<https://pan.xunlei.com/s/VP57DVOfI0x_THAUvv0NmWueA1?pwd=7ps5>)（提取码：`7ps5`） |
+| OPPO Find X7（PHZ110） | ColorOS PHZ110_16.0.10.500(CN01) F.35 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/6e095f684cb1>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4UCNSdQ2CAWuJgR92d12FfA1?pwd=5exd>)（提取码：`5exd`） |
+| OPPO Find X8（PKB110） | ColorOS PKB110_16.0.9.400(CN01) C.97 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/4344dbe6ea73>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5itFG223FApkaqvL20GVmOA1?pwd=q8uk>)（提取码：`q8uk`） |
+| OPPO Find X8 Pro（PKC110） | ColorOS PKC110_16.0.9.402(CN01) C.78 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/2cdae739b918>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fwmROpsltYI0Axf9zIV67A1?pwd=fcnj>)（提取码：`fcnj`）、[百度网盘](<https://pan.baidu.com/s/1wPHuSo_PTkrQYlPRcb0NLw?pwd=dxam>)（提取码：`dxam`） |
+| OPPO Find X8 Ultra（PKJ110） | ColorOS PKJ110_16.0.9.401(CN01) C.72 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/aeb1f18cb8f6>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fwp7qWGx6z4448l2CRAOeA1?pwd=cjhx>)（提取码：`cjhx`）、[百度网盘](<https://pan.baidu.com/s/1802BjP3n11G7HV0iCMEF0A?pwd=dxam>)（提取码：`dxam`） |
+| OPPO Find X8 Ultra 卫星通信版（PKU110） | ColorOS PKU110_16.0.9.401(CN01) C.72 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/40d454ac5205>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4UCW5bY0kizCGcvmz2oB4tA1?pwd=dhnu>)（提取码：`dhnu`） |
+| OPPO Find X9（PLJ110） | ColorOS PLJ110_16.0.9.401(CN01) A.14 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/1ee0f3204ce3>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4UNCBTaIuJWky0O6fMGV0DA1?pwd=ta3g>)（提取码：`ta3g`） |
+| OPPO Find X9 Pro（PLG110） | PLG110_16.0.8.301(CN01) A.13 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/b8cbb2c56b0c>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fxlLQMUBGedS3T3EM58H6A1?pwd=fn35>)（提取码：`fn35`）、[百度网盘](<https://pan.baidu.com/s/1YOfhRK_syY28ahy72Xy4gg?pwd=dxam>)（提取码：`dxam`） |
+| OPPO Find X9 Ultra（PMA110） | ColorOS PMA110_16.0.8.306(CN01) A.55 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/73301ee168db>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fyC3SYIUqzc67_buT2xKFA1?pwd=5a65>)（提取码：`5a65`）、[百度网盘](<https://pan.baidu.com/s/133BDZf7Z5XJscERpx5QVxQ?pwd=dxam>)（提取码：`dxam`） |
+| OPPO Find X9 Ultra 卫星通信版（PMA120） | ColorOS PMA120_16.0.8.306(CN01) A.55 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/b04976427a71>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4UDL3r4F98NzIt1tUKrO2DA1?pwd=wmpd>)（提取码：`wmpd`）、[百度网盘](<https://pan.baidu.com/s/1wiV3hSeWnjCV0MzeRteWIw?pwd=dxam>)（提取码：`dxam`） |
+| OPPO Find X9s Pro（PME110） | ColorOS PME110_16.0.9.402(CN01) A.59 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/38f6465952d9>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4woHPiJBM8qX3M2ZLXrxFaA1?pwd=eauj>)（提取码：`eauj`）、[百度网盘](<https://pan.baidu.com/s/10Mf_-hLp3A7JwkJsQg58LQ?pwd=dxam>)（提取码：`dxam`） |
+| OPPO Pad 5 Pro（OPD2511） | ColorOS OPD2511_16.0.9.401(CN01) A.32 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/bf7601d75668>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5vKgq0wEuS-ZOp1qiEkGA3A1?pwd=6rsj>)（提取码：`6rsj`） |
+| OPPO Pad Mini（OPD2515） | ColorOS OPD2515_16.0.8.310(CN01) A.32 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/bfb46e747229>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Uh1rQPOahgsDcryaZ4_EYA1?pwd=ntpm>)（提取码：`ntpm`） |
+| 真我 GT5 Pro（RMX3888） | RealmeUI RMX3888_16.0.10.500(CN01) F.35 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/175ae5fe6fa0>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5T5BoEaa5iR_6Ru8r84sOUA1?pwd=7asw>)（提取码：`7asw`） |
+| 真我 GT6（RMX3800） | RealmeUI RMX3800_16.0.10.510(CN01) F.34 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/16938b55146a>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4ohLeTml25kXGqd2hZfiKHA1?pwd=yiuq>)（提取码：`yiuq`）、[百度网盘](<https://pan.baidu.com/s/1b9d8c3bRk6kXM2WKW1yyAQ?pwd=dxam>)（提取码：`dxam`） |
+| 真我 GT7（RMX6688） | RealmeUI RMX6688_16.0.8.301(CN01) C.56 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/28fc566068a5>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Ux9LPgNf5S1sNRyYM4f3lA1?pwd=ub5q>)（提取码：`ub5q`） |
+| 真我 GT7 Pro（RMX5010） | RealmeUI RMX5010_16.0.8.300(CN01) F.65 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/776684f1c15a>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Upfxi6VjYHy91bvtjpA-kA1?pwd=ihfc>)（提取码：`ihfc`） |
+| 真我 GT7 Pro 竞速版（RMX5090） | RealmeUI RMX5090_16.0.8.300(CN01) C.18 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/276645f975b0>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fyfk8JWI0nOqJkFaVIwk_A1?pwd=h3vj>)（提取码：`h3vj`）、[百度网盘](<https://pan.baidu.com/s/105m_aPMZGw6ZUH-Y0VurpQ?pwd=dxam>)（提取码：`dxam`） |
+| 真我 GT8（RMX6699） | RealmeUI RMX6699_16.0.8.300(CN01) A.72 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/1fa64544cf72>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4VOW5BhX3WfGwJRhkpjm5rA1?pwd=8k4t>)（提取码：`8k4t`）、[百度网盘](<https://pan.baidu.com/s/13UFNXyYbD-oOUcusgJNpFw?pwd=dxam>)（提取码：`dxam`） |
+| 真我 GT8 Pro（RMX5200） | RealmeUI RMX5200_16.0.10.501(CN01) A.73 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/b0f80419d364>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fzp4DzgOVxvXfd_h2mLuDA1?pwd=j7d5>)（提取码：`j7d5`）、[百度网盘](<https://pan.baidu.com/s/15xLZNQL__-Qpm_BZ2SGGGQ?pwd=dxam>)（提取码：`dxam`） |
+| 真我 GT8 Pro（RMX5200） | RealmeUI RMX5200_16.0.9.402(CN01) A.71 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/e81c51680918>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5fzwmr3I09ayjpcnWwUGNlA1?pwd=jj52>)（提取码：`jj52`）、[百度网盘](<https://pan.baidu.com/s/1d3Kg96PclEu-4gCRiSbmMg?pwd=dxam>)（提取码：`dxam`） |
+| 真我 Neo7（RMX5060） | RealmeUI RMX5060_16.0.9.400(CN01) C.48 | 降级包；每种约 11.01 GB，共 2 包；清数据 | [夸克网盘](<https://pan.quark.cn/s/494a3fdac805>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4VY5QJqPbpq_uJO0iXMi7EA1?pwd=js7m>)（提取码：`js7m`）、[百度网盘](<https://pan.baidu.com/s/1ag-yhE8YUJ8vdcbH2OPVyQ?pwd=dxam>)（提取码：`dxam`） |
+| 真我 Neo7 SE（RMX5080） | RealmeUI RMX5080_16.0.8.301(CN01) C.54 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/ec166534889f>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5SPPbtSQzalm4wSDq1HKJ_A1?pwd=r8fm>)（提取码：`r8fm`）、[百度网盘](<https://pan.baidu.com/s/1y4i_loEUPRB7LzPSkN5ijw?pwd=dxam>)（提取码：`dxam`） |
+| 真我 Neo7 Turbo（RMX5062） | RealmeUI RMX5062_16.0.9.400(CN01) C.31 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/3da6d00fe052>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4VNMTUt817cbMIxH6-hUj_A1?pwd=feeb>)（提取码：`feeb`）、[百度网盘](<https://pan.baidu.com/s/100FFNy7MooRmq_LjLVMJ3w?pwd=dxam>)（提取码：`dxam`） |
+| 真我 Neo8（RMX8899） | RealmeUI RMX8899_16.0.10.500(CN01) A.41 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/09bdcfe61f7a>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4VYDa85L2YSK9p2tiJzcfMA1?pwd=wwdk>)（提取码：`wwdk`）、[百度网盘](<https://pan.baidu.com/s/1aGOZH1x2usvoE8OOmxB_pQ?pwd=dxam>)（提取码：`dxam`） |
+| 一加 12（PJD110） | ColorOS PJD110_16.0.10.501(CN01) F.57 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/954133a5317f>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4VYModZS9lI9bWY8ySyk4PA1?pwd=vfta>)（提取码：`vfta`）、[百度网盘](<https://pan.baidu.com/s/18lN9o2F7rfauwmHHx5tEBg?pwd=dxam>)（提取码：`dxam`） |
+| 一加 13（PJZ110） | ColorOS PJZ110_16.0.9.402(CN01) C.92 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/79b7c5160af0>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5g-CZoVbRIjGlc5W-FzaC7A1?pwd=5g6y>)（提取码：`5g6y`）、[百度网盘](<https://pan.baidu.com/s/1ZUG0ZXUwAvjiVm86m_5n6g?pwd=dxam>)（提取码：`dxam`） |
+| 一加 13T（PKX110） | ColorOS PKX110_16.0.10.500(CN01) C.58 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/1e8b2711c21d>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5g-GZLub2h30-_XkSrvMmbA1?pwd=uzrg>)（提取码：`uzrg`）、[百度网盘](<https://pan.baidu.com/s/1emypmCW9NjFMkbf2wnAwvA?pwd=dxam>)（提取码：`dxam`） |
+| 一加 15（PLK110） | ColorOS PLK110_16.0.8.301(CN01) A.66 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/b0bd10c89f5f>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4W5kPm6K5onASWUbywuLRJA1?pwd=3mu5>)（提取码：`3mu5`）、[百度网盘](<https://pan.baidu.com/s/1AZjQUPWEnw6fmxa1cJ_BtA?pwd=dxam>)（提取码：`dxam`） |
+| 一加 15T（PLZ110） | ColorOS PLZ110_16.0.9.400(CN01) A.33 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/0e07da5fe47c>)、[迅雷云盘](<https://pan.xunlei.com/s/VP5g0e7lmHByZDsf3OV_MBSrA1?pwd=d2ch>)（提取码：`d2ch`）、[百度网盘](<https://pan.baidu.com/s/1JF_QvfNVxnkTLFusmuWIfQ?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 3 Pro（PJX110） | ColorOS PJX110_16.0.5.1001(CN01) F.17 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/2d0e50149951>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4W76ERfEjkyUwYkQj00CUVA1?pwd=ssve>)（提取码：`ssve`）、[百度网盘](<https://pan.baidu.com/s/1Nk-HmdBAsJlZzU1eVQaRkw?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 3V（PJF110） | ColorOS PJF110_16.0.5.1001(CN01) F.15 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/fd367862659f>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4o_ezp7QDvpHRlOSG9xddSA1?pwd=k3f2>)（提取码：`k3f2`）、[百度网盘](<https://pan.baidu.com/s/1cooHRAX7Ahh1RPeLaqcBkA?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 5（PKG110） | ColorOS PKG110_16.0.9.400(CN01) F.54 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/b1ad848a48ee>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4W7ELTPUPwnFuodDy0uLgZA1?pwd=943f>)（提取码：`943f`）、[百度网盘](<https://pan.baidu.com/s/14SC33YJftgl3F-Y_KhWKaw?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 5 竞速版（PLF110） | ColorOS PLF110_16.0.9.402(CN01) C.64 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/8aac7437ca2a>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4WFWVrdzzQ9q6EkX7TXM2VA1?pwd=ewkm>)（提取码：`ewkm`）、[百度网盘](<https://pan.baidu.com/s/1FFQin16y1bHrMSbPrszO4g?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 5 至尊版（PLC110） | ColorOS PLC110_16.0.9.400(CN01) C.34 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/5c8e90467c41>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4We5eE1gvQUGKQPLqieL2lA1?pwd=ie95>)（提取码：`ie95`）、[百度网盘](<https://pan.baidu.com/s/1QebSnGE3x7okKW6cdwLFcg?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 5 Pro（PKR110） | ColorOS PKR110_16.0.9.400(CN01) C.27 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/a001c5045d31>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4W7iBVrh_SbP_Nwa5gR0vZA1?pwd=3mez>)（提取码：`3mez`）、[百度网盘](<https://pan.baidu.com/s/1NeLqz7eVtX_h1Zw8AZ6bXA?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 5 Pro（PKR110） | ColorOS PKR110_16.0.9.401(CN01) C.28 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/b7669b61be3e>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4WAAZl2mWRwRCwyQl2v90aA1?pwd=8jje>)（提取码：`8jje`）、[百度网盘](<https://pan.baidu.com/s/15dt6CYydoqRlf7Ubn_5n-Q?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 6（PLQ110） | ColorOS PLQ110_16.0.9.402(CN01) A.56 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/00efef112b42>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4WeNAcS-yJwwRjLHyzW7b7A1?pwd=hgy7>)（提取码：`hgy7`）、[百度网盘](<https://pan.baidu.com/s/1oWcLo2SpWzwWaIsUhCKDdQ?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 6 至尊版（PMB110） | ColorOS PMB110_16.0.9.400(CN01) A.23 | 降级包；每种约 10.60 GB，共 2 包；清数据 | [夸克网盘](<https://pan.quark.cn/s/0a346e843292>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4WeaYSeBchIScb-yd2iVU-A1?pwd=jpvv>)（提取码：`jpvv`）、[百度网盘](<https://pan.baidu.com/s/1qvxC9ei4PvSE6iIljfbNyg?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Ace 6T（PLR110） | ColorOS PLR110_16.0.10.500(CN01) A.65 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/230fff9adfcd>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Wfg_ceBchIScb-yd2jbljA1?pwd=ybfr>)（提取码：`ybfr`）、[百度网盘](<https://pan.baidu.com/s/1TTyMN6RAnfynEE6BmkS1xg?pwd=dxam>)（提取码：`dxam`） |
+| 一加平板 2 Pro（OPD2413） | ColorOS OPD2413_16.0.8.300(CN01) C.33 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/d4729469ff36>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4WgYO9mgFWlDC2xb0R8hcJA1?pwd=khgj>)（提取码：`khgj`）、[百度网盘](<https://pan.baidu.com/s/1FwIF7gTksmz1ULfmUWutqA?pwd=dxam>)（提取码：`dxam`） |
+| 一加平板 3 Pro（OPD2513） | ColorOS OPD2513_16.0.9.402(CN01) A.33 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/e8df87ab9329>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4WmudJnaBoltyhPSRevN4LA1?pwd=77by>)（提取码：`77by`）、[百度网盘](<https://pan.baidu.com/s/1c0jrlU1Y2jLZmWmub2-ToA?pwd=dxam>)（提取码：`dxam`） |
+| 一加平板 Pro（OPD2404） | ColorOS OPD2404_16.0.5.1201(CN01) F.30 | 降级包；目录说明标注含 ARB；清数据 | [夸克网盘](<https://pan.quark.cn/s/0e4a3c7584e0>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Wn0HBXnGbt34dsV2VzdtBA1?pwd=z48h>)（提取码：`z48h`）、[百度网盘](<https://pan.baidu.com/s/1MfWISE0R7Ts5ueji3fZvtg?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Turbo 6（PLU110） | ColorOS PLU110_16.0.9.401(CN01) A.54 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/d6bf9a8db2d8>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4woRh5xtIP0fDKfDkahfntA1?pwd=55yg>)（提取码：`55yg`）、[百度网盘](<https://pan.baidu.com/s/1rXl7WQyJyR0C8U1dHhmoQQ?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Turbo 6V（PLY110） | ColorOS PLY110_16.0.9.401(CN01) A.39 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/7858b0c2a772>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4o_jERNbMb3ve94pBXI4tNA1?pwd=phuq>)（提取码：`phuq`）、[百度网盘](<https://pan.baidu.com/s/1p1oOBS5UEWDFHrmCM4o3LQ?pwd=dxam>)（提取码：`dxam`） |
+| 一加 Turbo 6X（PYS110） | ColorOS PYS110_16.0.5.1100(CN01) A.37 | 降级包；清数据 | [夸克网盘](<https://pan.quark.cn/s/8def9a635de4>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4XAKZHnaBoltyhPSRfJLwIA1?pwd=fun5>)（提取码：`fun5`）、[百度网盘](<https://pan.baidu.com/s/17M_mJBQrffXOgaGB_NsARg?pwd=dxam>)（提取码：`dxam`） |
 
 ## 其他单条资源记录
 
@@ -72,30 +72,30 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 
 | 机型 | 帖子所列版本 | 类型与地区 | 资源 |
 |---|---|---|---|
-| 一加 Ace 6（PLQ110） | ColorOS PLQ110_17.0.1.200(CN01) C.15 | 全量包；地区未知 | R-12ec955d3f44a53b |
-| 一加 15（CPH2747） | ColorOS CPH2747_17.0.0.102(EX01) C.75_EEA | 全量包；EEA 标记 | R-967002321a94ca79 |
-| 一加 15（CPH2747） | ColorOS CPH2747_17.0.0.102(EX01) C.75_GLO | 全量包；GLO 标记 | R-3b252c2e0d7f062d |
-| OPPO K12 Plus（PKS110） | PKS110_15.0.0.1301(CN01) C.19 | ColorOS 降级包；地区、清数据要求未知 | R-9413a6147ec59bb5 |
-| OPPO K7x | ColorOS 7.2 | ColorOS 降级包；完整固件版本未知 | R-fb7df342a8547857 |
-| OPPO K12x（PJT110） | PJT110_15.0.0.1362(CN01) C.70 | ColorOS 降级包 | R-8c86e521cc211ad9 |
-| 真我 GT8 Pro（RMX5200） | ColorOS RMX5200_17.0.1.201(CN01) C.31 | 全量包；地区未知 | R-3c4c829a19ee7d20 |
-| OPPO K9 Pro | ColorOS 11.3 | ColorOS 降级包；完整固件版本未知 | R-a3e69600def4da56 |
-| 一加 Ace 6 至尊版（PMB110） | ColorOS PMB110_17.0.1.200(CN01) C.11 | 全量包；地区未知 | R-da53d25d803265ad |
-| 一加 12（PJD110） | ColorOS PJD110_17.0.0.100(CN01) H.11 | 全量包；地区未知 | R-e6e27d292e52b7a5 |
-| OPPO K12（PJR110） | PJR110_14.0.1.800(CN01) A.29 | ColorOS 降级包 | R-e2e542541387ee5e |
-| OPPO Pad 6（OPD2601） | ColorOS OPD2601_17.0.0.100(CN01) C.10 | 全量包；地区未知 | R-b47dd7df85c9f446 |
-| OPPO Find X5 Pro（PFEM10） | PFEM10_14.0.0.920(CN01) F.76 | ColorOS 降级包 | R-73be9a2e73eea987 |
-| OPPO Find X5 Pro（PFEM10） | PFEM10_15.0.0.1302(CN01) H.88 | ColorOS 降级包 | R-8905eed3f1e29655 |
-| 真我 GT8 Pro（RMX5210） | RMX5210_16.0.5.703(EX01) A.67_IN | ColorOS 降级包；印度 | R-297edba8d6f0e3b3 |
-| OPPO Pad 5（OPD2506） | OPD2506_16.0.10.600(CN01) A.36 | ColorOS 全量包 | R-e69302dced4640c2、R-831a4d7f7fd8d09d、R-9b15141315e514b5 |
-| OPPO K12（PJR110） | PJR110_16.0.5.700(CN01) F.26 | OFP 线刷包 | R-0beaaf2385182594、R-b28df7a0fc8bcdf6、R-7e19aff47d313551 |
-| 一加 15（CPH2749） | OxygenOS CPH2749_16.0.8.300(EX01) A.42 | OxygenOS 降级包；地区未知 | R-c447663bc0ef98ff |
-| 一加 13（CPH2653） | OxygenOS CPH2653_16.0.10.600(EX01) F.94_GLO | OxygenOS 降级包；全球 | R-4f3afb3996270de4 |
-| OPPO A7i（PLT150） | PLT150_16.0.5.1000(CN01) C.54 | ColorOS 降级包 | R-0d3919c3a0031dbf |
+| 一加 Ace 6（PLQ110） | ColorOS PLQ110_17.0.1.200(CN01) C.15 | 全量包；地区未知 | [夸克网盘](<https://pan.quark.cn/s/e057d59b519e>) |
+| 一加 15（CPH2747） | ColorOS CPH2747_17.0.0.102(EX01) C.75_EEA | 全量包；EEA 标记 | [夸克网盘](<https://pan.quark.cn/s/41543c91a3b8>) |
+| 一加 15（CPH2747） | ColorOS CPH2747_17.0.0.102(EX01) C.75_GLO | 全量包；GLO 标记 | [夸克网盘](<https://pan.quark.cn/s/ea11e0684176>) |
+| OPPO K12 Plus（PKS110） | PKS110_15.0.0.1301(CN01) C.19 | ColorOS 降级包；地区、清数据要求未知 | [夸克网盘](<https://pan.quark.cn/s/f27057d45b04>) |
+| OPPO K7x | ColorOS 7.2 | ColorOS 降级包；完整固件版本未知 | [夸克网盘](<https://pan.quark.cn/s/05e1c9328b00>) |
+| OPPO K12x（PJT110） | PJT110_15.0.0.1362(CN01) C.70 | ColorOS 降级包 | [夸克网盘](<https://pan.quark.cn/s/b3bd0c01236e>) |
+| 真我 GT8 Pro（RMX5200） | ColorOS RMX5200_17.0.1.201(CN01) C.31 | 全量包；地区未知 | [夸克网盘](<https://pan.quark.cn/s/b0c1efae1928>) |
+| OPPO K9 Pro | ColorOS 11.3 | ColorOS 降级包；完整固件版本未知 | [夸克网盘](<https://pan.quark.cn/s/865911b3a652>) |
+| 一加 Ace 6 至尊版（PMB110） | ColorOS PMB110_17.0.1.200(CN01) C.11 | 全量包；地区未知 | [夸克网盘](<https://pan.quark.cn/s/4115d48d2589>) |
+| 一加 12（PJD110） | ColorOS PJD110_17.0.0.100(CN01) H.11 | 全量包；地区未知 | [夸克网盘](<https://pan.quark.cn/s/867122456f49>) |
+| OPPO K12（PJR110） | PJR110_14.0.1.800(CN01) A.29 | ColorOS 降级包 | [夸克网盘](<https://pan.quark.cn/s/9ef80f90dc9b>) |
+| OPPO Pad 6（OPD2601） | ColorOS OPD2601_17.0.0.100(CN01) C.10 | 全量包；地区未知 | [夸克网盘](<https://pan.quark.cn/s/81d63a97f8fd>) |
+| OPPO Find X5 Pro（PFEM10） | PFEM10_14.0.0.920(CN01) F.76 | ColorOS 降级包 | [夸克网盘](<https://pan.quark.cn/s/ce87cd7eb3d9>) |
+| OPPO Find X5 Pro（PFEM10） | PFEM10_15.0.0.1302(CN01) H.88 | ColorOS 降级包 | [夸克网盘](<https://pan.quark.cn/s/0837d3e3e382>) |
+| 真我 GT8 Pro（RMX5210） | RMX5210_16.0.5.703(EX01) A.67_IN | ColorOS 降级包；印度 | [夸克网盘](<https://pan.quark.cn/s/bca25d94340e>) |
+| OPPO Pad 5（OPD2506） | OPD2506_16.0.10.600(CN01) A.36 | ColorOS 全量包 | [夸克网盘](<https://pan.quark.cn/s/2777cafab279>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Xp7THoLF4uxqgzEEdbU1jA1?pwd=ckjq>)（提取码：`ckjq`）、[百度网盘](<https://pan.baidu.com/s/1m3PI2qf3UwiwRZf22eKcfQ?pwd=dxam>)（提取码：`dxam`） |
+| OPPO K12（PJR110） | PJR110_16.0.5.700(CN01) F.26 | OFP 线刷包 | [夸克网盘](<https://pan.quark.cn/s/6f9d1d73d723>)、[迅雷云盘](<https://pan.xunlei.com/s/VP4Xb1QDVCILhwjyKlN2G6FGA1?pwd=gx4u>)（提取码：`gx4u`）、[百度网盘](<https://pan.baidu.com/s/1C5tEpjWjqyMCHwevKiuuFg?pwd=dxam>)（提取码：`dxam`） |
+| 一加 15（CPH2749） | OxygenOS CPH2749_16.0.8.300(EX01) A.42 | OxygenOS 降级包；地区未知 | [夸克网盘](<https://pan.quark.cn/s/bbdcca6766f1>) |
+| 一加 13（CPH2653） | OxygenOS CPH2653_16.0.10.600(EX01) F.94_GLO | OxygenOS 降级包；全球 | [夸克网盘](<https://pan.quark.cn/s/5e68c8beb257>) |
+| OPPO A7i（PLT150） | PLT150_16.0.5.1000(CN01) C.54 | ColorOS 降级包 | [夸克网盘](<https://pan.quark.cn/s/eee34e552c35>) |
 
 ## 资源与验证边界
 
-帖子还提供固件目录站点 R-b5fea6cd2e066f5c、OPLUS 盒子页面 R-e1c75012428c56c1，以及一个用途未明确的资源入口 R-907bb0f41556fce8。目录站点被描述为持续更新的集合索引，不是固件文件直链；帖子称整理截止日期为 2026-11-08，目录约含 48 个机型、50 个版本目录。此数量和页面现状没有独立核验。
+帖子还提供[固件目录站](https://oplusrom.com)、[OPLUS 盒子](https://optool.daxiaamu.com/oplusbox)，以及一个用途未明确的[备用资源入口](https://120.oplus.icu)。目录站点被描述为持续更新的集合索引，不是固件文件直链；帖子称整理截止日期为 2026-11-08，目录约含 48 个机型、50 个版本目录。此数量和页面现状没有独立核验。
 
 文中未给出各包所需工具的确切版本、完整刷入步骤、降级前置版本、恢复材料、校验和或文件访问状态。标记为“查看链接”的文本没有对应地址时，不将其补作链接。本文仅整理输入帖内容，未读取帖子图片或评论，也未下载、校验或实机安装任何资源。
 

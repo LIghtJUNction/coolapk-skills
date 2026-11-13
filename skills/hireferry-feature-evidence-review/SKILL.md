@@ -22,9 +22,9 @@ description: "当需要依据帖子核查 HireFerry 招聘平台的公开功能�
 ## 接口与实现核查
 1. 只记录已明确提到的接口形态：开放接口、开发者文档、MCP、CLI 和配套 skills。
 2. 不推断或编造 API 路由、请求格式、认证方式、部署参数、收费细则、用户规模或实测结果。
-3. 帖子附有 GitHub 仓库链接，可将其作为项目资源线索引用：[HireFerry 仓库](https://github.com/TokenNotIncluded/hireferry)。资源记录 ID：`R-a20b8b615fc15c83`。该记录只证明存在对应 URL 资源线索，不证明仓库内容、功能或当前状态已核实。
+3. 从 [HireFerry 仓库](https://github.com/TokenNotIncluded/hireferry) 获取代码及项目文档，按其中的部署、CLI、MCP 说明选择入口。具体命令尚未在本次整理中核对，不补写不存在的调用方式。
 4. 如需说明接口细节或当前实现，应另行检查仓库与开发者文档，并清楚区分检查结果与帖子描述。
 
 ## 来源
 - [Coolapk 帖子 74596774](https://www.coolapk.com/feed/74596774)
-- 资源记录：`R-a20b8b615fc15c83`（对应 GitHub 仓库链接）
+- [项目代码与文档](https://github.com/TokenNotIncluded/hireferry)
