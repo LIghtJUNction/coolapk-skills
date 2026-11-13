@@ -55,11 +55,12 @@
 | LaTeX 排版 | [聊天文字逐句字号](skills/latex-chat-text-size-sequence/SKILL.md) |
 | 开源软件功能 | [HireFerry 接口与能力核查](skills/hireferry-feature-evidence-review/SKILL.md) |
 | 安卓应用异常 | [登录会话自动退出排查](skills/app-session-logout-module-triage/SKILL.md) |
-
 | 模块开发 | [Kam 项目、模板与构建钩子](skills/kam-module-workflow/SKILL.md) |
 | 模块管理 | [Kam 搜索、下载与安装](skills/kam-module-cli/SKILL.md) |
 | 模块签名 | [Kam 验签与历史信任链](skills/kam-signatures-and-trust/SKILL.md) |
 | 安卓 Linux | [ASL 与 Rurima 容器](skills/asl-rurima-containers/SKILL.md) |
+| 家庭服务器 | [J1900 OpenWrt、WebDAV、智能家居与子网路由](skills/openwrt-home-server-setup/SKILL.md) |
+| 局域网打印 | [Windows USB 打印机桥接与逐层排障](skills/windows-network-printing/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
