@@ -96,6 +96,14 @@
 | Agent 工作流 | [用文本表示游戏世界，供 Agent 观察和规划](skills/game-world-text-agent-interface/SKILL.md) |
 | Agent 工作流 | [Codex 全局提示词记录](skills/agent-global-prompt-case/SKILL.md) |
 | Agent 工作流 | [把伪造对话结构当作提示词注入案例](skills/prompt-injection-message-boundaries/SKILL.md) |
+| 技术案例 | [Horizon R18：一加8系列历史内核资源](skills/horizon-kernel-r18-op8-series/SKILL.md) |
+| 技术案例 | [平行空间文件分享与一月补丁说明](skills/parallel-space-file-sharing-january-patch/SKILL.md) |
+| 技术案例 | [氧 OS 隐藏 DC 调光选项模块](skills/oxygenos-hidden-dc-dimming-toggle/SKILL.md) |
+| 技术案例 | [Android 5G 快捷设置开关](skills/fiveg-quick-settings-tile/SKILL.md) |
+| 技术案例 | [Windows 电源计划与电源模式](skills/windows-power-management-overlays/SKILL.md) |
+| 技术案例 | [如何解读内核中的 freezer 符号](skills/interpreting-freezer-symbols/SKILL.md) |
+| 技术案例 | [用内核 uprobe 观察应用帧生成时间](skills/libhwui-frame-generation-timing/SKILL.md) |
+| 技术案例 | [在截图与录屏中排除 Oplus 小窗](skills/oplus-hide-zoom-window/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
