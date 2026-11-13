@@ -28,6 +28,7 @@
 | 手机摄影改装 | [旋转输入方案](skills/phone-camera-rotary-controls/SKILL.md) |
 | 跨系统移植 | [UniXNU 阶段进展核查](skills/unixnu-android-device-port-progress/SKILL.md) |
 | 硬件设计 | [拓展坞接口与散热取舍](skills/dock-design-tradeoffs/SKILL.md) |
+| 网络与手机扫描 | [打印 WiFi 凭据识别核查](skills/printed-wifi-credential-scan-check/SKILL.md) |
 
 整理仍在进行，未完成全站覆盖。每项技能注明证据边界；社区经验不等于实机验证。
 
