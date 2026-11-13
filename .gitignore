@@ -1,0 +1,21 @@
+# Only curated skills and their overview are eligible for version control.
+/*
+!/.gitignore
+!/README.md
+!/skills/
+/skills/**
+!/skills/**/
+!/skills/**/SKILL.md
+!/skills/**/references/
+!/skills/**/references/*.md
+# Never version source samples or acquisition records.
+**/raw/**
+**/private/**
+**/knowledge/**
+**/catalog.json
+**/reviewed.json
+**/progress.json
+**/*.jsonl
+**/*.tmp
+**/__pycache__/**
+**/*.pyc
