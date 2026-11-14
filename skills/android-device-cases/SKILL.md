@@ -123,3 +123,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [红魔 7S 系列及周边发布资料（2022）](references/redmagic-7s-2022.md)
 
 - [红魔 11 Air 与 11S Pro 系列发布资料](references/redmagic-11-series-2026.md)
+
+- [魅族 21、MYVU 与 Flyme Link 发布资料（2023）](references/meizu21-myvu-2023.md)
