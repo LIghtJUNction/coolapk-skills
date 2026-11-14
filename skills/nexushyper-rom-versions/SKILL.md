@@ -68,3 +68,10 @@ Pad 8 是 v4.0.30 中写出的移植来源，不据此列为目标机型。K80 P
 - [v4.0.20](references/v4.0.20.md)：六个官改版本记录、作者评论提供的Alist/139入口、包内KSU和分机型反馈。
 - [v4.0.13](references/v4.0.13.md)：仅使用该帖文字与有限评论，不借后续版本补底包。
 - [v4.1.5预告和新机投票](references/roadmap-v4.1.5.md)：完整四候选、单选规则；不把候选或预告写成已经适配发布。
+
+
+## 早期版本与后续跟进
+
+- v4.0.7分开读取[17/17PM/K90/K90PM](references/v4.0.7-17-k90.md)与[15/15P/15U/K90U](references/v4.0.7-15-k90u.md)，官改版本号不等于官方来源包直升清单。
+- [v4.0.9](references/v4.0.9.md)保留作者下载入口、KSU和设备反馈；[v4.0.12](references/v4.0.12.md)另有清数据后背景模糊问题的原始修复命令。
+- [后续软重启报告](references/later-reboot-reports.md)与[HyperMusicCover集成预告](references/hypermusiccover-integration-preview.md)分别记录，不将ROM预告变成上游项目已发布状态。

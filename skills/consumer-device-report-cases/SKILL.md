@@ -22,3 +22,15 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 ## 更多机型与跨主题发布记录
 
 [逐篇科技报道参考](../technology-announcement-records/SKILL.md)保留Pura/FindX9、小米18、FindX10、vivoX500、Note17、AQUOS及笔记本/无人机等设备的来源参数。各篇按机型分段，传闻与已发布状态单独标识。
+
+
+## 补充的逐篇技术记录
+
+- [荣耀 WIN 系列上手体验：WIN 与 WIN RT](references/source-69437591.md)
+- [OPPO Reno16 系列及同期新品发布信息](references/source-71972222.md)
+- [荣耀 WIN 游戏本 H9 上手体验：设计、性能、散热与软件](references/source-71373130.md)
+- [vivo X500 系列及配套产品发布信息](references/source-73897750.md)
+- [一加 16「明日星光」产品图赏动态：外观、配置与定位](references/source-74315329.md)
+- [iQOO Pad Ultra「星铠银」产品图赏：设计与外观信息](references/source-74056714.md)
+- [iQOO 16「传奇」产品图赏动态：外观描述与配置摘要](references/source-74067497.md)
+- [荣耀 Magic9 系列体验：阿莱上手机，拍起来有什么不同？](references/source-74039383.md)

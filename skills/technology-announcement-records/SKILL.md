@@ -15,3 +15,17 @@ description: 检索按原发帖时点归档的设备、芯片、操作系统、�
 - [72407613：酷周报 2625：设备上新、系统更新与 AI 支付](references/weekly-72407613.md)
 - [72819945：酷周报 2629：手机、AI 服务与行业动态](references/weekly-72819945.md)
 - [73957052：酷周报 2639：旗舰设备、AI 模型与产品动态](references/weekly-73957052.md)
+
+
+## 补充的逐篇报道
+
+- [玄戒O3、Y700无极与GLM-5.3-Flash（2026-08-28）](references/weekly-73471266.md)
+- [Mate80、骁龙8Gen5与Aluminium OS（2025-11-28）](references/weekly-68933277.md)
+- [一加15、Neo11与DJI Neo2（2025-10-31）](references/weekly-68317322.md)
+- [iOS27、MiMo Code与Luna Ultra（2026-06-12）](references/weekly-72302934.md)
+- [RTX Spark、nova16与Project Solara（2026-06-05）](references/weekly-72174255.md)
+- [REDMI17、存储价格与Windows内存计划（2026-08-07）](references/weekly-73123736.md)
+- [Reno16、MiMo API与6G试验（2026-05-29）](references/weekly-72040465.md)
+- [17Max、红魔11S与影像固件反馈（2026-05-22）](references/weekly-71905367.md)
+
+日期以各页的API发帖日期（UTC+8）为准，传闻、计划、发布会参数与实际测试分开理解；不跨期拼接机型参数。

@@ -11,3 +11,15 @@ description: 整理耳机ANC、透传、频响、耳套密封与佩戴案例；�
 - [头戴与有线耳机案例](references/headphones-and-wired.md)：保留结构、调音、配件和驱动力条件；个人听感和历史价格不作为当前购买结论。
 
 缺少测试夹具细节、原始曲线、EQ数值或软件版本时，不能补造复现参数，也不能从“难推”推导某个放大器功率。
+
+
+## 补充的逐篇技术记录
+
+- [【A】苹果 AirPods 5](references/source-74134790.md)
+- [索尼 WH-1000XM6 开箱与 XM4/XM5 对比](references/source-65956880.md)
+- [华为 FreeBuds 7 半入耳旗舰评测记录](references/source-74134984.md)
+- [OPPO Enco X4：结构、降噪与声音评述](references/source-74193186.md)
+- [NAN7 平板旗舰耳机：结构、听感与频响记录](references/source-68985554.md)
+- [HIFIMAN HE600 与 HE6se V2：外观、听感记录与作者评价](references/source-68989410.md)
+- [蓝牙耳机与有线耳机音质差异：体积、前后端与营销论述](references/source-68765226.md)
+- [飞傲 FT7：结构、配件与原帖听感记录](references/source-69109976.md)
