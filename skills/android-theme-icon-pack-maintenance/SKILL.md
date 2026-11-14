@@ -94,3 +94,8 @@ description: "Android 跨品牌主题与图标包适配维护参考"
 - [vivo 主题「补全计划One II」功能与适配进度](references/source-70426914.md)
 - [《补全计划One Plus》C15 主题版本与模块差异](references/source-63637268.md)
 - [补全计划 One Plus：ColorOS 16 主题更新](references/source-69010325.md)
+
+
+## 补充来源记录
+
+- [HyperOS 3 主题图标：MTZ 与 MRA 证书导入](references/source-67548317.md)
