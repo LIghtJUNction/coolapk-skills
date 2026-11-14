@@ -43,3 +43,5 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 ## 补充技术报告
 
 - [Android 禁用系统更新模块的类型与适用范围](references/source-72833999.md)
+
+- [Aether_OptExt 线程分配：配置、拓扑与 eBPF 回退](references/source-72833346.md)
