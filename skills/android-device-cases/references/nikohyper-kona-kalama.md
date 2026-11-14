@@ -28,3 +28,20 @@
 OS3.0.30 帖列出 13、13 Pro、13 Ultra 底包分别为 OS2.0.211.0.VMCCNXM、OS2.0.215.0.VMBCNXM、OS2.0.207.0.VMACNXM；作者建议从更高底包迁入时双清，并推测旧底包可能绕过电池锁容云控，但仅称其 13 Ultra 未遇到锁容，不能证明其他设备或环境有同样效果。双清会清除数据，刷入前应备份并核对具体包的说明。
 
 OS3.0.32 帖另列 13 Ultra 底包 OS2.0.210.0.VMACNXM、13 Pro 底包 OS2.0.219.0.VMBCNXM；Android Auto 明确由作者留待用户自行测试。各帖配图及完整评论未读取，具体包文件和下载条件仍以项目文档为准。
+
+## 补充的 Kona 和 Kalama 版本
+
+下表为各发布帖所称版本与关键差异；未实机测试，图片与完整评论未读取。Kona 的列出机型均为小米 10（UMI）、10 Pro（CMI）、10 Ultra（CAS），部分帖还写“等”，不能据此补全其他机型。
+
+| 来源 | 原帖版本与基线 | 更新或边界 |
+|---|---|---|
+| [67226656](https://www.coolapk.com/feed/67226656) | Kona，OS3.0.0.25.WOBCNXM，基于小米 15 Pro | 声称修复线刷脚本、WPA3 与 tethering 相关问题；列出指纹和 LHDC 为问题 |
+| [67674949](https://www.coolapk.com/feed/67674949) | Kona，标题 OS3.0.17.0.WPBCNXM，正文基于 OS3.0.16.0.WPBCNXM | 原帖两个版本号不同，保留差异；列出指纹和 LHDC 问题 |
+| [68532647](https://www.coolapk.com/feed/68532647) | Kona，OS3.0.30.0.WPBCNXM | 作者列出指纹和 LHDC 问题 |
+| [69091281](https://www.coolapk.com/feed/69091281) | Kona，OS3.0.34.0.WPBCNXM | 声称同步官方更新；列出指纹和 LHDC 问题 |
+| [69351054](https://www.coolapk.com/feed/69351054) | Kona，OS3.0.36.0.WPBCNXM | 声称更新 6.2 相机并修复 10 Pro/Ultra 长焦问题；指纹和 LHDC 仍列为问题 |
+| [68691067](https://www.coolapk.com/feed/68691067) | Kona，OS2.0.216.2.VOBCNXM，基于 OS2.0.216.0.VOBCNXM | 称同步部分 OS3 修改，提供高级设置与纯净两版；正文未给具体下载地址 |
+| [70701283](https://www.coolapk.com/feed/70701283) | Kalama，OS3.0.303.5.WPBCNXM | 列出小米 13/Pro/Ultra，称调整线程、SystemUI 优先级与温控；效果、功耗及稳定性未实测 |
+| [73259691](https://www.coolapk.com/feed/73259691) | Kalama，正文 OS4.0.0.20.WPBCNXM | 列出小米 13/Pro/Ultra，称合并 5.15.211 内核、修复 NFC 和指纹支付；标题版本写法与正文不同，以实际包为准 |
+
+原帖对内核、调度、充电和硬件功能的描述均为发布者报告，不能据此保证兼容或性能提升。上文项目文档入口未核验具体文件，其中 68691067、70701283、73259691 正文没有给出具体下载链接，不应假设它们一定在同一目录。
