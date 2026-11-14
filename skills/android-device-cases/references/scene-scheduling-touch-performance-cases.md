@@ -42,3 +42,21 @@
 [41307974](https://www.coolapk.com/feed/41307974) 对 vivo X90 和天玑 9200 的性能与功耗给出早期观点，强调持续性能、散热和内存配置共同影响结果；其中竞争和产品配置推断未提供可复现测试，不应视作硬件定论。
 
 [41517377](https://www.coolapk.com/feed/41517377) 使用 X90 2800×1260、室内 Wi-Fi、双卡 5G、亮度条约 35% 测试；原神极高画质 60fps 设定、约 18°C 环境下六轮平均约 51.85fps、6.18W，测试后电池最高约 34.2°C。作者记录 Wild Life Extreme 20 次循环 X90 整机平均 11.58W、电池最高 50.8°C；比较 X80 时指出负载与降频影响，不能据此直接计算同性能能效。4K 120 HDR 本地播放测试中，X90 起初输出 120fps 后降至 60fps；这是当时单机和软件版本的观察。九张图片未读取，所有数值未经独立复测。
+
+## Scene 5 外部配置及监测
+
+[35309329](https://www.coolapk.com/feed/35309329) 描述 Scene 5 外部配置接口：切换模式时执行 `sh /data/powercfg.sh [mode]`，模式包括 `init`、`powersave`、`balance`、`performance`、`fast`、`pedestal`。`/data/powercfg.json` 的 `features.strict` 与 `features.pedestal` 声明适配；`state` 可指向状态文件或属性，`module` 列相关模块 ID。严格模式和动态响应启用后，脚本中的 `top_app`/`scene` 可表示前台应用，息屏十秒后可收到 `standby`；文中称当时 `entry` 和 `projectUrl` 字段尚不起作用。路径、字段与权限均需按实际版本验证；配置脚本可执行高权限操作。参考 [uperf 项目](https://github.com/yc9559/uperf) 和 [Scene 应用页](http://www.coolapk.com/apk/com.omarea.vtools)。
+
+[39767537](https://www.coolapk.com/feed/39767537) 区分瞬时频率与上一采样周期负载：文中以固定 2GHz、利用率 93% 举例得到约 1860M cycles。作者用该指标观察温度上升与目标频率、实际频率差异；周期数不是跨架构的完成工作量或性能评分，采样方式、运行时间和硬件计数定义需分别核实。图片未读，测试未经复现。
+
+[34082469](https://www.coolapk.com/feed/34082469) 将 Scene 无法取得 Root 的排查分为网络/本地通信限制、Root 授权被拒或隐藏、安装异常及历史版本缺陷；帖子称旧版试用到期和大跨度升级问题可通过更新后重启处理。具体版本与管理器行为可能不同，应先核对授权状态与本地连接。
+
+## 频率和负载案例
+
+[36015817](https://www.coolapk.com/feed/36015817) 强调 DDR `MinFreq` 是下限，而非固定频率或上限。作者在 K50 游戏场景报告下限 800 时约 30–58fps、4266 时约 47–60fps、5500/6400 时约 53–60fps，对应电流约 1.9/2.0/2.1A；负载、温度与测量条件不完整，不能直接推广或把电流当成功率。提高下限可能改善受内存限制场景，也可能增加闲置功耗。
+
+[34809523](https://www.coolapk.com/feed/34809523) 记录当时 K50 Pro / 天玑 9000 系统的 CPU `policy0`、`policy4`、`policy7` 和 GPU `/sys/class/devfreq/13000000.mali/` 接口、cpuset/cpuctl 与 core_ctl；文中还列出旧版设备的频点及温控目录。节点、单位与权限因内核和设备而异，不能直接照搬写入；帖子也提醒线程固定可能与系统调度冲突。关联[频率测试](https://www.coolapk.com/feed/34503960)尚未读取，图片亦未读。
+
+## 游戏与温度观察
+
+[36457823](https://www.coolapk.com/feed/36457823) 讨论天玑 8100 游戏 120fps/HDR 的调度对比，但关键数据在未读图片中，不据正文断言哪套方案更好。[35349602](https://www.coolapk.com/feed/35349602) 在改装设备和外置背夹下记录游戏瞬时 CPU 温度与电流；不同模式、散热条件无法构成公平性能对比。[34502499](https://www.coolapk.com/feed/34502499) 是 K50 Pro 上市初期体验：作者称默认 FHD、压力测试频率下降及游戏频率限制，关键曲线与充电数据在未读图片中；观点不代表后续系统表现。
