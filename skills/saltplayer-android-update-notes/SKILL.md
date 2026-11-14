@@ -81,3 +81,12 @@ description: "SaltPlayer Android 版本变更参考"
 ## 折叠屏播放界面的曲线适配案例
 
 [原帖 74352329](https://www.coolapk.com/feed/74352329)报告，为小米 Fold 18 的 D 形屏幕圆角适配播放界面展开动画，借助 AI 辅助反编译系统桌面取得圆角曲线算法。正文没有算法代码、参数或反编译步骤，不构成可照抄实现，也不证明所有折叠屏都可采用同一曲线。帖子对于文档、测试设备和白名单支持的描述是当时开发经历，不当作现行全平台规则。
+
+
+## 更多版本与桌面模组参考
+
+- [椒盐音乐 PC 创意工坊与模组开发](references/source-74496145.md)
+- [Salt Player 12.3.0 更新内容](references/source-73563400.md)
+- [椒盐音乐 12.2.0 更新记录](references/source-73171807.md)
+- [椒盐音乐 Salt Player 鸿蒙原生 1.5.0：导入、扫描与界面修复](references/source-73009079.md)
+- [SaltPlayer 小米专属功能适配沟通与专区计划](references/source-73778872.md)
