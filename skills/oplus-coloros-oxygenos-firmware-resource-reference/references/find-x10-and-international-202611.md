@@ -14,3 +14,8 @@
 | realme GT8 Pro，印度 | RMX5210_16.0.9.404(EX01) A.74 | RealmeUI 全量包 | [夸克](https://pan.quark.cn/s/9de12ba4cf74) | [原帖](https://www.coolapk.com/feed/74922026) |
 
 realme 帖子关联一条[跨区刷机动态](https://www.coolapk.com/feed/74921057)，其正文没有具体操作步骤，图片尚未读取；不能据此认定适用条件或安全性。
+
+## 移植与系统功能反馈
+
+- [一加 8 反馈](https://www.coolapk.com/feed/74942681)称有人移植 ColorOS 16，体验流畅；未给出移植包、构建版本、安装步骤或测试条件，图片未读取，不能据此判断可用性。
+- [realme GT8 Pro 反馈](https://www.coolapk.com/feed/74939834)称海外版 ColorOS 17 可以设置单个应用的语言。正文未给出地区、构建号和设置路径，图片未读取；这是单条用户观察，尚未独立验证。
