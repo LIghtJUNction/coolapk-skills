@@ -21,3 +21,13 @@
 ## 下载入口
 
 72730502、72911215、73282847、73282864、73282889 和 73316545 的已采集作者评论均提供 [OpenList](https://wp.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1)、[123 云盘](https://www.123684.com/s/lUXDVv-724Wh)。73440666 和 73486473 的已采集评论未发现对应入口，不能推断其与其他帖相同。未发现公开提取码；下载页及文件未验证，图片及完整评论未读。
+
+## 补充版本与资源
+
+- [72911320](https://www.coolapk.com/feed/72911320) v2.3.3：小米 14 移植 OS3.0.303.0.WNCCNXM、Android 16、安全补丁 2026-06-01；底包 K70 Pro OS3.0.302.0.WNMCNXM、K80 OS3.0.303.0.WOKCNXM、小米 14 OS3.0.303.0.WNCCNXM、14 Pro OS3.0.306.0.WNBCMXM（按原文保留，待核实）。
+- [72911266](https://www.coolapk.com/feed/72911266) v2.3.3：同移植版本和补丁；底包 K60 Pro OS3.0.303.0.WMKCNXM、K70 OS3.0.303.0.WNKCNXM、小米 13 OS3.0.307.0.WMCCNXM、13 Pro OS3.0.309.0.WMBCNXM。作者另称[小米 13 下载问题已解决](https://www.coolapk.com/feed/72915821)，未验证该后续帖子与文件。
+- [73316516](https://www.coolapk.com/feed/73316516) v3.0.0：Redmi K90 移植 OS4.0.0.19.XPKCNXM Beta、Android 17、安全补丁 2026-08-01；底包与 72911266 相同。
+- [73486622](https://www.coolapk.com/feed/73486622) v4.0.7：Redmi K90 移植 OS4.0.0.24.XPKCNXM Beta、Android 17、安全补丁 2026-08-01；底包 K70 Pro OS3.0.302.0.WNMCNXM、K80 OS3.0.303.0.WOKCNXM、小米 14 OS3.0.305.0.WNCCNXM、14 Pro OS3.0.306.0.WNBCMXM（按原文保留）。
+- [74056469](https://www.coolapk.com/feed/74056469) v4.0.25：手机移植基线为 Redmi K80 OS4.0.0.12.XOKCNXM，底包为小米 14 OS3.0.305.0.WNCCNXM、14 Pro OS3.0.306.0.WNBCMXM、13 OS3.0.307.0.WMCCNXM；Pad 6S Pro 使用小米 Pad 8 OS4.0.0.43.XPZCNXM 移植，底包 OS3.0.304.0.WNXCNXM。不要混用手机和平板版本。
+
+72911320、72911266 和 73316516 的已采集作者评论提供 [OpenList](https://wp.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1)、[123 云盘](https://www.123684.com/s/lUXDVv-724Wh)；73316516 补充了 [OpenList 入口](https://alist.1mxy.cn/139)。73486622 评论提供后一个 OpenList 入口和上述 139、123 云盘入口。这些评论称包内带 KSU，管理器需自行解压安装。74056469 已采集评论未发现入口；图片、完整评论和文件均未验证。
