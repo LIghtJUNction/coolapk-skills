@@ -147,3 +147,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [魅族 M3 Pro 预告与红魔 10 Pro 发布资料](references/meizu-m3pro-redmagic10.md)
 
 - [魅族生态设备发布记录（2022–2024）](references/meizu-ecosystem-2022-2024.md)
+
+- [iQOO 15 屏幕与发布配置（2025）](references/iqoo15-screen-and-launch.md)
