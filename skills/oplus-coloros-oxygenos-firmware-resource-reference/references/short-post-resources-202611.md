@@ -62,3 +62,15 @@
 [74812470](https://www.coolapk.com/feed/74812470) 报告 Find X9 Ultra 国行转海外系统时遇到 Super 分区空间不足，作者采用外接 OTG 存储而非存于可能被重分区清除的内部 data，并称其测试的两个 Recovery 的 ADB sideload 不可用、部分 U 盘无法识别。关于卫星版刷普通海外包及重新上锁的说法未经验证，不能推断其他版本可安全上锁；刷写、分区调整与上锁都可能导致数据丢失或无法启动。
 
 [74812434](https://www.coolapk.com/feed/74812434) 称 Ace 2 使用一加 11R OxygenOS 16 时，早期闪屏不再出现，但控制中心背景全透明；更换主题能否解决只是作者猜测。[74809153](https://www.coolapk.com/feed/74809153) 描述 Ace 6T 使用 15R 包并替换国内 `odm.img` 后前摄可用、但 OTA 不可用的单机观察；上锁可行性的声明未经独立验证，不应作为操作依据。两帖图片未读、实机未复测。
+
+## GT5、Find N3 与 K13 Turbo Pro
+
+| 来源 | 机型 | 固件版本 | 类型 | 公开资源 |
+|---|---|---|---|---|
+| [74806773](https://www.coolapk.com/feed/74806773)、[74790012](https://www.coolapk.com/feed/74790012) | Realme GT5 150W | RMX3820_16.0.5.1300(CN01) H.32 | 全量包 | [夸克](https://pan.quark.cn/s/4af4916a4436)、[迅雷](https://pan.xunlei.com/s/VP5RM_I1BprZuS7zRqiOYE68A1?pwd=t56z)，提取码 `t56z`；迅雷来自前一帖 |
+| [74803362](https://www.coolapk.com/feed/74803362) | OPPO Find N3 | PHN110_15.0.0.850(CN01) F.56 | 降级包 | [夸克](https://pan.quark.cn/s/ee3b94c7fa7a)、[迅雷](https://pan.xunlei.com/s/VP5Qnr-gpWnMx7tTeBwm3h8_A1?pwd=trag)，提取码 `trag` |
+| [74803357](https://www.coolapk.com/feed/74803357) | OPPO Find N3 | PHN110_14.0.0.841(CN01) C.21 | 降级包 | [夸克](https://pan.quark.cn/s/aeb1611d6249)、[迅雷](https://pan.xunlei.com/s/VP5QhgYCxOKD5aCTFgTP_iZGA1?pwd=96s6)，提取码 `96s6` |
+| [74789702](https://www.coolapk.com/feed/74789702) | OPPO Find N3 | PHN110_13.2.0.114(CN01) A.33 | 降级包 | [夸克](https://pan.quark.cn/s/fbe4a3bd8672)、[迅雷](https://pan.xunlei.com/s/VP5Ny9buq5eDxAH8tV8m5NnYA1?pwd=32pw)，提取码 `32pw` |
+| [74783521](https://www.coolapk.com/feed/74783521)、[74782730](https://www.coolapk.com/feed/74782730) | OPPO K13 Turbo Pro | PLE110_15.0.2.601(CN01) A.26 | 降级包 | [夸克](https://pan.quark.cn/s/387aa227ccb2)、[迅雷](https://pan.xunlei.com/s/VP5M9adf5_v7qpgmnJ5u2V_fA1?pwd=da2v)，提取码 `da2v`；迅雷来自前一帖 |
+
+资源与文件未验证；带图片帖子图片未读。
