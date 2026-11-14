@@ -112,3 +112,5 @@ description: "Android 跨品牌主题与图标包适配维护参考"
 - [ColorOS 17 状态栏秒数入口与时限](references/coloros17-statusbar-seconds.md)
 - [小米主题图标：完美图标与超无界](references/coolapk-miui-theme-icons.md)
 - [《时光轮》主题与相关表盘功能记录](references/shiguanglun-theme-and-watch-face.md)
+- [补全计划 One：OneUI 7、OPPO 与 HyperOS 适配记录](references/one-theme-oneui-oppo-hyperos.md)
+- [补全计划 One II：ColorOS 16 下架与适配状态](references/one-ii-coloros16-takedown.md)
