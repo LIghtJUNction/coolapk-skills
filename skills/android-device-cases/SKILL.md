@@ -129,3 +129,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [鸿蒙伙伴 SDK 与天马 OLED 技术发布记录](references/harmony-sdk-tianma-oled.md)
 
 - [OriginOS 4、BlueOS 与 iQOO Neo11 至尊版](references/originos4-iqoo-neo11.md)
+
+- [红魔 9S Pro 系列与雷鸟 iO 发布资料](references/redmagic9s-rayneo-io.md)
