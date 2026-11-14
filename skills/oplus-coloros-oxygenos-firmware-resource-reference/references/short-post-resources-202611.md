@@ -76,3 +76,12 @@
 资源与文件未验证；带图片帖子图片未读。
 
 [74789413](https://www.coolapk.com/feed/74789413) 提及社区为一加 Ace 2 Pro 和 OPPO Ace 2 移植 ColorOS 17；项目名、包版本及适配状态主要依赖未读截图，正文不足以确认可下载或可刷入的版本。
+
+## 一加 Ace 7 系列
+
+| 来源 | 机型 | 固件版本 | 类型 | 公开资源 |
+|---|---|---|---|---|
+| [74765598](https://www.coolapk.com/feed/74765598) | 一加 Ace 7 | PYF110_17.0.0.157(CN01) A.27 | ColorOS 全量包 | [夸克](https://pan.quark.cn/s/cdd74aa58a45) |
+| [74765509](https://www.coolapk.com/feed/74765509) | 一加 Ace 7 Pro | PMS110_17.0.0.159(CN01) A.20 | ColorOS 全量包 | [夸克](https://pan.quark.cn/s/5d8e51bbf2dc) |
+
+链接、文件和适配条件未验证，图片未读取。
