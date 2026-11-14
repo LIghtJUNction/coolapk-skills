@@ -23,3 +23,5 @@
 [74940111](https://www.coolapk.com/feed/74940111) 讨论一加设备开发代号命名，并就所称一加 16 的代号由来提出疑问；帖子未给出答案，所列代号也未独立核实。[关联视频](https://www.bilibili.com/video/BV1iaV4zpEFT)与图片未读。
 
 [74898785](https://www.coolapk.com/feed/74898785) 提及 SystemHelper 屏蔽模块的 LSPosed 或 Root 版本二选一；已采集作者评论提供 [夸克网盘](https://pan.quark.cn/s/b476cb03b958)。文件内容、版本适配和下载未验证，图片及完整评论未读。
+
+[74900335](https://www.coolapk.com/feed/74900335) 称当时 KernelSU-Next 加入危险模块检查与警告，对黑名单模块阻止安装，较低风险模块允许用户确认后继续；原帖未提供具体版本、名单规则或验证过程，图片未读，不能推断当前实现。
