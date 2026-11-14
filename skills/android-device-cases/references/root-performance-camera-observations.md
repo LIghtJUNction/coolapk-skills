@@ -21,3 +21,5 @@
 [74946231](https://www.coolapk.com/feed/74946231) 推荐 [COUI Kit](https://itoseo.github.io/COUI-Kit/) 作为 ColorOS 风格界面与图标资源，并提供 [基于 GitHub 的更新技能](https://github.com/daxiaamu/update-by-github-skill)。功能、兼容性和链接当前状态未验证，四张图片未读。
 
 [74940111](https://www.coolapk.com/feed/74940111) 讨论一加设备开发代号命名，并就所称一加 16 的代号由来提出疑问；帖子未给出答案，所列代号也未独立核实。[关联视频](https://www.bilibili.com/video/BV1iaV4zpEFT)与图片未读。
+
+[74898785](https://www.coolapk.com/feed/74898785) 提及 SystemHelper 屏蔽模块的 LSPosed 或 Root 版本二选一；已采集作者评论提供 [夸克网盘](https://pan.quark.cn/s/b476cb03b958)。文件内容、版本适配和下载未验证，图片及完整评论未读。

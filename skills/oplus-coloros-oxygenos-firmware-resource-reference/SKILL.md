@@ -111,3 +111,5 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 - [Find X5 Pro、A92s、真我13/15 Pro与Turbo 6X Pro固件补充](references/version-supplement-04.md)
 
 - [ColorOS 17 降至 16：2026-10-27 目录补充](references/coloros17-downgrade-20261027.md)
+
+- [OPPO 与一加短帖固件资源](references/short-post-resources-202611.md)
