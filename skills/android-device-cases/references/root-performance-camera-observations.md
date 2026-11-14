@@ -33,3 +33,5 @@
 [74834816](https://www.coolapk.com/feed/74834816) 称当时 GKD Beta 可使用 Root、ADB 或 Shizuku；Root 对保活和点击速度更好的说法未经验证，具体能力以版本为准。[74850540](https://www.coolapk.com/feed/74850540) 记录用 MacroDeck 控制台启动应用的个人选择，关联[快捷键讨论](https://www.coolapk.com/feed/74636932)和 [MacroDeck 3 更新帖](https://www.coolapk.com/feed/74127340)；关联帖和图片未读。
 
 [74831008](https://www.coolapk.com/feed/74831008) 报告某些 Platform Tools 版本的 `adb push` 文件名截断、进度显示不一致，以及 fastboot 刷写 vbmeta 时偏移错误；作者称回退版本解决后者，但未给出完整版本号、日志和复现环境。应记录 `adb version` / `fastboot --version`、完整错误、设备及目标路径并核验传输文件，不能据此断定所有 SDK 36/37 版本均有该问题。
+
+[74830304](https://www.coolapk.com/feed/74830304) 称月虹提权助手 1.6.6 内置 ROM 库、1.6.7 新增无线调试；功能、来源与适配范围未独立验证。

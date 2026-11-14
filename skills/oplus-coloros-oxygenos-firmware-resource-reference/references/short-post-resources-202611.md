@@ -56,3 +56,9 @@
 | [74812431](https://www.coolapk.com/feed/74812431) | 一加 11R | CPH2487_16.0.5.1301(EX01) H.59 | 全量包 | [夸克](https://pan.quark.cn/s/e2cd4c91fa05)、[迅雷](https://pan.xunlei.com/s/VP5SPjque2CEOvHnoiaMF0SxA1?pwd=crsi)，提取码 `crsi` |
 
 链接、文件和适配条件未验证，带图帖图片未读取。
+
+## 跨地区系统历史案例
+
+[74812470](https://www.coolapk.com/feed/74812470) 报告 Find X9 Ultra 国行转海外系统时遇到 Super 分区空间不足，作者采用外接 OTG 存储而非存于可能被重分区清除的内部 data，并称其测试的两个 Recovery 的 ADB sideload 不可用、部分 U 盘无法识别。关于卫星版刷普通海外包及重新上锁的说法未经验证，不能推断其他版本可安全上锁；刷写、分区调整与上锁都可能导致数据丢失或无法启动。
+
+[74812434](https://www.coolapk.com/feed/74812434) 称 Ace 2 使用一加 11R OxygenOS 16 时，早期闪屏不再出现，但控制中心背景全透明；更换主题能否解决只是作者猜测。[74809153](https://www.coolapk.com/feed/74809153) 描述 Ace 6T 使用 15R 包并替换国内 `odm.img` 后前摄可用、但 OTA 不可用的单机观察；上锁可行性的声明未经独立验证，不应作为操作依据。两帖图片未读、实机未复测。
