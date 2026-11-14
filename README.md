@@ -6,6 +6,15 @@
 
 | 分类 | 技能 |
 |---|---|
+| 容器与 CI/CD | [Docker 离线安装与 Jenkins JDK 21 容器部署案例](skills/docker-jenkins-jdk21-case/SKILL.md) |
+| 流媒体服务 | [Docker 部署 SRS 6 流媒体与 HLS 推流播放案例](skills/docker-srs6-hls-case/SKILL.md) |
+| 运维监控 | [CentOS 7 下 MySQL 5.7 与 Zabbix 监控部署案例](skills/zabbix-mysql57-centos7-case/SKILL.md) |
+| 数据库开发 | [Windows 与 Qt QODBC 连接 MySQL 配置案例](skills/qt-odbc-mysql-case/SKILL.md) |
+| 缓存服务 | [Redis 6.2 容器配置、密码与远程访问设置案例](skills/redis-6-configuration-case/SKILL.md) |
+| 服务器部署 | [Java 应用与宝塔、Nginx、MySQL 部署及排错案例](skills/java-baota-nginx-deploy-case/SKILL.md) |
+| 容器编排 | [Docker 部署 Rancher v2.8.4 与自定义 K8s 集群案例](skills/rancher-kubernetes-docker-case/SKILL.md) |
+| 容器编排 | [K3s 单节点轻量化集群安装与镜像脚本案例](skills/k3s-single-node-install-case/SKILL.md) |
+| 容器与 CI/CD | [Portainer、Jenkins 与 Gitee Webhook CI/CD 案例](skills/docker-jenkins-gitee-cicd-case/SKILL.md) |
 | Python 环境 | [Linux Conda 独立环境案例](skills/conda-python-environment-case/SKILL.md) |
 | 服务器部署 | [GitLab 容器部署案例](skills/gitlab-container-deployment-case/SKILL.md) |
 | 目标检测 | [YOLOv3 Darknet 构建案例](skills/darknet-yolov3-build-case/SKILL.md) |
