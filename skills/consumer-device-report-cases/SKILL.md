@@ -51,3 +51,10 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [手机贴膜的摔落防护体验](references/source-74930218.md)
 
 - [G304滚轮飘：历史售后渠道反馈](references/source-69899919.md)
+
+
+## ColorOS历史功能与售后案例
+
+- [OPPO 众测与 ColorOS 14 功能体验记录](references/source-57092806.md)
+- [ColorOS 14 内测历程与功能记录](references/source-51292931.md)
+- [OPPO Reno5 Pro+ 售后维修个案](references/source-62338388.md)

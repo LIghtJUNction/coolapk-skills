@@ -4,6 +4,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| ColorOS工作流 | [扫描、AI笔记、NFC通知与APK分享](skills/coloros-document-and-automation-workflows/SKILL.md) |
 | Termux与AI | [OpenClaw Zero Token构建与启动](skills/termux-openclaw-zero-token/SKILL.md) |
 | 手机刷机 | [OTG双手机fastboot与线刷](skills/android-otg-fastboot/SKILL.md) |
 | AK3版本 | [FinaSU 33194适配与公开资源](skills/finasu-ak3-version-cases/SKILL.md) |

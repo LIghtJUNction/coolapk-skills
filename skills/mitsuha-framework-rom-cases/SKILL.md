@@ -109,3 +109,15 @@ description: 查询Mitsuha Framework的功能开关、重启条件、在线更�
 - [一加Ace5 FlymeAIOS12.6 Beta6](references/flymeaios-ace5-beta6.md)：Aicy、相机、TWRP/DATA修复和13T预告分开。
 - [小米17系列OS3.0.315/Ultra307](references/xiaomi17-os315-case.md)：不把Ultra记成315。
 - [Note12Turbo OS2.0.210.0](references/note12-turbo-os2-case.md)：记录系统组件、Root和原帖启动故障处理的适用缺口。
+
+
+## NeoHyper / Mimosa：BloomSeas 2.0.7.0
+
+NeoHyper这些来源称使用MimosaFramework，不能与Mitsuha主发行版或其他衍生包的支持范围互换。公共功能复用，机型反馈按各帖分别读取。
+
+- [NeoHyper BloomSeas-2.0.7.0：公共功能、框架声明与刷机边界](references/neohyper-bloomseas-2-0-7-core.md)
+- [REDMI K90 系列 NeoHyper BloomSeas-2.0.7.0 机型参考](references/neohyper-source-74772351.md)
+- [REDMI K80/K80 Pro/K100 Pro Max NeoHyper BloomSeas-2.0.7.0 机型参考](references/neohyper-source-74772393.md)
+- [Xiaomi 17 系列 NeoHyper BloomSeas-2.0.7.0 机型参考](references/neohyper-source-74772309.md)
+- [Xiaomi 15 系列 NeoHyper BloomSeas-2.0.7.0 机型参考](references/neohyper-source-74772268.md)
+- [Xiaomi 17 Max/Ultra NeoHyper BloomSeas-2.0.7.0 机型参考](references/neohyper-source-74772224.md)
