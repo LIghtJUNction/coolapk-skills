@@ -19,3 +19,9 @@
 ## 资源
 
 71384850 正文及 72213099、71184733、71535444、71535334、71184748 的作者评论提供 [Alist](https://oss.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1) 和 [123 云盘](https://www.123684.com/s/lUXDVv-724Wh)。72326028 正文使用 [OpenList](https://wp.1mxy.cn/139) 和同一 139、123 云盘；72213099 作者另提供该 OpenList。文件、链接可用性和公开提取码未验证；图片和完整评论未读。
+
+## v2.2.1：K60 Pro、小米 13 与 13 Pro
+
+[71535380](https://www.coolapk.com/feed/71535380)称基于小米 14 的 OS3.0.302.0.WNCCNXM、Android 16，补丁 2026-03-01；底包分别为 K60 Pro OS3.0.303.0.WMKCNXM、小米 13 OS3.0.303.0.WMCCNXM、小米 13 Pro OS3.0.305.0.WMBCNXM。作者称自带 KSU，管理器需从链接压缩包自行解压安装，且仅能刷指定机型、要求解锁 Bootloader，不支持解密包直接刷入；“无 bug”为作者声明，未实测。
+
+作者评论提供 [Alist](https://oss.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1) 和 [123 云盘](https://www.123684.com/s/lUXDVv-724Wh)。未发现公开提取码；文件及链接可用性未验证，图片和完整评论未读。
