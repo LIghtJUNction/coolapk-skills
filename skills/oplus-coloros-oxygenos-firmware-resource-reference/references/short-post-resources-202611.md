@@ -33,3 +33,14 @@
 ## OPlus 盒子降级说明
 
 [74894814](https://www.coolapk.com/feed/74894814) 提到 Root 后使用 OPlus 盒子的“增强型本地安装”安装对应降级包；[74878212](https://www.coolapk.com/feed/74878212) 称临时 Root 也可使用，且降级走官方通道。这些是作者描述，具体设备支持、权限、反回滚条件和安全性均未独立验证；不要据此认为任意降级包都适用。第一帖关联的[降级目录](https://www.coolapk.com/feed/74659713)当前缓存正文截断，已能对应的资源见 [历史目录补充](coloros17-downgrade-20261027.md)。两帖图片均未读。
+
+## Realme 12 Pro+ 与 OPPO A5x/A5m
+
+| 来源 | 机型 | 固件版本 | 类型 | 公开资源 |
+|---|---|---|---|---|
+| [74871477](https://www.coolapk.com/feed/74871477) | Realme 12 Pro+ RMX3841 | 14.0.0.902(CN01) | OFP 线刷包 | [夸克](https://pan.quark.cn/s/a17e3f6e7d19)、[迅雷](https://pan.xunlei.com/s/VP5dOMKRatFWafdmqumY4qohA1?pwd=eqs2)，提取码 `eqs2` |
+| [74857191](https://www.coolapk.com/feed/74857191) | Realme 12 Pro+ RMX3841 | 15.0.0.400(CN01) | OFP 线刷包 | [夸克](https://pan.quark.cn/s/21e51920b0e0)、[迅雷](https://pan.xunlei.com/s/VP5c0FWamSulE_uAbhkRH6TRA1?pwd=62h3)，提取码 `62h3` |
+| [74856229](https://www.coolapk.com/feed/74856229) | OPPO A5x / A5m PKW110 | 15.0.1.708(CN01) A.32 | 降级包 | [夸克](https://pan.quark.cn/s/5376ff81fa30)、[迅雷](https://pan.xunlei.com/s/VP5akrtVrxGiGJL3JDwUpXexA1?pwd=k9ws)，提取码 `k9ws` |
+| [74856220](https://www.coolapk.com/feed/74856220) | Realme 12 Pro+ RMX3841 | 14.0.0.807(CN01) | OFP 线刷包 | [夸克](https://pan.quark.cn/s/5790129ac2f8)、[迅雷](https://pan.xunlei.com/s/VP5bfK5kHzeGuPRApk0Dmrb_A1?pwd=fp3z)，提取码 `fp3z` |
+
+机型、包类型、版本和链接来自对应帖子；文件、下载有效性和刷机条件未验证。
