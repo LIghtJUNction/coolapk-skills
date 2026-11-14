@@ -113,3 +113,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [HarmonyOS NEXT 应用与 ColorOS 16 架构记录](references/harmony-next-and-coloros16-architecture.md)
 
 - [天玑 9600 Pro、ColorOS 17 与 NaviX Ultra 资料](references/2026-dimensity-coloros-navix.md)
+
+- [Find N5 与拯救者 Y700 无极使用记录](references/find-n5-y700-field-reports.md)
