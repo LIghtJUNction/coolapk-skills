@@ -77,3 +77,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [HyperOS 小米 17 移植 r17/r17.2：机型、问题与资源](references/hyperos-r17-port-variants.md)
 
 - [NexusHyper v2 移植机型、底包与评论下载入口](references/nexushyper-v2-ports.md)
+
+- [HyperOS r16.2 移植机型、底包与资源](references/hyperos-r16-port-variants.md)

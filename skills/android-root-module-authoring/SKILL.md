@@ -37,3 +37,5 @@ description: 从 Root 模块历史模板学习安装脚本、架构判断、管�
 ## 安装结果与误执行案例
 
 [安装结果验证与脚本执行记录](references/install-verification.md)区分日志提示、模块识别和实际功能；[历史模板迁移](../legacy-magisk-template-migration/SKILL.md)另列旧接口、公开下载和兼容边界。
+
+- [GKI 内核集成 SukiSU 与 KPM：历史教程和上游边界](references/gki-sukisu-build-notes.md)
