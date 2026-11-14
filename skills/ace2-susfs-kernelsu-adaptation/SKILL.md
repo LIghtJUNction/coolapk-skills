@@ -24,3 +24,8 @@ description: "记录帖子提及的机型、功能组合和 GitHub 工作流资�
 ## 源码版本声明的核对
 
 [版本号、上游提交与构建证据](references/source-version-provenance.md)说明修改Makefile、引入功能、启用配置和实际运行是不同证据；该通用区别不扩大本技能的机型适配清单。
+
+
+## 来源补充
+
+- [ACE2公开项目与适配输入字段](references/project-entry.md)

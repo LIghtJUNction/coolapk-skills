@@ -37,3 +37,8 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 ## 补充来源案例
 
 [一加8系列PE Plus及ColorOS Root进度](references/oneplus8-pe-plus-coloros-root.md)分别保留ROM介绍下载页与Root第二版支持；话题标签不等于适配清单。
+
+
+## 来源补充
+
+- [Motorola X70 Air解锁与临时引导记录](references/motorola-x70-air.md)

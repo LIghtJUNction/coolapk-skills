@@ -1,22 +1,58 @@
-# 红米 K80 Pro：区分 AVF 测试路径
+# 在 Android 设备上测试受保护的 Microdroid
 
-## 社区证据
+来源：[Coolapk 原帖](https://www.coolapk.com/feed/66587066)。原帖讨论在 Android 设备上测试 pKVM（受保护的基于内核的虚拟机）及 Microdroid；作者说明自定义 VM 的运行流程仍在摸索，因此本文仅记录 Microdroid 测试。
 
-[社区测试记录](https://www.coolapk.com/feed/66587066)使用 LineageOS 22.2 源码构建的 Microdroid demo。作者报告：在红米 K80 Pro 上，demo 未能进入终端，而脚本测试可运行。这只能支持两条测试路径表现不同，不能单凭 demo 失败认定设备不支持 pKVM。
+## 背景与适用条件
 
-## 通用排查顺序
+原帖提到两篇较早的免 root 运行 pKVM 帖子：[帖子一](https://www.coolapk.com/feed/60032562)和[帖子二](https://www.coolapk.com/feed/60427443)。原帖认为 Polygraphene 的 `gunyah-on-sd-guide` 项目需要 root。Pixel 在 Android 13 上的支持情况只作为背景提及，原帖没有讨论该设备路径。
 
-1. 记录设备完整系统、AVF 组件、demo 构建来源以及使用的测试路径。
-2. 在已连通并获授权的 ADB shell 中，先查询当前组件帮助：
+Android 虚拟化框架（AVF）的资料位于 [AOSP Virtualization 仓库](https://cs.android.com/android/platform/superproject/main/+/main:packages/modules/Virtualization/)。原帖建议可用出厂搭载 Android 15 的手机测试 pKVM 支持；这是一项建议，不是对所有 Android 15 设备的兼容性保证。
 
-   ```sh
-   /apex/com.android.virt/bin/vm --help
-   /apex/com.android.virt/bin/vm run-microdroid --help
-   ```
+## 方法一：安装 Microdroid demo app
 
-3. 将“组件存在”“命令可解析”“创建虚拟机”“连接终端”“运行载荷”分别验收。保留私有日志，排除应用权限或终端连接失败后再判断虚拟化能力。
-4. 若准备主动启动虚拟机，先核对对应系统和源码分支的项目说明，不从其他手机复制解锁、刷系统或启用 pKVM 的命令。
+构建 demo app 需要克隆整个 AOSP 仓库。原帖使用此前克隆的 LineageOS 22.2 仓库构建；作者指出它可能与 AOSP 有差异，但可用于测试设备是否支持 pKVM。
 
-[AOSP 入门说明](https://android.googlesource.com/platform/packages/modules/Virtualization/+/refs/heads/main/docs/getting_started.md)提供通过 `vm_shell.sh` 测试 Microdroid 的路径；其列举的支持设备与准备条件不能当作所有安卓手机的保证。
+使用 adb 安装 APK 并授予虚拟机管理权限：
 
-2026-11-13 已读社区文字并核对上述官方说明；图片未读，本库未在 K80 Pro 执行这些检查。社区关于其他 Android 15 出厂设备的建议属于待验证范围。
+```sh
+adb install -t -g MicrodroidDemoApp.apk
+adb shell pm grant com.android.microdroid.demo android.permission.MANAGE_VIRTUAL_MACHINE
+```
+
+运行时需使用 adb 安装并授予权限，且测试时要勾选界面中的两个选项。原帖在红米 K80 Pro 上测试发现：通过 demo app 无法进入 Microdroid 终端执行命令；改用 Microdroid 测试脚本则正常。该结果仅是原帖所述设备上的测试观察。
+
+## 方法二：使用 AOSP 测试脚本
+
+原帖给出的脚本是 [vm_shell.sh](https://cs.android.com/android/platform/superproject/main/+/main:packages/modules/Virtualization/android/vm/vm_shell.sh)。在 Linux 环境中运行：
+
+```sh
+./vm_shell.sh start-microdroid --auto-connect -- --protected
+```
+
+其中 `start-microdroid` 启动 Microdroid，`--auto-connect` 请求自动连接，`--protected` 指定受保护 VM。原帖报告此脚本在红米 K80 Pro 上可正常运行 Microdroid 测试。
+
+## 无 Linux 环境时
+
+原帖建议可查看上述脚本的具体内容，并提出理论上也能通过 adb 或 Shizuku 执行以下命令测试：
+
+```sh
+/apex/com.android.virt/bin/vm run-microdroid --protected
+```
+
+这是原帖的可行性推测，不是已报告完成的测试结果。具体权限、调用方式及不同设备上的行为，原帖未提供验证记录。
+
+在 adb shell 中查看命令帮助：
+
+```sh
+/apex/com.android.virt/bin/vm --help
+/apex/com.android.virt/bin/vm run-microdroid --help
+/apex/com.android.virt/bin/vm run --help
+```
+
+## 范围与资料缺口
+
+原帖没有给出 demo app 的完整构建命令、AOSP/LineageOS 仓库检出步骤、APK 下载链接或构建产物链接；也没有提供自定义 VM 的完整运行教程。原帖含有 3 张图片，但图片内容未提供在本篇文字中，本文不据此补充细节。
+
+## 已读官方说明的历史入口
+
+2026-11-14重新读取的[AOSP入门说明](https://android.googlesource.com/platform/packages/modules/Virtualization/+/refs/heads/main/docs/getting_started.md)另提供vm_shell.sh路径与准备条件；不能把其支持设备泛化到所有安卓机。本文没有在K80 Pro运行任何命令。

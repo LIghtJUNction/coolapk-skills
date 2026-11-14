@@ -333,3 +333,13 @@ AsoulOpt 被描述为线程调整程序，支持主流游戏及部分小众游�
 - [Zygisk Next v1.1.0 发布页](https://github.com/Dr-TSNG/ZygiskNext/releases/tag/v1.1.0)；原帖版本或发布标签：v1.1.0
 - [Shamiko 344 发布页](https://github.com/LSPosed/LSPosed.github.io/releases/tag/shamiko-344)；原帖版本或发布标签：shamiko-344
 
+
+
+## 补全的原帖介绍入口
+
+- [Apodidae介绍](https://www.coolapk.com/feed/54471247)，属于ct调度段落的变体入口。
+- [fas-rs介绍](https://www.coolapk.com/feed/64618435)，与其GitHub发布页分别保留。
+
+依据：[原始模块整合帖](https://www.coolapk.com/feed/47750576)。只移除了酷安分享追踪参数，未改变帖子ID；未读取这两篇目标正文。
+
+fas-rs v4.9.0介绍帖另给[GitHub发布页](https://github.com/shadow3aaa/fas-rs/releases)和[蓝奏云镜像](https://wwr.lanzoui.com/b019jb8mb)，公开提取码：`22bw`。介绍帖标题版本不证明镜像当前文件仍是同版；未下载核验。

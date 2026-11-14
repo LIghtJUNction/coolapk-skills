@@ -23,3 +23,8 @@ description: "整理风扇控制应用的权限要求、开关行为、版本差
 来源：[应用介绍及作者下载回复](https://www.coolapk.com/feed/72675182)、[1.1 更新说明](https://www.coolapk.com/feed/72682726)。
 
 整理日期：2026-11-13。
+
+
+## 来源补充
+
+- [超级风扇App操作与未验证机型范围](references/super-fan.md)

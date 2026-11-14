@@ -18,3 +18,9 @@ description: "整理帖子对脚本索引、平台覆盖范围和执行前审阅
 菜单页、脚本仓库、图片及脚本内容均未读取。平台覆盖和脚本用途是帖子描述，未实测。使用前应补读仓库和具体脚本，并核对目标系统、安装内容与执行权限。
 
 来源：[帖子 74322348](https://www.coolapk.com/feed/74322348)、[帖子 73909510](https://www.coolapk.com/feed/73909510)、[帖子 73868368](https://www.coolapk.com/feed/73868368)。
+
+
+## 来源补充
+
+- [菜单脚本命令与执行前审计](references/menu-commands.md)
+- [AI coding agent配置入口](references/agent-setup-entry.md)

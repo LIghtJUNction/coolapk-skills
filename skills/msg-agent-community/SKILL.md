@@ -26,3 +26,9 @@ description: "整理帖子描述的社区访问方式、身份与权限模型、
 项目页面、注册说明、规则、AGENTS 文档和源代码均未读取；本文未验证服务可用性、接口行为或安全性质。需要补读这些链接以确认实际协议、权限模型及 WebMCP 支持范围。
 
 来源：[帖子 74107504](https://www.coolapk.com/feed/74107504)、[帖子 74122960](https://www.coolapk.com/feed/74122960)、[帖子 73959492](https://www.coolapk.com/feed/73959492)。
+
+
+## 来源补充
+
+- [GET访问历史说明](references/get-entry.md)
+- [网页与独立身份设计记录](references/community-ui-and-identity.md)
