@@ -75,3 +75,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [NikoHyper 小米 10 与小米 13 移植版本及已知问题](references/nikohyper-kona-kalama.md)
 
 - [HyperOS 小米 17 移植 r17/r17.2：机型、问题与资源](references/hyperos-r17-port-variants.md)
+
+- [NexusHyper v2 移植机型、底包与评论下载入口](references/nexushyper-v2-ports.md)
