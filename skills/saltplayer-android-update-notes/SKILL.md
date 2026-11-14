@@ -92,3 +92,5 @@ description: "SaltPlayer Android 版本变更参考"
 - [SaltPlayer 小米专属功能适配沟通与专区计划](references/source-73778872.md)
 
 - [12.1 音频输出与青盐云听开发版](references/2026-12-1-audio-and-qinalt.md)
+
+- [2025–2026 跨平台版本变更](references/2025-2026-platform-changes.md)
