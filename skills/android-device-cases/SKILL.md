@@ -105,3 +105,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [OPPO A5 Pro 发布资料记录](references/oppo-a5-pro-launch-2024.md)
 
 - [2026 年手机发布与图赏记录](references/2026-phone-announcement-observations.md)
+
+- [DX4600 NAS 与 K13 Turbo 历史资料](references/dx4600-k13-launch-cases.md)
