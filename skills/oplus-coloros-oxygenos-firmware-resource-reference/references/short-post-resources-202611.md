@@ -14,3 +14,18 @@
 | [74898236](https://www.coolapk.com/feed/74898236) | OPPO Find X8 | PKB110_16.0.9.400(CN01) C.97 | 降级包 | [夸克网盘](https://pan.quark.cn/s/4344dbe6ea73) |
 
 后两篇 Find X10 帖子的图片未读取；其他帖正文未发现额外公开提取码。
+
+## 后续短帖补充
+
+| 来源 | 机型 | 固件版本 | 类型 | 公开资源 |
+|---|---|---|---|---|
+| [74883363](https://www.coolapk.com/feed/74883363) | OPPO Find X8 | PKB110_15.0.0.832(CN01) A.83 | 降级包 | [迅雷](https://pan.xunlei.com/s/VP5ivJGm4-pgmJKvR8J5W-CTA1?pwd=jwna)，提取码 `jwna` |
+| [74883356](https://www.coolapk.com/feed/74883356) | OPPO Find X8 | PKB110_15.0.0.820(CN01) A.76 | 降级包 | [迅雷](https://pan.xunlei.com/s/VP5iuS7BccBVDZfizBhDRhvHA1?pwd=4dva)，提取码 `4dva` |
+| [74883353](https://www.coolapk.com/feed/74883353) | OPPO Find X8 | PKB110_16.0.9.400(CN01) C.97 | 降级包 | [迅雷](https://pan.xunlei.com/s/VP5itFG223FApkaqvL20GVmOA1?pwd=q8uk)，提取码 `q8uk` |
+| [74881668](https://www.coolapk.com/feed/74881668) | OPPO Pad 5 Pro | OPD2511_16.0.9.401(CN01) A.32 | 降级包 | [夸克](https://pan.quark.cn/s/bf7601d75668) |
+| [74876731](https://www.coolapk.com/feed/74876731) | OPPO Find N5 | PKH110_16.0.9.400(CN01) C.95 | 降级包 | [夸克](https://pan.quark.cn/s/f0c047fd2f21) |
+| [74876724](https://www.coolapk.com/feed/74876724) | OPPO Find X8 | PKB110_15.0.0.126(CN01) A.34 | OFP 线刷包 | [夸克](https://pan.quark.cn/s/3b634059c893)、[迅雷](https://pan.xunlei.com/s/VP5czTf7_RpFKHj3dmO6ZNO0A1?pwd=4jxz)，提取码 `4jxz` |
+| [74876720](https://www.coolapk.com/feed/74876720) | OPPO Find X10 Pro Max | PMX110_17.0.1.202(CN01) A.61 | 全量包 | [夸克](https://pan.quark.cn/s/822b0464a112) |
+| [74873940](https://www.coolapk.com/feed/74873940) | OnePlus 16 | PYB110_17.0.1.201(CN01) A.44 | 全量包 | [夸克](https://pan.quark.cn/s/58f0c85aae92) |
+
+各条资源的可访问性、文件和适配条件未验证；带图帖子图片未读取。
