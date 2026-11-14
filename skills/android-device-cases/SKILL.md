@@ -143,3 +143,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [vivo Pad6 Pro 与真我 Neo8 显示资料](references/vivo-pad6-realme-neo8.md)
 
 - [红魔 8 系列及电竞平板发布资料（2023）](references/redmagic-8-series-2023.md)
+
+- [魅族 M3 Pro 预告与红魔 10 Pro 发布资料](references/meizu-m3pro-redmagic10.md)
