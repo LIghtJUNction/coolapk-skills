@@ -98,3 +98,10 @@ JT9原帖高频范围写成 `3000~1000Hz`，上下界倒置；这里只保留其
 - [测评 73307924](https://www.coolapk.com/feed/73307924)
 - [测评 73109470](https://www.coolapk.com/feed/73109470)
 - [测评 72488420](https://www.coolapk.com/feed/72488420)
+
+## 扩展参考
+
+- [蓝牙耳机测评：降噪、透传、频响与听感](references/bluetooth-headphone-measurement-reviews.md)
+- [有线入耳选购参考](references/wired-iem-buying-guide-2026.md)
+- [水月雨星野3：结构、频响与听感记录](references/moondrop-starfield-3-review.md)
+- [天使吉米 OLA II：DSP、无源调音与佩戴](references/tanchjim-ola-ii-dsp-review.md)

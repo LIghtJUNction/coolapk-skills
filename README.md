@@ -6,6 +6,8 @@
 
 | 分类 | 技能 |
 |---|---|
+| 手机刷机 | [一加 12 ColorOS 14 Fastboot 线刷案例](skills/oneplus-12-coloros14-fastboot-flashing/SKILL.md) |
+| 跨系统实验 | [ios-sweet 安卓设备启动 iOS 实验记录](skills/ios-sweet-android-experiment/SKILL.md) |
 | 容器与 CI/CD | [Docker 离线安装与 Jenkins JDK 21 容器部署案例](skills/docker-jenkins-jdk21-case/SKILL.md) |
 | 流媒体服务 | [Docker 部署 SRS 6 流媒体与 HLS 推流播放案例](skills/docker-srs6-hls-case/SKILL.md) |
 | 运维监控 | [CentOS 7 下 MySQL 5.7 与 Zabbix 监控部署案例](skills/zabbix-mysql57-centos7-case/SKILL.md) |
