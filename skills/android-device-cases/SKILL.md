@@ -50,3 +50,11 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [一加 Ace 7 Pro：BL 解锁与 Root 刷写步骤（原帖记录）](references/source-74820903.md)
 - [联想 Y700 无极：BL 解锁、Root、伪回锁与 TEE 处理](references/source-73470098.md)
 - [联想拯救者 Y700 四代：112/117 系统 Root 镜像与 9008 刷机包](references/source-70379642.md)
+
+
+## 补充技术报告
+
+- [MediaTek 离线 Brom/Preloader 实验记录](references/source-74363250.md)
+- [DA2 的版本检查与 heapbait 利用条件](references/source-74964177.md)
+- [QC Unlock2 与 RPMB 安全性讨论](references/source-73289046.md)
+- [vivo 高通机型免拆 BL 与分区刷写动态记录](references/source-72787881.md)

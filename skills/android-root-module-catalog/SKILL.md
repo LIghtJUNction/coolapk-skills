@@ -38,3 +38,8 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 - [KernelSU、Alpha、APatch 等管理器的环境隐藏模块配置记录](references/source-71807864.md)
 - [KernelSU、Alpha 与 APatch 环境隐藏包：0417教程及反馈](references/source-71270068.md)
 - [APatch/FolkPatch 环境隐藏教程（0302版）](references/source-70474353.md)
+
+
+## 补充技术报告
+
+- [Android 禁用系统更新模块的类型与适用范围](references/source-72833999.md)
