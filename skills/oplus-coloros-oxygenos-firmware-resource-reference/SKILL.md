@@ -114,3 +114,4 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 
 - [OPPO 与一加短帖固件资源](references/short-post-resources-202611.md)
 - [realme OFP 线刷包资源](references/realme-ofp-202611.md)
+- [OPPO A7 系列与一加平板固件资源](references/oppo-tablet-and-a7-resources.md)
