@@ -4,6 +4,10 @@
 
 | 分类 | 技能 |
 |---|---|
+| Termux与AI | [OpenClaw Zero Token构建与启动](skills/termux-openclaw-zero-token/SKILL.md) |
+| 手机刷机 | [OTG双手机fastboot与线刷](skills/android-otg-fastboot/SKILL.md) |
+| AK3版本 | [FinaSU 33194适配与公开资源](skills/finasu-ak3-version-cases/SKILL.md) |
+| Android进程 | [挂载命名空间与ART文件句柄实验](skills/android-app-mount-namespace-experiments/SKILL.md) |
 | 设备参数 | [消费设备材料、显示与散热案例](skills/consumer-device-report-cases/SKILL.md) |
 | 耳机测量 | [ANC、频响与佩戴记录](skills/headphone-measurement-and-fit/SKILL.md) |
 | NAS与相册 | [UGOS Pro存储和本地AI相册](skills/ugos-pro-storage-and-ai-album/SKILL.md) |
