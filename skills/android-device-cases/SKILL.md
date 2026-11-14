@@ -107,3 +107,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [2026 年手机发布与图赏记录](references/2026-phone-announcement-observations.md)
 
 - [DX4600 NAS 与 K13 Turbo 历史资料](references/dx4600-k13-launch-cases.md)
+
+- [ColorOS 16、智能眼镜、汽车和手表功能记录](references/2025-2026-product-feature-records.md)
