@@ -17,3 +17,7 @@
 [Windows 1.12.0](https://www.coolapk.com/feed/70486556)新增列表单次播放及从音乐库安全移除时保护歌单歌曲的选项；不支持 DirectX 12 的设备会回退 OpenGL，并修复扫描建库时删除歌曲导致崩溃等问题。4 张配图未读。[鸿蒙 1.2.2](https://www.coolapk.com/feed/71674716)的开发者公告称已上架并增加逐字歌词；[另一公告](https://www.coolapk.com/feed/71924227)称鸿蒙版适配 6.1 沉浸光效，设备和具体版本范围待核实，配图未读。
 
 [播放界面设置提示](https://www.coolapk.com/feed/69927990)：在设置的用户界面、播放界面选项中，可单独选择浅色或深色文字方案；不同版本菜单可能变化。
+
+[Windows 1.7.0](https://www.coolapk.com/feed/67556250)新增文件夹页、播放队列和歌单拖拽排序，修复慢速传输曲目自动切歌时可能卡住的问题。[Android 10.10.2](https://www.coolapk.com/feed/68007319)将目标 SDK 提升至 Android 16（API 36），并修复部分返回崩溃；目标 SDK 不等于最低支持系统版本。
+
+[青盐云听 2.0 dev08](https://www.coolapk.com/feed/69397424)记录修复 WebDAV 播放中途跳到下一首的问题。原帖公开下载：[123 云盘](https://www.123865.com/s/NMWXjv-uYYMv?pwd=p1Xy)，提取码 `p1Xy`；链接有效性和文件完整性未验证。[椒盐笔记 0.31.0](https://www.coolapk.com/feed/68523094)记录界面优化和崩溃修复，原帖公开下载：[123 云盘](https://www.123865.com/s/NMWXjv-UZFMv?pwd=oECh)，提取码 `oECh`；该链接同样未验证。
