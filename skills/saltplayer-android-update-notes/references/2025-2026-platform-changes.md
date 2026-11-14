@@ -21,3 +21,7 @@
 [Windows 1.7.0](https://www.coolapk.com/feed/67556250)新增文件夹页、播放队列和歌单拖拽排序，修复慢速传输曲目自动切歌时可能卡住的问题。[Android 10.10.2](https://www.coolapk.com/feed/68007319)将目标 SDK 提升至 Android 16（API 36），并修复部分返回崩溃；目标 SDK 不等于最低支持系统版本。
 
 [青盐云听 2.0 dev08](https://www.coolapk.com/feed/69397424)记录修复 WebDAV 播放中途跳到下一首的问题。原帖公开下载：[123 云盘](https://www.123865.com/s/NMWXjv-uYYMv?pwd=p1Xy)，提取码 `p1Xy`；链接有效性和文件完整性未验证。[椒盐笔记 0.31.0](https://www.coolapk.com/feed/68523094)记录界面优化和崩溃修复，原帖公开下载：[123 云盘](https://www.123865.com/s/NMWXjv-UZFMv?pwd=oECh)，提取码 `oECh`；该链接同样未验证。
+
+[Flyme 适配公告](https://www.coolapk.com/feed/68080964)称 Flyme 12.3.1.2A 增加 Salt Player 灵动光环音乐灯效支持；[V11 更新说明](https://www.coolapk.com/feed/69415114)列专用状态栏歌词与光环设置，以及暂停后歌词未隐藏的修复。实际效果依设备和系统版本而异，配图未读。
+
+[Windows Steam 1.4.21 EA 公告](https://www.coolapk.com/feed/66203840)称修复系统托盘乱码，微软商店渠道同期为 1.4.20 EA；跨渠道版本号不能视作完全同步，配图未读。
