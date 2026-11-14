@@ -95,3 +95,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [NikoHyper 小米 10 与 13 系列版本补充](references/nikohyper-kona-kalama-additional.md)
 
 - [Root 授权、性能调校与相机体验记录](references/root-performance-camera-observations.md)
+
+- [Scene 调度、触控与性能测量案例](references/scene-scheduling-touch-performance-cases.md)
