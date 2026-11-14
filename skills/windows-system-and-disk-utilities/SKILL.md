@@ -20,3 +20,4 @@ description: 汇总 Windows 系统维护、NTFS 透明压缩、磁盘空间分�
 - [P2WLAN：虚拟网卡、直连与中继机制](references/p2wlan-virtual-private-network.md)
 - [LightC 2.16.16：Windows 清理与维护模块](references/lightc-2-16-16.md)
 - [NewFileTime 8.31：NTFS 文件时间批量调整](references/newfiletime-8-31.md)
+- [7-Zip 26.06：格式、加密与版本要点](references/7zip-2606.md)

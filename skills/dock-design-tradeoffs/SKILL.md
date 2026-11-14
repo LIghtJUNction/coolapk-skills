@@ -25,3 +25,7 @@ description: "需要整理或核查拓展坞的接口、散热和结构设计，
 ## 引用
 
 [原帖](https://www.coolapk.com/feed/73909878)
+
+## 补充案例
+
+- [绿联多屏扩展坞 9 合 1：DisplayLink 与接口记录](references/ugreen-displaylink-9in1-dock.md)

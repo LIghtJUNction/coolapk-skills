@@ -6,6 +6,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| Android 实用工具 | [Android 实用工具与系统增强案例](skills/android-utility-app-cases/SKILL.md) |
 | Windows 工具 | [Windows 系统维护、磁盘与网络工具案例](skills/windows-system-and-disk-utilities/SKILL.md) |
 | 桌面效率工具 | [跨平台桌面效率与多媒体工具案例](skills/cross-platform-desktop-productivity-tools/SKILL.md) |
 | NAS 与 Homelab | [NAS、嵌入式刷机与 Homelab 部署案例](skills/nas-armbian-fnos-and-homelab-cases/SKILL.md) |

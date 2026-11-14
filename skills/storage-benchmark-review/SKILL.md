@@ -25,3 +25,11 @@ description: 整理和评估 SSD、移动硬盘的社区测试，保留接口、
 ## 补充的来源技术记录
 
 - [消费级 SSD 选购基础：闪存、接口与性能取舍](references/source-74351396.md)
+
+## 补充案例
+
+- [2024年 PCIe 4.0 NVMe SSD 横评记录](references/pcie4-nvme-ssd-comparison-2024.md)
+- [希捷酷玩 520 与酷鱼 530 SSD 测试笔记](references/seagate-firecuda520-firecuda530.md)
+- [Steam Deck OLED：2230 SSD 扩容与 SteamOS 重装](references/steam-deck-oled-storage-upgrade.md)
+- [PS5 Slim 购买与 M.2 SSD 扩容记录（2024）](references/ps5-storage-expansion-guide-2024.md)
+- [2024年 PCIe 4.0 SSD 选购指标与型号对比](references/nvme-ssd-buying-guide-2024.md)
