@@ -2,6 +2,8 @@
 
 仅收录脱离个人身份、重新整理后的通用知识技能，不分发原帖正文、图片、评论、用户资料或采集数据库。技能内的必要来源链接用于核对依据，不代表原文随库分发。
 
+欢迎[投稿技术知识](../../issues/new?template=contribute-knowledge.yml)、[纠错或补充](../../issues/new?template=correction.yml)，也可以直接提交 Pull Request。请用自己的话整理知识，附来源和公开下载资源；不要提交原始帖子、评论、个人资料或私密凭据。
+
 | 分类 | 技能 |
 |---|---|
 | ColorOS工作流 | [扫描、AI笔记、NFC通知与APK分享](skills/coloros-document-and-automation-workflows/SKILL.md) |

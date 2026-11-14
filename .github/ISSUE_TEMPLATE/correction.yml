@@ -1,0 +1,28 @@
+name: 纠错或补充
+description: 修正技能中的错误、过期内容或失效资源
+title: "[纠错] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: 技能或文档位置
+      description: 提供文件链接、标题或具体段落。
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与建议修改
+      description: 说明当前内容、正确内容，以及机型、版本或适用条件。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据或复现情况
+      description: 提供来源链接、公开资源和提取码，或描述自己的验证过程；没有依据请说明。
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Issue 是公开的，请勿粘贴原帖全文、评论、个人资料或私密凭据。

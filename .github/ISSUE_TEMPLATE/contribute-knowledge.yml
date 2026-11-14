@@ -1,0 +1,44 @@
+name: 投稿技术知识
+description: 推荐技术文章、知识或公开资源，供整理成技能
+title: "[投稿] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎推荐数码、Android、科技文章和实用经验。Issue 是公开的：请勿粘贴原帖全文、评论、个人资料或私密凭据；提供来源链接和自己整理的知识即可。公开分享链接及其公开提取码可以填写。
+  - type: input
+    id: topic
+    attributes:
+      label: 主题或建议的技能名称
+      placeholder: 例如：某机型的固件恢复方法
+    validations:
+      required: true
+  - type: textarea
+    id: knowledge
+    attributes:
+      label: 技术知识或建议
+      description: 用自己的话说明操作、原理、问题或值得整理的内容；不确定之处请注明。
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 来源与公开资源
+      description: 提供原帖、官方文档、项目或下载链接；如原作者公开了分享提取码，也请一并提供。没有来源请说明。
+      placeholder: |
+        来源：
+        下载地址及公开提取码：
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: 适用条件和验证情况
+      description: 填写机型、系统/软件版本、已验证步骤、限制及未验证内容；不清楚可以写未知。
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 发布前检查
+      options:
+        - label: 我没有提交原帖全文、评论、个人资料或私密凭据。
+          required: true
