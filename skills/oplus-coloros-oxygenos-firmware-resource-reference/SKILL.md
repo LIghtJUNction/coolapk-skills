@@ -104,3 +104,8 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 补充索引：[更多机型、版本与资源](references/version-supplement-02.md)。
 
 补充索引：[ColorOS 17 全量包、Ace 3 与 Find X7 Ultra 降级资源](references/version-supplement-03.md)。
+
+
+## 补充的来源技术记录
+
+- [Find X5 Pro、A92s、真我13/15 Pro与Turbo 6X Pro固件补充](references/version-supplement-04.md)

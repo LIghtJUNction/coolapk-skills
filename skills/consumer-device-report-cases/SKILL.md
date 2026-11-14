@@ -34,3 +34,11 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [iQOO Pad Ultra「星铠银」产品图赏：设计与外观信息](references/source-74056714.md)
 - [iQOO 16「传奇」产品图赏动态：外观描述与配置摘要](references/source-74067497.md)
 - [荣耀 Magic9 系列体验：阿莱上手机，拍起来有什么不同？](references/source-74039383.md)
+
+
+## 补充的来源技术记录
+
+- [华为 P30 更新鸿蒙 4.0 的体验记录](references/source-53937172.md)
+- [海贝 M500 初音未来限定版逆向记录](references/source-69066201.md)
+- [12 英寸 MacBook（2017）使用与故障记录](references/source-68847575.md)
+- [全透明压电陶瓷微泵液冷手机壳](references/source-68302108.md)

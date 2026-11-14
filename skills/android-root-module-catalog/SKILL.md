@@ -29,3 +29,12 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 ## 来源补充
 
 - [模块共存、功耗排查与DNS配置历史](references/modules-and-power-history.md)
+
+
+## 补充的来源技术记录
+
+- [APatch / FolkPatch 2.2 隐藏环境模块：安装流程与兼容反馈](references/source-74740377.md)
+- [KernelSU 与分支 Root 环境隐藏教程（2.2）](references/source-74740293.md)
+- [KernelSU、Alpha、APatch 等管理器的环境隐藏模块配置记录](references/source-71807864.md)
+- [KernelSU、Alpha 与 APatch 环境隐藏包：0417教程及反馈](references/source-71270068.md)
+- [APatch/FolkPatch 环境隐藏教程（0302版）](references/source-70474353.md)

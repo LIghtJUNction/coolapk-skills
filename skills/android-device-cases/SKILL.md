@@ -42,3 +42,11 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 ## 来源补充
 
 - [Motorola X70 Air解锁与临时引导记录](references/motorola-x70-air.md)
+
+
+## 补充的来源技术记录
+
+- [天玑机型哔哩哔哩滑动卡顿的版本报告](references/source-53493553.md)
+- [一加 Ace 7 Pro：BL 解锁与 Root 刷写步骤（原帖记录）](references/source-74820903.md)
+- [联想 Y700 无极：BL 解锁、Root、伪回锁与 TEE 处理](references/source-73470098.md)
+- [联想拯救者 Y700 四代：112/117 系统 Root 镜像与 9008 刷机包](references/source-70379642.md)
