@@ -149,3 +149,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [魅族生态设备发布记录（2022–2024）](references/meizu-ecosystem-2022-2024.md)
 
 - [iQOO 15 屏幕与发布配置（2025）](references/iqoo15-screen-and-launch.md)
+
+- [红魔 11 Pro 与 vivo X300 Ultra/X300s 发布记录](references/redmagic11-vivo-x300-2026.md)
