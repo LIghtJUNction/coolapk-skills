@@ -41,3 +41,16 @@
 - [73440733](https://www.coolapk.com/feed/73440733)：OS4.0.0.22.XPKCNXM Beta；底包 K70 Pro OS3.0.302.0.WNMCNXM、K80 OS3.0.303.0.WOKCNXM、小米 14 OS3.0.305.0.WNCCNXM、14 Pro OS3.0.306.0.WNBCMXM（按原文保留，待核实）。
 
 三帖作者评论提供 [OpenList](https://alist.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1)、[123 云盘](https://www.123684.com/s/lUXDVv-724Wh)；73316603 另提供 [OpenList 入口](https://wp.1mxy.cn/139)。评论称包内带 KSU，管理器需自行解压安装。未发现公开提取码；下载、图片及完整评论未验证。
+
+## K90 预览与 K80 移植补充
+
+- [73440701](https://www.coolapk.com/feed/73440701)：Redmi K90 OS4.0.0.22.XPKCNXM Beta、Android 17、补丁 2026-08-01；底包 K60 Pro OS3.0.303.0.WMKCNXM、K70 OS3.0.303.0.WNKCNXM、小米 13 OS3.0.307.0.WMCCNXM、13 Pro OS3.0.309.0.WMBCNXM。
+- [73440752](https://www.coolapk.com/feed/73440752)：同移植版本与补丁；底包小米 15 OS3.0.303.0.WOCCNXM、15 Pro OS3.0.308.0.WOBCNXM、K80 Pro OS3.0.304.0.WOMCNXM。
+- [74056416](https://www.coolapk.com/feed/74056416) v4.0.25：Redmi K80 OS4.0.0.12.XOKCNXM；底包 K50U OS2.0.209.0.VLFCNXM、K60 OS2.0.220.0.VMNCNXM、N12T OS3.0.1.0.VMRCNXM、12SP OS3.0.2.0.VLECNXM。
+- [74161563](https://www.coolapk.com/feed/74161563) v4.0.28：帖子列出小米 12SP、13、13P、14、14P、15、15P、15U、17、17PM；Redmi K50U、K60、N12T、K60P、K70、K70P、K80、K80P、K90、K90PM、K90U、K100P 和小米平板 6S Pro。正文没有列每个机型的底包版本，不能据此推断；帖子称不支持联发科机型。
+
+73440701、73440752 的已采集作者评论提供 [OpenList](https://alist.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1)、[123 云盘](https://www.123684.com/s/lUXDVv-724Wh)；74161563 提供前两个入口并称管理器与模块需自行解压安装。74056416 的已采集作者评论未发现入口。链接和文件未验证。
+
+## K60 ColorOS 16
+
+[70292860](https://www.coolapk.com/feed/70292860) 将一加 13 的 ColorOS 16.0.0.206 移植到 K60，Android 16，要求底包 OS2.0.213.0.VMNCNXM；帖子称刷入必须格式化 data，应预先备份。帖子称 NFC 可读和模拟但钱包不可用，列出振动不可用、充电仅 10W、支付宝指纹支付不可用，以及 SELinux 宽容模式等限制；作者建议开机后切换严格模式，但兼容性未独立验证。已采集正文和作者评论未发现下载入口，图片和完整评论未读；机型、功能与刷入效果均未实测。
