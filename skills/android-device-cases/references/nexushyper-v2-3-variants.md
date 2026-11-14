@@ -15,3 +15,9 @@
 ## 公开入口
 
 71185136 的作者评论提供 [Alist](https://oss.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1) 和 [123 云盘](https://www.123684.com/s/lUXDVv-724Wh)。其余六篇作者评论提供 [OpenList](https://wp.1mxy.cn/139) 和同一 139、123 云盘。未发现公开提取码；页面和具体文件可用性未验证，图片及完整评论未读。
+
+## v2.3.0：K70、K80 与 K80 Pro
+
+[72635140](https://www.coolapk.com/feed/72635140)称 K70/K80 基于小米 14 OS3.0.303.0.WNCCNXM 移植，Android 16，补丁 2026-06-01；底包分别为 K70 OS3.0.303.0.WNKCNXM、K80 OS3.0.303.0.WOKCNXM。K80 Pro 为 OS3.0.303.0.WOMCNXM 官改，补丁 2026-03-01。作者明确称 K90 因底层问题本次不更新，不能用其他版本的支持情况覆盖。
+
+帖子要求解锁 Bootloader、仅刷指定机型，称不支持解密包直接刷入；作者称无已知 bug，但未独立验证。作者评论提供 [Alist](https://wp.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1) 和 [123 云盘](https://www.123684.com/s/lUXDVv-724Wh)，称自带 KSU，管理器需自行解压安装。未发现公开提取码；文件、下载可用性和刷机均未测试，图片与完整评论未读取。
