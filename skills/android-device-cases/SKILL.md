@@ -71,3 +71,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 
 - [荣耀 Magic V5（MBH-AN10）固件条目与下载链接](references/source-68034541.md)
 - [9008模式与无法开机排查线索](references/source-43905287.md)
+
+- [NikoHyper 小米 10 与小米 13 移植版本及已知问题](references/nikohyper-kona-kalama.md)
