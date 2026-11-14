@@ -29,3 +29,7 @@
 [74890414](https://www.coolapk.com/feed/74890414) 针对系统组件讨论 Root 模块或 `pm uninstall --user 0`、`pm suspend` 等按用户处理方式，并提醒不要使用来源不明的脚本和模块。卸载当前用户的包与暂停包的状态不同；两种操作的支持情况、影响和恢复方法取决于 Android 版本与目标组件。原帖图片未读，未验证对具体组件的效果，也不能据此判断数据是否已上传。
 
 [74852975](https://www.coolapk.com/feed/74852975) 称一加全能工具箱服务端更新后，修复部分设备刷入 Magisk/Alpha 的支持问题，列举一加 8T、9R 和一加 7 系列；KitsuneRevived 当时仍待测试。具体工具箱版本、设备状态及修复结果未独立验证。
+
+[74834816](https://www.coolapk.com/feed/74834816) 称当时 GKD Beta 可使用 Root、ADB 或 Shizuku；Root 对保活和点击速度更好的说法未经验证，具体能力以版本为准。[74850540](https://www.coolapk.com/feed/74850540) 记录用 MacroDeck 控制台启动应用的个人选择，关联[快捷键讨论](https://www.coolapk.com/feed/74636932)和 [MacroDeck 3 更新帖](https://www.coolapk.com/feed/74127340)；关联帖和图片未读。
+
+[74831008](https://www.coolapk.com/feed/74831008) 报告某些 Platform Tools 版本的 `adb push` 文件名截断、进度显示不一致，以及 fastboot 刷写 vbmeta 时偏移错误；作者称回退版本解决后者，但未给出完整版本号、日志和复现环境。应记录 `adb version` / `fastboot --version`、完整错误、设备及目标路径并核验传输文件，不能据此断定所有 SDK 36/37 版本均有该问题。
