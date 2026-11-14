@@ -6,6 +6,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| 内网穿透 | [cpolar 内网穿透与本地 Web 暴露案例](skills/cpolar-tunnel-and-local-web-exposure/SKILL.md) |
 | 云主机与面板 | [EulerOS 与云主机面板部署案例](skills/euleros-and-cloud-panel-deployment-cases/SKILL.md) |
 | Docker 自托管 | [Docker 自托管应用部署案例](skills/docker-self-hosted-app-cases/SKILL.md) |
 | Agent 硬件与自动化 | [AI 终端改造与主机自动化工作流案例](skills/ai-agent-hardware-and-host-workflows/SKILL.md) |

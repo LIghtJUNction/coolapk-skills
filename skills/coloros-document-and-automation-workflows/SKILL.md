@@ -14,3 +14,4 @@ description: 根据社区记录配置ColorOS文档扫描、AI笔记学习、NFC�
 - 需要给NFC墨水屏画框传图时，读取[光影画框与显示色差](references/source-73788610.md)：APP配对后通过NFC传图，色差可尝试在APP调整再导入；没有电池或续航实测，不把墨水屏推断当成保证。
 
 这些记录给出可复查的具体路径与条件，未执行手机操作。图片和完整评论未读；不同机型入口变化时保留差异，不从相近功能猜出设置项。
+- [ColorOS 小布记忆自动记账](references/coloros-auto-bookkeeping.md)

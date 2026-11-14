@@ -116,3 +116,4 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 - [realme OFP 线刷包资源](references/realme-ofp-202611.md)
 - [OPPO A7 系列与一加平板固件资源](references/oppo-tablet-and-a7-resources.md)
 - [Find X10、折叠屏及海外固件资源](references/find-x10-and-international-202611.md)
+- [ColorOS 17 尝鲜更新与功能记录](references/coloros17-tryout-updates-and-features.md)

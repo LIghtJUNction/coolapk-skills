@@ -19,3 +19,7 @@ description: 汇总 EulerOS/Ubuntu 云主机上的宝塔面板、Docker CE/conta
 - [华为云 Flexus X 实例：购买、连接与基础配置](references/flexus-x-instance-setup.md)
 - [Flexus X 上的 GitLab CI/CD 与 Docker 部署规划](references/flexus-docker-ci-runner-net.md)
 - [Huawei Cloud EulerOS 安装 Docker 与 containerd 启动故障记录](references/hce-docker-install-troubleshoot.md)
+- [Huawei Cloud EulerOS 上部署 XXL-JOB 的实验记录](references/flexus-x-xxl-job-euleros.md)
+- [Huawei Cloud EulerOS 上部署 Mininote](references/flexus-x-mininote-deployment.md)
+- [在 Flexus X 上配置 JupyterHub 与 Notebook：原帖命令和示例](references/flexus-x-jupyterhub-notebook.md)
+- [Flexus X 上运行 RabbitMQ 与 Elasticsearch 7.12.1：Docker 命令记录](references/docker-rabbitmq-elasticsearch-flexus.md)
