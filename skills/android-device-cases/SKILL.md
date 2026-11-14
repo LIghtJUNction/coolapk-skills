@@ -109,3 +109,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [DX4600 NAS 与 K13 Turbo 历史资料](references/dx4600-k13-launch-cases.md)
 
 - [ColorOS 16、智能眼镜、汽车和手表功能记录](references/2025-2026-product-feature-records.md)
+
+- [HarmonyOS NEXT 应用与 ColorOS 16 架构记录](references/harmony-next-and-coloros16-architecture.md)
