@@ -74,3 +74,5 @@
 | [74783521](https://www.coolapk.com/feed/74783521)、[74782730](https://www.coolapk.com/feed/74782730) | OPPO K13 Turbo Pro | PLE110_15.0.2.601(CN01) A.26 | 降级包 | [夸克](https://pan.quark.cn/s/387aa227ccb2)、[迅雷](https://pan.xunlei.com/s/VP5M9adf5_v7qpgmnJ5u2V_fA1?pwd=da2v)，提取码 `da2v`；迅雷来自前一帖 |
 
 资源与文件未验证；带图片帖子图片未读。
+
+[74789413](https://www.coolapk.com/feed/74789413) 提及社区为一加 Ace 2 Pro 和 OPPO Ace 2 移植 ColorOS 17；项目名、包版本及适配状态主要依赖未读截图，正文不足以确认可下载或可刷入的版本。
