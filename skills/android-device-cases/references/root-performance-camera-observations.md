@@ -15,3 +15,9 @@
 ## 线缆外皮老化案例
 
 [74969111](https://www.coolapk.com/feed/74969111) 回顾一条 USB-C 双头线反复外皮破损的经历，作者猜测长期受机箱热风影响，也提及材料可能不同；这是未经对照的个人猜测，无法确定老化原因。帖子关联两次历史记录：[再次破皮](https://www.coolapk.com/feed/63448466)、[热缩管修复](https://www.coolapk.com/feed/58743510)。作者最终丢弃该线；图片与关联帖未读，也未验证修复效果。线缆出现破损时应停止使用并更换，外层包覆不能证明内部导线和绝缘完好。
+
+## Android UI 与更新工具
+
+[74946231](https://www.coolapk.com/feed/74946231) 推荐 [COUI Kit](https://itoseo.github.io/COUI-Kit/) 作为 ColorOS 风格界面与图标资源，并提供 [基于 GitHub 的更新技能](https://github.com/daxiaamu/update-by-github-skill)。功能、兼容性和链接当前状态未验证，四张图片未读。
+
+[74940111](https://www.coolapk.com/feed/74940111) 讨论一加设备开发代号命名，并就所称一加 16 的代号由来提出疑问；帖子未给出答案，所列代号也未独立核实。[关联视频](https://www.bilibili.com/video/BV1iaV4zpEFT)与图片未读。
