@@ -73,3 +73,27 @@
 | [74846896](https://www.coolapk.com/feed/74846896) | Redmi K80 Pro（miro） | OS4.0.0.10.XOMCNXM | Hook | `HFHook_Pure_REDMIK80Pro_encrypted_OS4.0.0.10.XOMCNXM_635b5ed5_Mitsuha.zip` | 构建 0h 28m 40s |
 
 [74846876](https://www.coolapk.com/feed/74846876) 标题写 Xiaomi 15 系列，正文适配机型和包名均写 Redmi K90 Ultra（warsaw）；保留冲突，不以标题断言小米 15 兼容。各帖所称适配和版本未实机验证；图片与完整评论未读取。
+
+
+## 小米平板与 K90、K100、小米 17 的补充包
+
+下列记录按各帖正文的机型与包名行整理。来源均列出域名 `team.hanfy.asia`，原文无协议；[HTTPS 入口](https://team.hanfy.asia/)为补全推断，没有具体文件直链或提取码。同一版本出现不同文件名时分别保留。适配、下载及刷机均未验证，配图和完整评论未读。
+
+| 来源 | 机型与代号 | 版本 | 类型 | 文件名 | 构建耗时 |
+|---|---|---|---|---|---|
+| [74846879](https://www.coolapk.com/feed/74846879) | Xiaomi Pad 8 Pro（piano） | OS4.0.6.0.XPYCNXM | Hook | `HFHook_Pure_XiaomiPad8Pro_encrypted_OS4.0.6.0.XPYCNXM_8efd4eea_Mitsuha.zip` | 构建 0h 24m 12s |
+| [74843871](https://www.coolapk.com/feed/74843871) | Redmi K90 ProMax（myron） | OS4.0.6.0.XPMCNXM | Hook | `HFHook_Pure_REDMIK90ProMax_encrypted_OS4.0.6.0.XPMCNXM_dd75dcef_Mitsuha.zip` | 未列 |
+| [74846882](https://www.coolapk.com/feed/74846882) | Redmi K90（annibale） | OS4.0.6.0.XPKCNXM | Hook | `HFHook_Pure_REDMIK90_encrypted_OS4.0.6.0.XPKCNXM_1e3a4cef_Mitsuha.zip` | 构建 0h 28m 9s |
+| [74630203](https://www.coolapk.com/feed/74630203) | Redmi K100 Pro（athens） | OS4.0.5.0.XPICNXM | Hook | `HFHook_Pure_REDMIK100Pro_encrypted_OS4.0.5.0.XPICNXM_5ab504e7_Mitsuha.zip` | 构建 0h 49m 10s |
+| [74630203](https://www.coolapk.com/feed/74630203) | Redmi K100 ProMax（songyuan） | OS4.0.5.0.XGNCNXM | Hook | `HFHook_Pure_REDMIK100ProMax_encrypted_OS4.0.5.0.XGNCNXM_18fdb623_Mitsuha.zip` | 构建 0h 54m 51s |
+| [74630208](https://www.coolapk.com/feed/74630208) | Xiaomi 17（pudding） | OS4.0.5.0.XPCCNXM | Hook | `HFHook_Pure_Xiaomi17_encrypted_OS4.0.5.0.XPCCNXM_2d5ef945_Mitsuha.zip` | 构建 0h 51m 52s |
+| [74630208](https://www.coolapk.com/feed/74630208) | Xiaomi 17 ProMax（popsicle） | OS4.0.5.0.XPBCNXM | Hook | `HFHook_Pure_Xiaomi17ProMax_encrypted_OS4.0.5.0.XPBCNXM_9b0c4764_Mitsuha.zip` | 构建 0h 52m 10s |
+| [74630208](https://www.coolapk.com/feed/74630208) | Xiaomi 17 Ultra（nezha） | OS4.0.5.0.XPACNXM | Hook | `HFHook_Pure_Xiaomi17Ultra_encrypted_OS4.0.5.0.XPACNXM_7507627b_Mitsuha.zip` | 构建 0h 55m 44s |
+| [74630208](https://www.coolapk.com/feed/74630208) | Xiaomi 17 Pro（pandora） | OS4.0.5.0.XBLCNXM | Hook | `HFHook_Pure_Xiaomi17Pro_encrypted_OS4.0.5.0.XBLCNXM_de525f2f_Mitsuha.zip` | 构建 0h 52m 17s |
+| [74630208](https://www.coolapk.com/feed/74630208) | Xiaomi 17 Max（byron） | OS4.0.0.22.XAFCNXM | Hook | `HFHook_Pure_Xiaomi17Max_encrypted_OS4.0.0.22.XAFCNXM_f2b2e08f_Mitsuha.zip` | 构建 0h 41m 41s |
+| [74604057](https://www.coolapk.com/feed/74604057) | Redmi K90 ProMax（myron） | OS4.0.5.0.XPMCNXM | Hook | `HFHook_Pure_REDMIK90ProMax_encrypted_OS4.0.5.0.XPMCNXM_905027e1_Mitsuha.zip` | 未列 |
+| [74604089](https://www.coolapk.com/feed/74604089) | Redmi K100 Pro（athens） | OS4.0.5.0.XPICNXM | Hook | `HFHook_Pure_REDMIK100Pro_encrypted_OS4.0.5.0.XPICNXM_71e5957a_Mitsuha.zip` | 未列 |
+| [74604089](https://www.coolapk.com/feed/74604089) | Redmi K100 ProMax（songyuan） | OS4.0.5.0.XGNCNXM | Hook | `HFHook_Pure_REDMIK100ProMax_encrypted_OS4.0.5.0.XGNCNXM_a61e4124_Mitsuha.zip` | 未列 |
+| [74630194](https://www.coolapk.com/feed/74630194) | Redmi K90 ProMax（myron） | OS4.0.5.0.XPMCNXM | Hook | `HFHook_Pure_REDMIK90ProMax_encrypted_OS4.0.5.0.XPMCNXM_fc68abee_Mitsuha.zip` | 构建 0h 36m 31s |
+
+[74630208](https://www.coolapk.com/feed/74630208) 标题为 OS4.0.5，但列出 Xiaomi 17 Max 的具体版本是 OS4.0.0.22；选择包时以具体机型、版本和文件名核对，不能用标题替代。
