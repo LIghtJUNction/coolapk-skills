@@ -85,3 +85,7 @@
 | [74765509](https://www.coolapk.com/feed/74765509) | 一加 Ace 7 Pro | PMS110_17.0.0.159(CN01) A.20 | ColorOS 全量包 | [夸克](https://pan.quark.cn/s/5d8e51bbf2dc) |
 
 链接、文件和适配条件未验证，图片未读取。
+
+[74761424](https://www.coolapk.com/feed/74761424)：Realme 15 Pro，RealmeUI `RMX5100_16.0.5.1300(CN01) C.57` 全量包；[夸克](https://pan.quark.cn/s/af0f5aee10b3)、[迅雷](https://pan.xunlei.com/s/VP5HD17KoXzS3m5sv59EWRKpA1?pwd=dtkw)（公开提取码 `dtkw`）。资源、文件及适用条件未验证，图片未读取。
+
+[74758131](https://www.coolapk.com/feed/74758131) 将部分设备所谓“伪回锁”方案与 `gbl_root_canoe` 及高通漏洞相关联，并称并非所有机型适用；帖子未给出具体实现、支持矩阵或安全验证，不能将该说法当作真实上锁或安全状态的证明，图片未读。
