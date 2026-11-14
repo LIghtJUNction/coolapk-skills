@@ -154,3 +154,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [荣耀 Magic V5 第三方充电器观察](references/honor-magic-v5-third-party-charging.md)
 - [ColorOS 17 菜单与天气壁纸观察](references/coloros17-ui-preview.md)
 - [Scene5 激活、刷新率和刘海区域适配](references/scene5-accessibility-and-display.md)
+- [模块化手机与 ThinkPad Z13 工程机维修案例](references/diy-k80ultra-and-z13.md)
