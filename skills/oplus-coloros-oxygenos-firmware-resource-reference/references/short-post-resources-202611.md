@@ -29,3 +29,7 @@
 | [74873940](https://www.coolapk.com/feed/74873940) | OnePlus 16 | PYB110_17.0.1.201(CN01) A.44 | 全量包 | [夸克](https://pan.quark.cn/s/58f0c85aae92) |
 
 各条资源的可访问性、文件和适配条件未验证；带图帖子图片未读取。
+
+## OPlus 盒子降级说明
+
+[74894814](https://www.coolapk.com/feed/74894814) 提到 Root 后使用 OPlus 盒子的“增强型本地安装”安装对应降级包；[74878212](https://www.coolapk.com/feed/74878212) 称临时 Root 也可使用，且降级走官方通道。这些是作者描述，具体设备支持、权限、反回滚条件和安全性均未独立验证；不要据此认为任意降级包都适用。第一帖关联的[降级目录](https://www.coolapk.com/feed/74659713)当前缓存正文截断，已能对应的资源见 [历史目录补充](coloros17-downgrade-20261027.md)。两帖图片均未读。
