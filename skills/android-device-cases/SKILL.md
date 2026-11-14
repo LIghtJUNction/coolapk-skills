@@ -89,3 +89,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [NexusHyper v2.1.10 至 v2.2.4 机型与资源补充](references/nexushyper-v2-1-2-2-more.md)
 
 - [NexusHyper v2.1.10/v2.3 机型与下载入口](references/nexushyper-v2-3-variants.md)
+
+- [NexusHyper OS3 与 OS4 额外版本记录](references/nexushyper-os3-os4-additional.md)
