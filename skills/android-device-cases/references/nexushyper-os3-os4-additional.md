@@ -31,3 +31,13 @@
 - [74056469](https://www.coolapk.com/feed/74056469) v4.0.25：手机移植基线为 Redmi K80 OS4.0.0.12.XOKCNXM，底包为小米 14 OS3.0.305.0.WNCCNXM、14 Pro OS3.0.306.0.WNBCMXM、13 OS3.0.307.0.WMCCNXM；Pad 6S Pro 使用小米 Pad 8 OS4.0.0.43.XPZCNXM 移植，底包 OS3.0.304.0.WNXCNXM。不要混用手机和平板版本。
 
 72911320、72911266 和 73316516 的已采集作者评论提供 [OpenList](https://wp.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1)、[123 云盘](https://www.123684.com/s/lUXDVv-724Wh)；73316516 补充了 [OpenList 入口](https://alist.1mxy.cn/139)。73486622 评论提供后一个 OpenList 入口和上述 139、123 云盘入口。这些评论称包内带 KSU，管理器需自行解压安装。74056469 已采集评论未发现入口；图片、完整评论和文件均未验证。
+
+## 更多 OS4 Beta 机型
+
+以下均为 Redmi K90 移植、Android 17、2026-08-01 安全补丁；适用条件和刷入方式见上文，未独立验证。
+
+- [73316603](https://www.coolapk.com/feed/73316603) v3.0.0：OS4.0.0.18.XPKCNXM Beta；底包小米 15 OS3.0.303.0.WOCCNXM、15 Pro OS3.0.308.0.WOBCNXM、K80 Pro OS3.0.304.0.WOMCNXM。
+- [73486523](https://www.coolapk.com/feed/73486523) v4.0.7：OS4.0.0.24.XPKCNXM Beta；底包 K60 Pro OS3.0.303.0.WMKCNXM、K70 OS3.0.303.0.WNKCNXM、小米 13 OS3.0.307.0.WMCCNXM、13 Pro OS3.0.309.0.WMBCNXM。
+- [73440733](https://www.coolapk.com/feed/73440733)：OS4.0.0.22.XPKCNXM Beta；底包 K70 Pro OS3.0.302.0.WNMCNXM、K80 OS3.0.303.0.WOKCNXM、小米 14 OS3.0.305.0.WNCCNXM、14 Pro OS3.0.306.0.WNBCMXM（按原文保留，待核实）。
+
+三帖作者评论提供 [OpenList](https://alist.1mxy.cn/139)、[139 云盘](https://yun.139.com/shareweb/#/w/i/2tZwpFGRUATp1)、[123 云盘](https://www.123684.com/s/lUXDVv-724Wh)；73316603 另提供 [OpenList 入口](https://wp.1mxy.cn/139)。评论称包内带 KSU，管理器需自行解压安装。未发现公开提取码；下载、图片及完整评论未验证。
