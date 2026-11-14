@@ -117,3 +117,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [Find N5 与拯救者 Y700 无极使用记录](references/find-n5-y700-field-reports.md)
 
 - [OPPO K11 与 A1 Pro 发布资料](references/oppo-k11-a1-pro-release.md)
+
+- [OPPO A7 Pro Max、vivo X Fold6 与雷鸟 iO 发布资料](references/2026-a7-fold6-rayneo.md)
