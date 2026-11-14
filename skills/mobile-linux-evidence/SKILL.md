@@ -16,3 +16,8 @@ description: 评估 Termux、手机 Linux、LXC 和 Docker 社区方案的可复
 - [VPS 学习体验](https://www.coolapk.com/feed/74730521)：是概念解释与产品体验，缺少部署配置和验收证据，未作为可执行部署知识收入。
 
 2026-11-13 已读文字；图片、外链、评论未读，未编译内核或运行性能测试。实际实现前读取相关项目当前官方构建说明。
+
+
+## 具体案例与公开资源
+
+[Android Vulkan、Droidspaces 与 VPS 资源案例](references/android-vulkan-lxc-resources.md)保留原帖已提供的数值、版本、操作与资源入口；均按社区报告和具体条件理解。

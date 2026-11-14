@@ -12,3 +12,13 @@ description: 检查安卓 Termux 原生命令行软件的架构适配、安装�
 5. 共享存储只有实际需要时才授权。排障材料保留版本、错误信息和环境，不携带账号令牌或认证文件。
 
 来源：[Termux CLI 移植案例](https://www.coolapk.com/feed/72841434)。2026-11-13 阅读文字，提炼其平台限制、校验后替换及程序/配置分离的方法。帖子具体工具版本是历史案例，不作为最新版本推荐；安装器、图片与不同安卓机型兼容性尚未核验。本技能不直接执行原帖的一键下载脚本。
+
+
+## 原帖明确给出的项目与发布入口
+
+- <https://github.com/AaTempSpoof/codex-cli-termux-zh>
+- <https://github.com/AaTempSpoof/codex-cli-termux-zh/releases/tag/v0.144.5-zh.1>
+- <https://github.com/AaTempSpoof/codex-cli-termux-zh/releases/latest/download/install.sh>
+- <https://github.com/AaTempSpoof/codex-cli-termux-zh/issues>
+
+以上地址来自[原帖](https://www.coolapk.com/feed/72841434)，作为该次发帖的历史资源记录；带版本的地址不代表当前最新版。安装脚本内容和制品没有在本次下载或执行。

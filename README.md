@@ -4,6 +4,10 @@
 
 | 分类 | 技能 |
 |---|---|
+| 设备参数 | [消费设备材料、显示与散热案例](skills/consumer-device-report-cases/SKILL.md) |
+| 耳机测量 | [ANC、频响与佩戴记录](skills/headphone-measurement-and-fit/SKILL.md) |
+| NAS与相册 | [UGOS Pro存储和本地AI相册](skills/ugos-pro-storage-and-ai-album/SKILL.md) |
+| 版本报道 | [逐篇科技发布与系统/API记录](skills/technology-announcement-records/SKILL.md) |
 | 功耗测量 | [SoC功耗实验与固件频点证据](skills/android-soc-power-evidence/SKILL.md) |
 | Agent记忆 | [长篇创作的世界关系图与上下文预算](skills/novel-agent-world-memory/SKILL.md) |
 | 手柄输入 | [蓝牙手柄与驱动层虚拟手柄](skills/android-controller-input-tools/SKILL.md) |

@@ -55,3 +55,12 @@ coolapk user 123456 --feeds
 本文仅整理帖子提供的信息，未实机验证安装、认证或 API 行为。README 和链接页面的内容未读取；如需确认当前依赖、登录流程、命令参数和版本兼容性，需补读项目文档及发布材料。
 
 来源：[帖子 75045281](https://www.coolapk.com/feed/75045281)、[帖子 75044485](https://www.coolapk.com/feed/75044485)、[帖子 75044317](https://www.coolapk.com/feed/75044317)。
+
+
+## 原帖明确给出的项目与发布入口
+
+- <https://github.com/LIghtJUNction/coolapk-cli>
+- <https://crates.io/crates/coolapk-cli>
+- <https://github.com/LIghtJUNction/coolapk-cli/releases/tag/v0.1.0>
+
+以上地址来自[原帖](https://www.coolapk.com/feed/75044485)，作为该次发帖的历史资源记录；带版本的地址不代表当前最新版。安装脚本内容和制品没有在本次下载或执行。
