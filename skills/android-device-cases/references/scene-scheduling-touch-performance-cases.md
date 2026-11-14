@@ -74,3 +74,10 @@
 [31441339](https://www.coolapk.com/feed/31441339) 记载已 Root 的虚拟 A/B 设备通过 `update_engine_client` 读取全量 OTA 中的 `payload.bin` 与 `payload_properties.txt`，观察 `onPayloadApplicationComplete` 返回码；`kSuccess` 是操作返回成功，仍需检查启动和系统状态。帖子强调备份，并称更新后需重新获取 Root。标题中的“任意版本”不等于跨版本、跨机型或降级一定受支持；反回滚、签名、分区与兼容条件未独立验证。[历史 ROM 入口](http://www.miui.com/getrom.php) 未验证。
 
 [32992447](https://www.coolapk.com/feed/32992447) 记录 realme GT Neo 天玑 1200 的历史游戏测试：预热约 45°C、GPU 手动设 750MHz，约 3 分 46 秒测得 58.3fps、99.1% 时间不低于 45fps，结束温度约 48.3°C；另一次约十分钟游戏升至 52°C 并出现降频。测量为特定设备、场景与设置，九张图片未读，不能代表当前系统或普遍表现。
+
+## 补充历史观察
+
+- [34505953](https://www.coolapk.com/feed/34505953)：作者报告天玑 9000 某游戏场景约 115±5fps、平均电流低于 1200mA；具体设备、亮度、电压及两张图未核实，不能换算为可比功率或推广至其他机型。
+- [28968088](https://www.coolapk.com/feed/28968088)：针对 Scene 4 通过模块转为系统应用后的更新问题，帖子建议先移除对应模块并重启，再更新或切回普通应用；模块和系统机制可能随版本变化，三张图片及具体操作未验证。
+- [35333908](https://www.coolapk.com/feed/35333908)：K50 Pro 历史单场景实验，4K 在线视频、2K/60Hz、弹幕、Wi-Fi、亮度条 50%，同时后台运行两线程压力测试；记录 Uperf 713mA、Scene 756mA、原厂 1032mA。电池电压、温度和重复测试不足，不能作为普遍能效排名。
+- [27952440](https://www.coolapk.com/feed/27952440)：Scene 4 Core 历史说明称保留性能监视和调度，支持 `/data/powercfg.sh` 外部配置；[应用页](http://www.coolapk.com/apk/com.omarea.scene)、[相关 Uperf 帖](https://www.coolapk.com/feed/27893833)。链接目标和历史兼容性未验证，图片及关联帖未读。
