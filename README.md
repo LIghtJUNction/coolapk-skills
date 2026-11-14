@@ -6,6 +6,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| Agent 硬件与自动化 | [AI 终端改造与主机自动化工作流案例](skills/ai-agent-hardware-and-host-workflows/SKILL.md) |
 | 手机刷机 | [一加 12 ColorOS 14 Fastboot 线刷案例](skills/oneplus-12-coloros14-fastboot-flashing/SKILL.md) |
 | 跨系统实验 | [ios-sweet 安卓设备启动 iOS 实验记录](skills/ios-sweet-android-experiment/SKILL.md) |
 | 容器与 CI/CD | [Docker 离线安装与 Jenkins JDK 21 容器部署案例](skills/docker-jenkins-jdk21-case/SKILL.md) |

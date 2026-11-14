@@ -58,3 +58,12 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [OPPO 众测与 ColorOS 14 功能体验记录](references/source-57092806.md)
 - [ColorOS 14 内测历程与功能记录](references/source-51292931.md)
 - [OPPO Reno5 Pro+ 售后维修个案](references/source-62338388.md)
+
+## 2026 发布规格与体验补充
+
+- [一加 Ace 7 系列：发布资料中的性能、屏幕与影像配置](references/oneplus-ace-7-series-specifications.md)
+- [iQOO Neo12 与 Pad Pro 8.8 英寸：发布规格和游戏能力](references/iqoo-neo12-pad-pro-launch-specs.md)
+- [vivo 2026 开发者大会：原系统 7、蓝河 OS 4 与智能体架构](references/vivo-2026-originos-blueos-developer-conference.md)
+- [荣耀 WIN2 体验文章中的游戏性能、散热与系统功能](references/honor-win2-gaming-review.md)
+- [联想小新 10.1 彩墨柔光版：显示模式与学习功能](references/lenovo-xiaoxin-10-1-color-ink-tablet.md)
+- [T牌钛14轻薄本文章中的硬件规格与待核实说法](references/t-brand-titanium-14-laptop-claims.md)
