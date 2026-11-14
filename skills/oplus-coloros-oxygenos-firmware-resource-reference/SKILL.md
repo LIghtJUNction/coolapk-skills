@@ -113,3 +113,4 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 - [ColorOS 17 降至 16：2026-10-27 目录补充](references/coloros17-downgrade-20261027.md)
 
 - [OPPO 与一加短帖固件资源](references/short-post-resources-202611.md)
+- [realme OFP 线刷包资源](references/realme-ofp-202611.md)
