@@ -90,3 +90,5 @@ description: "SaltPlayer Android 版本变更参考"
 - [椒盐音乐 12.2.0 更新记录](references/source-73171807.md)
 - [椒盐音乐 Salt Player 鸿蒙原生 1.5.0：导入、扫描与界面修复](references/source-73009079.md)
 - [SaltPlayer 小米专属功能适配沟通与专区计划](references/source-73778872.md)
+
+- [12.1 音频输出与青盐云听开发版](references/2026-12-1-audio-and-qinalt.md)
