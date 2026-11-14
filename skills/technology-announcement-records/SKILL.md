@@ -28,4 +28,11 @@ description: 检索按原发帖时点归档的设备、芯片、操作系统、�
 - [Reno16、MiMo API与6G试验（2026-05-29）](references/weekly-72040465.md)
 - [17Max、红魔11S与影像固件反馈（2026-05-22）](references/weekly-71905367.md)
 
+## 专题汇总
+
+- [2026 年手机、平板与可穿戴设备规格摘要](references/mobile-device-specifications-2026.md)
+- [移动系统功能、AI 助手与解锁政策](references/mobile-os-ai-and-unlocking.md)
+- [芯片、AI 模型、显示与能效报道摘要](references/mobile-chip-ai-and-display-reports.md)
+- [OpenClaw 2.0 更新概览](references/openclaw-2-update.md)
+
 日期以各页的API发帖日期（UTC+8）为准，传闻、计划、发布会参数与实际测试分开理解；不跨期拼接机型参数。
