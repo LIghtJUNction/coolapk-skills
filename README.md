@@ -6,6 +6,8 @@
 
 | 分类 | 技能 |
 |---|---|
+| Windows 工具 | [Windows 系统维护、磁盘与网络工具案例](skills/windows-system-and-disk-utilities/SKILL.md) |
+| 桌面效率工具 | [跨平台桌面效率与多媒体工具案例](skills/cross-platform-desktop-productivity-tools/SKILL.md) |
 | NAS 与 Homelab | [NAS、嵌入式刷机与 Homelab 部署案例](skills/nas-armbian-fnos-and-homelab-cases/SKILL.md) |
 | AI 机器人部署 | [OpenClaw 与 AI 机器人多端部署案例](skills/openclaw-and-ai-bot-deployment-cases/SKILL.md) |
 | 内网穿透 | [cpolar 内网穿透与本地 Web 暴露案例](skills/cpolar-tunnel-and-local-web-exposure/SKILL.md) |

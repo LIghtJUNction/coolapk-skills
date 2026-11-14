@@ -20,3 +20,7 @@ description: 汇总 OpenClaw、Hermes、AstrBot/NapCat、KouriChat、MiGPT 与 O
 - [Mac mini 上部署 OpenClaw 并接入飞书](references/openclaw-macmini-feishu.md)
 - [飞牛 NAS 上部署 Hermes 并接入微信与 cpolar](references/nas-hermes-deployment.md)
 - [Windows Docker 部署 Open-LLM-VTuber 并配置模型与远程访问](references/open-llm-vtuber-docker.md)
+- [Android 上的 AstrBot 与 NapCat：PRoot Ubuntu 应用方案](references/android-astrbot-napcat.md)
+- [Voice Companion Bundle：Windows 与 WSL2 本地语音数字人](references/voice-companion-bundle.md)
+- [LM Studio 运行 Qwen3.8：显存选择、OpenAI 兼容 API 与远程访问](references/qwen-lmstudio-local-api.md)
+- [Infinite-Canvas：AI 创作节点工作流与远程访问](references/infinite-canvas-workflow.md)

@@ -24,3 +24,5 @@ description: 汇总低成本嵌入式硬件（N1、RK3566、玩客云、jz02_v10
 - [飞牛 NAS 部署 Gitea 并通过 cpolar 远程克隆](references/gitea-fn-cpolar.md)
 - [绿联 NAS 上用 Frigate 与 N5105 核显做本地监控识别](references/frigate-n5105-nas.md)
 - [HP ProDesk 600 G4 Desktop Mini 安装 macOS Ventura](references/hp-prodesk-600-g4-hackintosh.md)
+- [Dufs 文件服务：Docker 部署、访问控制与 cpolar 远程访问](references/dufs-cn-deployment.md)
+- [闲置 Android 手机：运动录像、FTP 上传 NAS 与远程查看](references/old-phone-nas-camera.md)
