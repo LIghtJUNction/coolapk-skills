@@ -82,3 +82,15 @@ description: "Android 跨品牌主题与图标包适配维护参考"
 
 - [完美图标 v3.0–v3.2](references/perfect-icons-history.md)：小米主题商店搜索入口、重绘范围与 v4.0 当时的计划。
 - [Eleven、陆识、洪、X49](references/eleven-lushi-hong-x49-history.md)：图标适配数量、鸿蒙上架与 Flyme 上传状态；平台版本和项目版本分别记录。
+
+
+## 补充的来源技术记录
+
+- [《补全计划One》OriginOS 6 主题更新记录](references/source-69956573.md)
+- [华为/荣耀 HWT 主题包适配与更新记录](references/source-65879719.md)
+- [《补全计划One II》主题功能说明](references/source-69441390.md)
+- [《补全计划One》vivo主题：OriginOS 5 1月更新](references/source-62150370.md)
+- [One 图标包 V3.5：更新与系统适配](references/source-68875603.md)
+- [vivo 主题「补全计划One II」功能与适配进度](references/source-70426914.md)
+- [《补全计划One Plus》C15 主题版本与模块差异](references/source-63637268.md)
+- [补全计划 One Plus：ColorOS 16 主题更新](references/source-69010325.md)

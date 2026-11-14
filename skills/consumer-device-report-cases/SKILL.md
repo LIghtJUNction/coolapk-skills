@@ -42,3 +42,12 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [海贝 M500 初音未来限定版逆向记录](references/source-69066201.md)
 - [12 英寸 MacBook（2017）使用与故障记录](references/source-68847575.md)
 - [全透明压电陶瓷微泵液冷手机壳](references/source-68302108.md)
+
+
+## 补充的来源技术记录
+
+- [ColorOS 10 月月度版本更新记录](references/source-74916953.md)
+- [仰望鼎曜首发信息与原帖参数](references/source-74984569.md)
+- [手机贴膜的摔落防护体验](references/source-74930218.md)
+
+- [G304滚轮飘：历史售后渠道反馈](references/source-69899919.md)
