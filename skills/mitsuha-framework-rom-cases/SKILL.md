@@ -125,3 +125,5 @@ NeoHyper这些来源称使用MimosaFramework，不能与Mitsuha主发行版或�
 ## 2026 年 11 月相机与界面更新
 
 八篇更新帖共同描述 DJI Osmo Pocket 4 的系统连接、设备中心/蓝牙入口、相册分类和批量保存，以及动态图片预览；无水印选项据称直接复制原文件，原帖要求保留 RAW/DNG 或 HDR 视频时选择无水印。原帖仅称 Pocket 4 完成实机验证，其他相机型号不能据此推断适配。另列控制中心大时钟配置、网易云与 QQ 音乐逐字歌词、HookManager 在线更新及下载文件未就绪时的重试。上述是帖子声明，未在本项目复测。[八篇机型版本及包名](references/version-packages.md#2026-年-11-月补充的八篇机型版本)。
+
+- [NeoHyper BloomFlow 2.0.7.5 Enhanced 更新与刷机边界](references/source-74924565.md)
