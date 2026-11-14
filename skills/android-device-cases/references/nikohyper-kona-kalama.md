@@ -79,3 +79,20 @@ OS3.0.32 帖另列 13 Ultra 底包 OS2.0.210.0.VMACNXM、13 Pro 底包 OS2.0.219
 | [73359702](https://www.coolapk.com/feed/73359702) | Kona OS4.0.0.23.XPBCNXM | 称移除 SukiSU、需自行修补 Root；称因底包限制需格式化 data，且列出硬件修复项目但未逐项给出测试结果 |
 
 格式化 data 会删除数据，刷机前应先核对实际设备、文件和恢复方式并备份。上述正文没有具体 ROM 下载直链，不能把其他版本资源推定为本版文件。
+
+## 小米 13 系列更多历史版本
+
+下列 Kalama 帖均列出小米 13（fuxi）、13 Pro（nuwa）、13 Ultra（ishtar）。适配、升级与功能是作者声明，未下载或实机验证；正文没有具体下载直链，图片和完整评论未读取。
+
+| 来源 | 版本与补丁 | 原帖特定内容 |
+|---|---|---|
+| [69941440](https://www.coolapk.com/feed/69941440) | OS3.0.300.4.WPBCNXM；2026-02-01 | 称基于小米 17 Ultra，初次加入灵动岛优化；该基线后缀按原帖保留 |
+| [70160728](https://www.coolapk.com/feed/70160728) | OS3.0.300.7.WPACNXM；2026-02-01 | 称移除 Link to Windows、ZRAM 为 1:2、swappiness 为 180；效果未测 |
+| [70236237](https://www.coolapk.com/feed/70236237) | OS3.0.15.0.WPACNXM；2026-02-01 | 作者称可从上一版 300 升级并推荐 8GB 机型；未验证数据保留或性能 |
+| [72039574](https://www.coolapk.com/feed/72039574) | OS3.0.311.0.WPBCNXM；2026-04-01 | 作者称不高于该补丁的官方包可直刷；仍需核对机型、版本与备份 |
+| [72948084](https://www.coolapk.com/feed/72948084) | OS3.0.317.0.WPBCNXM；2026-06-01 | 称小米 13/Ultra 可从特定包不清数据迁移；不包括 13 Pro 的明确保证 |
+| [73190888](https://www.coolapk.com/feed/73190888) | OS3.0.330.14.XPCCNXM Beta；2026-07-01 | 作者称为 Android 17 基础的 HyperOS 3 Beta，无高级设置版；升级仅为理论可行 |
+| [73243994](https://www.coolapk.com/feed/73243994) | OS4.0.0.20；标题 XPBCNXM、正文 WPBCNXM | 先行版称需附加模块临时处理锁屏样式闪退；电池健康度暂时下线；版本冲突待核实 |
+| [73826794](https://www.coolapk.com/feed/73826794) | OS4.0.0.39；标题 XPBCNXM、正文 WPBCNXM；2026-09-01 | 底包：13 Ultra OS3.0.307.0.WMACNXM、13 Pro OS3.0.311.0.WMBCNXM、13 OS3.0.309.0.WMCCNXM |
+
+不清数据和直接升级属于作者对特定版本的说法，不能保证资料安全；先核对实际设备和包并备份。
