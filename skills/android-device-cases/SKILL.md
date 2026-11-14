@@ -103,3 +103,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [Redmi K60 至尊版发布规格记录](references/redmi-k60-ultra-launch-2023.md)
 
 - [OPPO A5 Pro 发布资料记录](references/oppo-a5-pro-launch-2024.md)
+
+- [2026 年手机发布与图赏记录](references/2026-phone-announcement-observations.md)
