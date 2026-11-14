@@ -99,3 +99,8 @@ description: "Android 跨品牌主题与图标包适配维护参考"
 ## 补充来源记录
 
 - [HyperOS 3 主题图标：MTZ 与 MRA 证书导入](references/source-67548317.md)
+
+
+## 补充技术资料
+
+- [Android 主题图标形状与桌面动画](references/source-53041615.md)

@@ -65,3 +65,9 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [小米相机跨机型移植的配置差异与调试难点](references/source-54019298.md)
 - [澎湃 OS 智能助理小部件数据恢复](references/source-53040728.md)
 - [在 HyperOS 2 桌面启用 HyperOS 3 搜索框](references/source-66986325.md)
+
+
+## 补充技术资料
+
+- [荣耀 Magic V5（MBH-AN10）固件条目与下载链接](references/source-68034541.md)
+- [9008模式与无法开机排查线索](references/source-43905287.md)
