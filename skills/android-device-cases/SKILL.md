@@ -121,3 +121,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [OPPO A7 Pro Max、vivo X Fold6 与雷鸟 iO 发布资料](references/2026-a7-fold6-rayneo.md)
 
 - [红魔 7S 系列及周边发布资料（2022）](references/redmagic-7s-2022.md)
+
+- [红魔 11 Air 与 11S Pro 系列发布资料](references/redmagic-11-series-2026.md)
