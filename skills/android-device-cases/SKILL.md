@@ -137,3 +137,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [微信跨平台适配与 Form 4 发布记录](references/wechat-cross-platform-form4.md)
 
 - [安克 Liberty 5 Pro 系列与 Thus A1 介绍](references/anker-liberty5-a1.md)
+
+- [荣耀 Magic Vs2 与 iQOO Z7 系列发布资料（2023）](references/honor-vs2-iqoo-z7.md)
