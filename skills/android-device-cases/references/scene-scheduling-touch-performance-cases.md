@@ -60,3 +60,17 @@
 ## 游戏与温度观察
 
 [36457823](https://www.coolapk.com/feed/36457823) 讨论天玑 8100 游戏 120fps/HDR 的调度对比，但关键数据在未读图片中，不据正文断言哪套方案更好。[35349602](https://www.coolapk.com/feed/35349602) 在改装设备和外置背夹下记录游戏瞬时 CPU 温度与电流；不同模式、散热条件无法构成公平性能对比。[34502499](https://www.coolapk.com/feed/34502499) 是 K50 Pro 上市初期体验：作者称默认 FHD、压力测试频率下降及游戏频率限制，关键曲线与充电数据在未读图片中；观点不代表后续系统表现。
+
+## Scene 激活与版本沿革
+
+[46265741](https://www.coolapk.com/feed/46265741) 描述通过 Shizuku 配对无线调试，再启动 Shizuku、选择 Scene 的 ADB 模式并授权；帖子称部分 MIUI 版本需 USB 调试安全设置和原生通知样式，OriginOS 有时需手动打开 Shizuku。不同系统菜单及权限取决于版本；图片未读，未实机验证。
+
+[30902177](https://www.coolapk.com/feed/30902177) 是 Scene 4.7 发布前的历史说明，提供 [应用官网](http://vtools.omarea.com/) 和 [历史版本发布页](https://github.com/helloklf/vtools/releases)；链接和文件未验证。[32520247](https://www.coolapk.com/feed/32520247) 介绍 Scene 5 公测计划，包括基础、ADB 和 Root 模式及性能监视等功能；当时的付费及激活政策不代表现行政策。[32716184](https://www.coolapk.com/feed/32716184) 是 Scene 5 早期激活套餐和账号故障公告，历史积分、注册与套餐条件可能已经改变，不应当作当前购买依据。
+
+[46247682](https://www.coolapk.com/feed/46247682) 称自 2023 年 7 月起部分中低端或旧 SoC 从逐型号转为按核心规模使用通用配置，例如 `snapdragon-62`、`snapdragon-611`、`dimensity-62` 和 PPM 变体；支持矩阵仅反映当时的配置。[42086340](https://www.coolapk.com/feed/42086340) 建议先体验原厂调度；作者称卸载 Joyose 可能影响部分机型的 FEAS，依赖具体系统版本，并非所有机型通用。
+
+## 手动 OTA 与历史设备测量
+
+[31441339](https://www.coolapk.com/feed/31441339) 记载已 Root 的虚拟 A/B 设备通过 `update_engine_client` 读取全量 OTA 中的 `payload.bin` 与 `payload_properties.txt`，观察 `onPayloadApplicationComplete` 返回码；`kSuccess` 是操作返回成功，仍需检查启动和系统状态。帖子强调备份，并称更新后需重新获取 Root。标题中的“任意版本”不等于跨版本、跨机型或降级一定受支持；反回滚、签名、分区与兼容条件未独立验证。[历史 ROM 入口](http://www.miui.com/getrom.php) 未验证。
+
+[32992447](https://www.coolapk.com/feed/32992447) 记录 realme GT Neo 天玑 1200 的历史游戏测试：预热约 45°C、GPU 手动设 750MHz，约 3 分 46 秒测得 58.3fps、99.1% 时间不低于 45fps，结束温度约 48.3°C；另一次约十分钟游戏升至 52°C 并出现降频。测量为特定设备、场景与设置，九张图片未读，不能代表当前系统或普遍表现。
