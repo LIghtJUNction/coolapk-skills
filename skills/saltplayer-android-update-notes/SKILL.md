@@ -94,3 +94,4 @@ description: "SaltPlayer Android 版本变更参考"
 - [12.1 音频输出与青盐云听开发版](references/2026-12-1-audio-and-qinalt.md)
 
 - [2025–2026 跨平台版本变更](references/2025-2026-platform-changes.md)
+- [2025 Windows 版本与 ColorOS 兼容性](references/2025-windows-and-coloros.md)
