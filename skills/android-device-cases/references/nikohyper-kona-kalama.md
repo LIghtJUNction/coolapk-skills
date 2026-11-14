@@ -45,3 +45,20 @@ OS3.0.32 帖另列 13 Ultra 底包 OS2.0.210.0.VMACNXM、13 Pro 底包 OS2.0.219
 | [73259691](https://www.coolapk.com/feed/73259691) | Kalama，正文 OS4.0.0.20.WPBCNXM | 列出小米 13/Pro/Ultra，称合并 5.15.211 内核、修复 NFC 和指纹支付；标题版本写法与正文不同，以实际包为准 |
 
 原帖对内核、调度、充电和硬件功能的描述均为发布者报告，不能据此保证兼容或性能提升。上文项目文档入口未核验具体文件，其中 68691067、70701283、73259691 正文没有给出具体下载链接，不应假设它们一定在同一目录。
+
+## 后续 OS3 与 OS4 发布帖
+
+下列版本、功能和问题均为原帖声明，未下载或实机验证；Kalama 指帖子列出的小米 13（fuxi）、13 Pro（nuwa）、13 Ultra（ishtar），Kona 指小米 10（UMI）、10 Pro（CMI）、10 Ultra（CAS）。
+
+| 来源 | 机型与版本 | 原帖关键信息 |
+|---|---|---|
+| [71554234](https://www.coolapk.com/feed/71554234) | Kalama；标题/基线 OS3.0.306.4.WPBCNXM，正文开头却写 OS3.0.9.0.WPBCNXM | 称支持官方扩容电池；13、13 Pro、13 Ultra 底包分别 OS3.0.304.0.WMCCNXM、OS3.0.306.0.WMBCNXM、OS3.0.302.0.WMACNXM。关于本机显示原容量及健康度读数的说法未验证 |
+| [71947594](https://www.coolapk.com/feed/71947594) | Kalama；OS3.0.309.0.WPBCNXM | 底包分别为 13 OS3.0.307.0.WMCCNXM、13 Pro OS3.0.309.0.WMBCNXM、13 Ultra OS3.0.305.0.WMACNXM；电池续航说法仅为待测传闻 |
+| [70296176](https://www.coolapk.com/feed/70296176) | Kalama；标题 OS3.0.300.8.WPACNXM，正文开头 OS3.0.300.8.WPBCNXM，所述移植基线 OS3.0.300.7.WPACNXM | 三处版本不同；底包 13 OS3.0.3.0.WMCCNXM、13 Pro OS3.0.4.0.WMBCNXM、13 Ultra OS3.0.4.0.WMACNXM |
+| [73435943](https://www.coolapk.com/feed/73435943) | Kalama；OS4.0.0.25.XPBCNXM | 称修复景深壁纸、相册文字提取及 AI 模型下发 |
+| [73584471](https://www.coolapk.com/feed/73584471) | Kalama；标题 OS4.0.0.32.XPBCNXM，正文和基线写 OS4.0.0.32.WPBCNXM | 称同步官方更新；版本冲突待核对实际包 |
+| [73436038](https://www.coolapk.com/feed/73436038) | Kona；OS4.0.0.25.XPBCNXM | 称因底包限制刷入前需格式化 data；列出指纹、基带等修复声明 |
+| [73584515](https://www.coolapk.com/feed/73584515) | Kona；OS4.0.0.32.XPBCNXM | 同样称需格式化 data，并列出指纹、基带等项目；原文未逐项提供测试结果 |
+| [74141099](https://www.coolapk.com/feed/74141099) | Kona；OS4.0.17.0.XEOCNXM，基于小米 18 Pro Max | 称修复 LHDC、小爱唤醒及 Wi-Fi 断连；附 [NekoFODService 相关帖](https://www.coolapk.com/feed/74086391?s=OThmN2ZiZjQzNTU5Y2FnNmFjMGNkY2N6a1664)，关联帖未读取 |
+
+版本冲突应以设备和实际包的可靠信息核验，不能自行替换字段。格式化 data 会删除数据；原帖的范围声明不等于其他 ROM 也适用，刷入前须确认包和恢复方式并备份。这些正文没有具体下载直链；图片及完整评论未读取。
