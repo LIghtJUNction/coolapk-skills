@@ -79,3 +79,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [NexusHyper v2 移植机型、底包与评论下载入口](references/nexushyper-v2-ports.md)
 
 - [HyperOS r16.2 移植机型、底包与资源](references/hyperos-r16-port-variants.md)
+
+- [HyperOS r16.3/r17 系列机型、版本与资源](references/hyperos-r16-r17-additional.md)
