@@ -94,3 +94,6 @@ v4.9.0 的“只监听 localhost”、更换 API 实现与撤回 Rust API 都是
 ## Android16输出解析适配记录
 
 [读取新版dumpsys window的尝试](references/android16-parser-attempt.md)保留真实Actions运行入口，明确原帖当时未真机测试，不以CI地址代替设备验收。
+
+
+[v4.9.1发布记录](references/v4-9-1.md)保存Android16适配声明、版本号计算和WebUI更新及实际下载入口与22bw，不以作者声明代替实机验收。

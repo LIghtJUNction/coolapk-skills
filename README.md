@@ -4,6 +4,8 @@
 
 | 分类 | 技能 |
 |---|---|
+| 功耗测量 | [SoC功耗实验与固件频点证据](skills/android-soc-power-evidence/SKILL.md) |
+| Agent记忆 | [长篇创作的世界关系图与上下文预算](skills/novel-agent-world-memory/SKILL.md) |
 | 手柄输入 | [蓝牙手柄与驱动层虚拟手柄](skills/android-controller-input-tools/SKILL.md) |
 | MIUI小窗 | [侧边栏小窗位置与缩放](skills/miui-floating-window-sidebar/SKILL.md) |
 | 兼容排错 | [APK路径长度与C缓冲区](skills/android-apk-path-buffer-debugging/SKILL.md) |

@@ -101,3 +101,11 @@ description: 查询Mitsuha Framework的功能开关、重启条件、在线更�
 ## 继续补充的机型与版本
 
 [包名对照的新增条目](references/version-packages.md#新增小米1517与redmi-k90发布包)补充9个小米15/17系列及RedmiK90包，未逐机对应的双日期保留未对应状态。[K60Pro与K70系列Beta记录](references/hyperos3-k60-k70-beta.md)另列OS3.0.300.10.Beta与包内KernelSU.zip路径，不与其他ROM版本线混写。
+
+
+## 按版本查询
+
+- [OS4小米17与RedmiK100三帖快照](references/os4-xiaomi17-k100-snapshot.md)：保留各帖机型列表，重复正文只归纳一次。
+- [一加Ace5 FlymeAIOS12.6 Beta6](references/flymeaios-ace5-beta6.md)：Aicy、相机、TWRP/DATA修复和13T预告分开。
+- [小米17系列OS3.0.315/Ultra307](references/xiaomi17-os315-case.md)：不把Ultra记成315。
+- [Note12Turbo OS2.0.210.0](references/note12-turbo-os2-case.md)：记录系统组件、Root和原帖启动故障处理的适用缺口。
