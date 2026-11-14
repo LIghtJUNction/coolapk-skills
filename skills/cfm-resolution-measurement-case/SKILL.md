@@ -48,3 +48,8 @@ wm size reset
 来源：酷安文章 [67543883](https://www.coolapk.com/feed/67543883)。分辨率数值、条件和命令均依据帖文；原帖配有 2 张图片，但本次输入未提供图片内容，无法整理图片中的证据或输出。
 
 SurfaceFlinger 中的 layer 尺寸也不必然等于游戏内部渲染缓冲尺寸。两张原帖图片未读，不能用这条筛选命令确认表内数值。
+
+
+## 相关版本与操作案例
+
+[ANGLE与机型伪装案例](references/angle-device-spoof-cases.md)保留原帖开关命令、清除全局设置的影响、红魔电竞平板3Pro模块及Note11TPro单设备观察；不把图像档位变化当作实测渲染负载。

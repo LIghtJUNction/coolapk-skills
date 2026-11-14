@@ -4,6 +4,14 @@
 
 | 分类 | 技能 |
 |---|---|
+| 刷机工具 | [Fastboot Enhance：Payload解包与发布包](skills/fastboot-enhance-payload-tools/SKILL.md) |
+| 同步相册 | [Echo Pixel与WebDAV测试状态](skills/echo-pixel-webdav-sync/SKILL.md) |
+| 移动开发 | [TruidIDE本地开发环境计划](skills/truidide-mobile-development-plan/SKILL.md) |
+| 表情管理 | [PigSeek资源与公开提取码](skills/pigseek-image-sync-resource/SKILL.md) |
+| Android界面 | [边到边布局与系统栏insets](skills/android-edge-to-edge-insets/SKILL.md) |
+| 系统设置 | [LineageOS设置监视器v8](skills/lineageos-settings-monitor/SKILL.md) |
+| 应用兼容 | [微信7.0.22平板模式历史案例](skills/wechat-tablet-login-version-case/SKILL.md) |
+| 锁屏设置 | [ADB关闭非安全滑动锁屏案例](skills/android-nonsecure-lockscreen-adb/SKILL.md) |
 | 小米 ROM | [Mitsuha框架、包名与版本案例](skills/mitsuha-framework-rom-cases/SKILL.md) |
 | 耳机测量 | [降噪、频响、佩戴与调音案例](skills/earphone-measurement-and-listening-cases/SKILL.md) |
 | CPU 能效 | [频率、功率与任务能量](skills/cpu-frequency-energy-comparison/SKILL.md) |

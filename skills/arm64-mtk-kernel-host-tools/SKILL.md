@@ -36,3 +36,8 @@ Coolapk 原帖：[酷安技术帖](https://www.coolapk.com/feed/53270823)
 源码示例：<https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/ares-r-oss>
 
 原帖提及的视频：https://b23.tv/nDeeFZz
+
+
+## 补充来源案例
+
+[EEM offset节点观察](references/eem-offset-observation.md)保留原帖调节节点的说法与工具设想；未给路径、单位、范围，不能补造成通用降压方法。

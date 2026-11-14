@@ -84,3 +84,8 @@ v4.9.0 的“只监听 localhost”、更换 API 实现与撤回 Rust API 都是
 
 - [v3.1 / v3.3 / v3.8 发布记录](references/v3-release-history.md)：最小频率集群、offset、温控、P 控制和历史修复，不能把不同提交视为同时生效的当前规则。
 - [CPCS 关键路径预算分配](references/cpcs-critical-path.md)：已读取原理文章，区分关键链查找、执行时间权重与未公开实现，并纠正其帧耗时反馈方向的文字解释。
+
+
+## 补充来源案例
+
+[v1.0.0历史配置与Termux构建](references/v1-config-build.md)补齐games.toml、模式节点、配置合并和可恢复的clone地址；[v3.7与v4.5变动](references/v3-7-v4-5-changes.md)区分旧字段、CPU利用率分析变化及需重下的早期构建。

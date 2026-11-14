@@ -96,3 +96,8 @@ description: 查询Mitsuha Framework的功能开关、重启条件、在线更�
 - [框架说明 74445160](https://www.coolapk.com/feed/74445160)
 - [框架说明 74445154](https://www.coolapk.com/feed/74445154)
 - [框架说明 74401011](https://www.coolapk.com/feed/74401011)
+
+
+## 继续补充的机型与版本
+
+[包名对照的新增条目](references/version-packages.md#新增小米1517与redmi-k90发布包)补充9个小米15/17系列及RedmiK90包，未逐机对应的双日期保留未对应状态。[K60Pro与K70系列Beta记录](references/hyperos3-k60-k70-beta.md)另列OS3.0.300.10.Beta与包内KernelSU.zip路径，不与其他ROM版本线混写。
