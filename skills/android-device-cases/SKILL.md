@@ -101,3 +101,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [MIUI 显示、相机与 Swap 历史案例](references/miui-display-camera-swap-historical.md)
 
 - [Redmi K60 至尊版发布规格记录](references/redmi-k60-ultra-launch-2023.md)
+
+- [OPPO A5 Pro 发布资料记录](references/oppo-a5-pro-launch-2024.md)
