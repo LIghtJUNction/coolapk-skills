@@ -27,3 +27,8 @@ description: 查询帧率计v11的录制、折线图、横竖屏悬浮窗与Andr
 ## 相关版本与操作案例
 
 [v7与v10历史](references/v7-v10-history.md)补充系统支持、游戏空间API冲突、升级要求和源码入口。
+
+
+## 早期未标版本的资源答复
+
+[Android13+分享回复](references/early-unversioned-share.md)保留原帖g5y9提取码和当时要求，不据相同分享目录确认具体版本。

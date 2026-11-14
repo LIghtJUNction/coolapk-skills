@@ -4,6 +4,10 @@
 
 | 分类 | 技能 |
 |---|---|
+| 手柄输入 | [蓝牙手柄与驱动层虚拟手柄](skills/android-controller-input-tools/SKILL.md) |
+| MIUI小窗 | [侧边栏小窗位置与缩放](skills/miui-floating-window-sidebar/SKILL.md) |
+| 兼容排错 | [APK路径长度与C缓冲区](skills/android-apk-path-buffer-debugging/SKILL.md) |
+| 旧游戏适配 | [保卫萝卜Android修改包记录](skills/carrot-defense-android-port-cases/SKILL.md) |
 | 刷机工具 | [Fastboot Enhance：Payload解包与发布包](skills/fastboot-enhance-payload-tools/SKILL.md) |
 | 同步相册 | [Echo Pixel与WebDAV测试状态](skills/echo-pixel-webdav-sync/SKILL.md) |
 | 移动开发 | [TruidIDE本地开发环境计划](skills/truidide-mobile-development-plan/SKILL.md) |

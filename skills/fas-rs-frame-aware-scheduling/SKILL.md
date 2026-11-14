@@ -89,3 +89,8 @@ v4.9.0 的“只监听 localhost”、更换 API 实现与撤回 Rust API 都是
 ## 补充来源案例
 
 [v1.0.0历史配置与Termux构建](references/v1-config-build.md)补齐games.toml、模式节点、配置合并和可恢复的clone地址；[v3.7与v4.5变动](references/v3-7-v4-5-changes.md)区分旧字段、CPU利用率分析变化及需重下的早期构建。
+
+
+## Android16输出解析适配记录
+
+[读取新版dumpsys window的尝试](references/android16-parser-attempt.md)保留真实Actions运行入口，明确原帖当时未真机测试，不以CI地址代替设备验收。
