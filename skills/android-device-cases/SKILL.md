@@ -133,3 +133,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [红魔 9S Pro 系列与雷鸟 iO 发布资料](references/redmagic9s-rayneo-io.md)
 
 - [OriginOS 5/6 与 BlueOS 发布记录](references/originos5-6-blueos.md)
+
+- [微信跨平台适配与 Form 4 发布记录](references/wechat-cross-platform-form4.md)
