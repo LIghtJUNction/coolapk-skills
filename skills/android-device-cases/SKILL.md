@@ -139,3 +139,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [安克 Liberty 5 Pro 系列与 Thus A1 介绍](references/anker-liberty5-a1.md)
 
 - [荣耀 Magic Vs2 与 iQOO Z7 系列发布资料（2023）](references/honor-vs2-iqoo-z7.md)
+
+- [vivo Pad6 Pro 与真我 Neo8 显示资料](references/vivo-pad6-realme-neo8.md)
