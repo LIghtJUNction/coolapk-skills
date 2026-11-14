@@ -153,3 +153,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [红魔 11 Pro 与 vivo X300 Ultra/X300s 发布记录](references/redmagic11-vivo-x300-2026.md)
 - [荣耀 Magic V5 第三方充电器观察](references/honor-magic-v5-third-party-charging.md)
 - [ColorOS 17 菜单与天气壁纸观察](references/coloros17-ui-preview.md)
+- [Scene5 激活、刷新率和刘海区域适配](references/scene5-accessibility-and-display.md)
