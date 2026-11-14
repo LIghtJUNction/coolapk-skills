@@ -81,3 +81,9 @@
 - [28968088](https://www.coolapk.com/feed/28968088)：针对 Scene 4 通过模块转为系统应用后的更新问题，帖子建议先移除对应模块并重启，再更新或切回普通应用；模块和系统机制可能随版本变化，三张图片及具体操作未验证。
 - [35333908](https://www.coolapk.com/feed/35333908)：K50 Pro 历史单场景实验，4K 在线视频、2K/60Hz、弹幕、Wi-Fi、亮度条 50%，同时后台运行两线程压力测试；记录 Uperf 713mA、Scene 756mA、原厂 1032mA。电池电压、温度和重复测试不足，不能作为普遍能效排名。
 - [27952440](https://www.coolapk.com/feed/27952440)：Scene 4 Core 历史说明称保留性能监视和调度，支持 `/data/powercfg.sh` 外部配置；[应用页](http://www.coolapk.com/apk/com.omarea.scene)、[相关 Uperf 帖](https://www.coolapk.com/feed/27893833)。链接目标和历史兼容性未验证，图片及关联帖未读。
+
+## 历史监测和 MTK 接口
+
+[24444971](https://www.coolapk.com/feed/24444971) 称旧版 Scene 迷你监视器在后半数核心中存在高于 70% 且高于多核平均的负载时显示该单核值，否则显示多核负载；这是展示策略，不是系统总 CPU 利用率的统一定义。[18953694](https://www.coolapk.com/feed/18953694) 描述 Scene 3 内置、在线、本地导入、外部 `/data/powercfg.sh` 和自定义配置，称当时不支持部分模式自定义混搭；历史规则不一定适用当前版本。
+
+[21121775](https://www.coolapk.com/feed/21121775) 讨论旧 MTK PPM 接口：频率表索引与频率值不同，`-1` 在其示例中代表未设置；关闭 PPM 可能连带影响 boost。具体频率表在未读图片中，[原文引用](https://cpu52.com/archives/229.html)未验证。[21088366](https://www.coolapk.com/feed/21088366) 列出历史 GED 参数，但作者未解释大部分参数含义，仅提示强制 MDP 可能影响视频硬解；不应把节点名称或示例值当作通用调优方案。接口与效果随设备和内核变化。

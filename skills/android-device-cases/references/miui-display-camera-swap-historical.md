@@ -23,3 +23,11 @@
 [27675744](https://www.coolapk.com/feed/27675744) 比较降压后的 Mi 9/855、Mi 10 Pro/865、Mi 11 Pro/888，在 GFXBench 曼哈顿 3.1 离屏、1080p/60Hz、最低亮度等条件下记录 73fps/4.5W、99fps/5.1W、90fps/5.3W（888 540MHz）、113fps/6.8W（888 738MHz）；功耗为整机、设备与电压不同，空载扣减是作者假设而非实测。不能直接当作 GPU 芯片能效排名。
 
 [26473463](https://www.coolapk.com/feed/26473463) 说明 Scene 4 的 `/data/powercfg.sh` 接收 `init`、`powersave`、`balance`、`performance`、`fast`，严格模式下前台切换可提供 `top_app`；手动切换或 init 等场景可能为空。对应 Scene 5 的扩展另见本目录 [调度案例](scene-scheduling-touch-performance-cases.md)。
+
+## Redmi 10X 缺口补丁补充
+
+[19284856](https://www.coolapk.com/feed/19284856) 描述用 `/product/overlay` 或 `/vendor/overlay` 中的资源调整模拟缺口路径及横竖屏状态栏高度；示例在另一台小米 10 Pro 上验证思路，33dp 和 28dp 不是 Redmi 10X 通用值。[19455978](https://www.coolapk.com/feed/19455978) 为 Redmi 10X 5G 的后续改动与 [资源目录](https://omarea.lanzous.com/b00tm2n6d)。[19851057](https://www.coolapk.com/feed/19851057) 提供仅限 Redmi 10X 5G（不含 Pro/4G）、MIUI 11.0.5 稳定版的 [专用补丁](https://omarea.lanzous.com/igV1ge365cf)，通过设备 overlay 改默认值；原帖强调不可跨机型或版本。链接和文件未验证，图片未读。
+
+## Swap 数据解释
+
+[22581283](https://www.coolapk.com/feed/22581283) 的单次实验使用 2GB ZRAM 加 2GB 磁盘 Swap、ZRAM 优先，约 19 小时 48 分钟记录总换出 45.67GB，其中称约 38.15GB 写入 ZRAM、7.5GB 写入磁盘 Swap。`/proc/vmstat` 的 `pswpin` / `pswpout` 以页计数，统计通常包含 ZRAM 和磁盘 Swap；换算要使用设备实际页大小，不能默认全部为 4KB。ZRAM 受压缩率和元数据开销影响；短期写入量不能直接推出闪存寿命，闪存规格、写放大及使用强度都需考虑。该案例九张图片未读，数值未复测。
