@@ -104,3 +104,6 @@ description: "Android 跨品牌主题与图标包适配维护参考"
 ## 补充技术资料
 
 - [Android 主题图标形状与桌面动画](references/source-53041615.md)
+
+- [HyperOS 第三方 MTZ 导入与公开提取码](references/source-67539560.md)
+- [One 三星鹅卵石 V3.4 更新与资源](references/source-65791240.md)
