@@ -6,6 +6,8 @@
 
 | 分类 | 技能 |
 |---|---|
+| 云主机与面板 | [EulerOS 与云主机面板部署案例](skills/euleros-and-cloud-panel-deployment-cases/SKILL.md) |
+| Docker 自托管 | [Docker 自托管应用部署案例](skills/docker-self-hosted-app-cases/SKILL.md) |
 | Agent 硬件与自动化 | [AI 终端改造与主机自动化工作流案例](skills/ai-agent-hardware-and-host-workflows/SKILL.md) |
 | 手机刷机 | [一加 12 ColorOS 14 Fastboot 线刷案例](skills/oneplus-12-coloros14-fastboot-flashing/SKILL.md) |
 | 跨系统实验 | [ios-sweet 安卓设备启动 iOS 实验记录](skills/ios-sweet-android-experiment/SKILL.md) |
