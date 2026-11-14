@@ -96,3 +96,20 @@ OS3.0.32 帖另列 13 Ultra 底包 OS2.0.210.0.VMACNXM、13 Pro 底包 OS2.0.219
 | [73826794](https://www.coolapk.com/feed/73826794) | OS4.0.0.39；标题 XPBCNXM、正文 WPBCNXM；2026-09-01 | 底包：13 Ultra OS3.0.307.0.WMACNXM、13 Pro OS3.0.311.0.WMBCNXM、13 OS3.0.309.0.WMCCNXM |
 
 不清数据和直接升级属于作者对特定版本的说法，不能保证资料安全；先核对实际设备和包并备份。
+
+## 更多 OS3/OS4 发布记录
+
+下列机型及更新均为原帖作者声明，未下载或实机测试；Kalama 指小米 13（fuxi）、13 Pro（nuwa）、13 Ultra（ishtar），Kona 指小米 10（UMI）、10 Pro（CMI）、10 Ultra（CAS）。
+
+| 来源 | 机型、版本与安全补丁 | 原帖更新 |
+|---|---|---|
+| [72076184](https://www.coolapk.com/feed/72076184) | Kalama OS3.0.313.0.WPBCNXM；2026-04-01 | 基于小米 17 Pro Max；称同步官方、优化发热 |
+| [73140650](https://www.coolapk.com/feed/73140650) | Kalama OS3.0.318.0.WPBCNXM；2026-07-01 | 称优化灵动岛 boost 开销及功耗，未给测量 |
+| [73998567](https://www.coolapk.com/feed/73998567) | Kalama OS4.0.9.0.XEOCNXM；2026-09-01 | 称移植目标改为小米 18 Pro Max |
+| [74041643](https://www.coolapk.com/feed/74041643) | Kalama OS4.0.11.0.XEOCNXM；2026-09-01 | 称修复 LHDC 固定 48 kHz 及切换 96/192 kHz 杂音 |
+| [74141012](https://www.coolapk.com/feed/74141012) | Kalama OS4.0.17.0.XEOCNXM；2026-09-01 | 称同步官方并更新内核，正文未给内核更新细节 |
+| [74278096](https://www.coolapk.com/feed/74278096) | Kalama OS4.0.24.0.XEOCNXM；2026-09-01 | 称同步官方 |
+| [74616508](https://www.coolapk.com/feed/74616508) | Kalama OS4.0.27.0.XEOCNXM；2026-09-01 | 称去除设置中的 AI 键和防窥屏项目 |
+| [70701382](https://www.coolapk.com/feed/70701382) | Kona OS3.0.303.5.WPBCNXM；2026-02-01 | 称调整 SystemUI 和桌面优先级；另附 [OS3 A15 相关帖](https://www.coolapk.com/feed/70319519?s=NmRhYzc2YTMzNTU5Y2FnNjliNjc2OWF6a1595)，关联帖未读取 |
+
+作者列出相机、NFC、指纹等工作状态并提供高级设置版和纯净版，不能推广为所有设备均已验证。正文无具体 ROM 下载直链；图片和完整评论未读取。
