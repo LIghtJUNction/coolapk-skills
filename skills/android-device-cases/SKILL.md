@@ -125,3 +125,5 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [红魔 11 Air 与 11S Pro 系列发布资料](references/redmagic-11-series-2026.md)
 
 - [魅族 21、MYVU 与 Flyme Link 发布资料（2023）](references/meizu21-myvu-2023.md)
+
+- [鸿蒙伙伴 SDK 与天马 OLED 技术发布记录](references/harmony-sdk-tianma-oled.md)
