@@ -62,3 +62,20 @@ OS3.0.32 帖另列 13 Ultra 底包 OS2.0.210.0.VMACNXM、13 Pro 底包 OS2.0.219
 | [74141099](https://www.coolapk.com/feed/74141099) | Kona；OS4.0.17.0.XEOCNXM，基于小米 18 Pro Max | 称修复 LHDC、小爱唤醒及 Wi-Fi 断连；附 [NekoFODService 相关帖](https://www.coolapk.com/feed/74086391?s=OThmN2ZiZjQzNTU5Y2FnNmFjMGNkY2N6a1664)，关联帖未读取 |
 
 版本冲突应以设备和实际包的可靠信息核验，不能自行替换字段。格式化 data 会删除数据；原帖的范围声明不等于其他 ROM 也适用，刷入前须确认包和恢复方式并备份。这些正文没有具体下载直链；图片及完整评论未读取。
+
+## 其他 NikoHyper 版本补充
+
+以下按原帖正文记录，适配与修复为作者声明，未独立下载、刷机或实测。Kalama 指小米 13/13 Pro/13 Ultra，Kona 指小米 10/10 Pro/10 Ultra；图片和完整评论未读取。
+
+| 来源 | 系列与版本 | 特定条件或更新 |
+|---|---|---|
+| [70184932](https://www.coolapk.com/feed/70184932) | Kona OS3.0.300.7.WPACNXM | 基于小米 17 Ultra；称调整 swappiness 为 180、修复人脸录制；另附[小米 13 系列关联帖](https://www.coolapk.com/feed/70160728?s=MDYzMzQyOTEzNTU5Y2FnNjk4ODkyY2R6a1595)，关联帖未读 |
+| [69817533](https://www.coolapk.com/feed/69817533) | Kalama OS3.0.10.0.WPACNXM | 基于小米 17 Ultra；称更新 F2FS、调度及 SukiSU；部分功能放在未读取图片中 |
+| [70937224](https://www.coolapk.com/feed/70937224) | Kalama OS3.0.305.0.WPBCNXM | 称调整 ZRAM、内存占用与附加模块 |
+| [71080697](https://www.coolapk.com/feed/71080697) | Kalama OS3.0.305.4.WPBCNXM | 称同步官方更新及优化功耗；没有具体测试结果 |
+| [71301468](https://www.coolapk.com/feed/71301468) | Kalama OS3.0.306.0.WPBCNXM | 称 13 Ultra 底包更新至 3.0.303、支持官方扩容电池；AOD 修复留待下一版 |
+| [72794285](https://www.coolapk.com/feed/72794285) | Kalama OS3.0.315.1 / 315.2.WPBCNXM | 称基于 315.0 / 315.2；13、13 Pro、13 Ultra 底包分别为 OS3.0.308.0.WMCCNXM、OS3.0.310.0.WMBCNXM、OS3.0.306.0.WMACNXM；部分内核说明在未读图片中 |
+| [73358851](https://www.coolapk.com/feed/73358851) | Kalama OS4.0.0.23 | 标题和基线写 XPBCNXM，正文开头写 WPBCNXM；保留差异待核实 |
+| [73359702](https://www.coolapk.com/feed/73359702) | Kona OS4.0.0.23.XPBCNXM | 称移除 SukiSU、需自行修补 Root；称因底包限制需格式化 data，且列出硬件修复项目但未逐项给出测试结果 |
+
+格式化 data 会删除数据，刷机前应先核对实际设备、文件和恢复方式并备份。上述正文没有具体 ROM 下载直链，不能把其他版本资源推定为本版文件。
