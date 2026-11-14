@@ -22,3 +22,5 @@ description: 使用Fastboot Enhance的公开资源与README区分Payload解包�
 项目不完整支持增量包；其说明仅允许在校验通过时从增量包提取镜像，不能将此扩展成支持增量包刷写。未勾选 ignore checksum 时会进行校验。仓库页面标为已归档，不将旧功能说明视作仍在维护的承诺。
 
 本次发布接口返回 [v1.4.0](https://github.com/libxzr/FastbootEnhance/releases/tag/v1.4.0)，日期为2022-11-04。资产直链：[Release.zip](https://github.com/libxzr/FastbootEnhance/releases/download/v1.4.0/Release.zip)，1,770,685字节；接口未给digest，不补造SHA-256。没有下载、运行程序或执行分区操作。
+
+- [Payload Dumper Web/Bot 的用途与原帖限制](references/source-55908704.md)
