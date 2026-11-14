@@ -44,3 +44,15 @@
 | [74856220](https://www.coolapk.com/feed/74856220) | Realme 12 Pro+ RMX3841 | 14.0.0.807(CN01) | OFP 线刷包 | [夸克](https://pan.quark.cn/s/5790129ac2f8)、[迅雷](https://pan.xunlei.com/s/VP5bfK5kHzeGuPRApk0Dmrb_A1?pwd=fp3z)，提取码 `fp3z` |
 
 机型、包类型、版本和链接来自对应帖子；文件、下载有效性和刷机条件未验证。
+
+## K13 Turbo、Ace 5 Pro、GT5 Pro 与 11R
+
+| 来源 | 机型 | 固件版本 | 类型 | 公开资源 |
+|---|---|---|---|---|
+| [74812681](https://www.coolapk.com/feed/74812681) | OPPO K13 Turbo | PLM110_16.0.5.1300(CN01) C.20 | 全量包 | [夸克](https://pan.quark.cn/s/92e7cb8ebd9e)、[迅雷](https://pan.xunlei.com/s/VP5TDexWaObJrFBW5WfnT7OnA1?pwd=g954)，提取码 `g954` |
+| [74812653](https://www.coolapk.com/feed/74812653) | 一加 Ace 5 Pro | PKR110_17.0.0.101(CN01) F.11 | 全量包 | [夸克](https://pan.quark.cn/s/2ac52dc03ac5)、[迅雷](https://pan.xunlei.com/s/VP5TAaNiBprZuS7zRqiQCiF7A1?pwd=ez3e)，提取码 `ez3e` |
+| [74812639](https://www.coolapk.com/feed/74812639) | Realme GT5 Pro | RMX3888_16.0.10.500(CN01) F.35 | 降级包 | [夸克](https://pan.quark.cn/s/175ae5fe6fa0)、[迅雷](https://pan.xunlei.com/s/VP5T5BoEaa5iR_6Ru8r84sOUA1?pwd=7asw)，提取码 `7asw` |
+| [74812436](https://www.coolapk.com/feed/74812436) | Realme Neo7 SE | RMX5080_16.0.8.301(CN01) C.54 | 降级包 | [夸克](https://pan.quark.cn/s/ec166534889f)、[迅雷](https://pan.xunlei.com/s/VP5SPPbtSQzalm4wSDq1HKJ_A1?pwd=r8fm)，提取码 `r8fm` |
+| [74812431](https://www.coolapk.com/feed/74812431) | 一加 11R | CPH2487_16.0.5.1301(EX01) H.59 | 全量包 | [夸克](https://pan.quark.cn/s/e2cd4c91fa05)、[迅雷](https://pan.xunlei.com/s/VP5SPjque2CEOvHnoiaMF0SxA1?pwd=crsi)，提取码 `crsi` |
+
+链接、文件和适配条件未验证，带图帖图片未读取。
