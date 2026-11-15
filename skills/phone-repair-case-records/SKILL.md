@@ -30,3 +30,5 @@ description: 区分手机运存改件、电池更换与板级返修案例中的�
 ## 更多改件目标与验收缺口
 
 [六条扩容、存储改用与电池更换记录](references/capacity-and-component-claims.md)保留iPhone Air、一加Ace竞速版、小米17ProMax、Mate40Pro系列及Pura70Pro的原帖目标值；不把寿命显示100%、恢复气密或缺少单位的12w写成实测结论。
+
+- [索尼 Xperia PRO-I CPU 虚焊症状与修复记录](references/xperia-pro-i-cpu-solder-failure.md)

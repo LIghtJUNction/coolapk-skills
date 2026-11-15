@@ -74,3 +74,4 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [《GTA6》原帖信息：平台、性能与玩法预告](references/gta6-platform-and-gameplay-preview.md)
 - [OEM 系统温控频点、音频/备份限制与硬件做工反馈](references/oem-os-thermal-camera-and-hardware-feedback.md)
 - [UMPC VAIO 酷袋本、USB 3.2 标称差异与平板扩展坞供电实测](references/umpc-vaio-usb-standards-and-dock-power.md)
+- [设备开孔识别与新版人文相机预设限制速记](references/camera-preset-and-vent-hole-notes.md)

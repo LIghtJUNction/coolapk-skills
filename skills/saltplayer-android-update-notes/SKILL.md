@@ -95,3 +95,4 @@ description: "SaltPlayer Android 版本变更参考"
 
 - [2025–2026 跨平台版本变更](references/2025-2026-platform-changes.md)
 - [2025 Windows 版本与 ColorOS 兼容性](references/2025-windows-and-coloros.md)
+- [Salt Player 跨平台与 12.3.2 音频更新速记](references/cross-platform-and-audiofx-notes.md)
