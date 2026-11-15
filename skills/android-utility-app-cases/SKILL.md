@@ -17,3 +17,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [实用工具案例：Liquid Island BETA8、轻量化跳广告、九号出行 NBFIX 与 Hana Agent](references/liquid-island-skipad-nbfix-and-hana.md)
 - [Android 智能体（Nyral / Orion）、定时自动化（AddinTimer）与轻量化工具案例](references/android-agent-automation-and-notes.md)
 - [电视/手表管理（GenTV / 通用手表管理器）、OneUI 9 跳转限制、HiHz 与 LiquidIsland BETA7](references/tv-watch-oneui-hihz-and-island-tools.md)
+- [自动记账助手（AutoJiZhang）：Shizuku + 钱迹自动化记账](references/autojizhang-shizuku-helper.md)

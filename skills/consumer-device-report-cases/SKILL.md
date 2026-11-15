@@ -75,3 +75,4 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [OEM 系统温控频点、音频/备份限制与硬件做工反馈](references/oem-os-thermal-camera-and-hardware-feedback.md)
 - [UMPC VAIO 酷袋本、USB 3.2 标称差异与平板扩展坞供电实测](references/umpc-vaio-usb-standards-and-dock-power.md)
 - [设备开孔识别与新版人文相机预设限制速记](references/camera-preset-and-vent-hole-notes.md)
+- [Switch 大气层 23.0.1 整合包、M5 Pro Mac mini AI 实测与 Stream 固件更新](references/switch-atmosphere-m5pro-and-stream-mcu.md)

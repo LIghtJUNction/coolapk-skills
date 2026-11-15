@@ -15,3 +15,4 @@ description: 核对安卓应用隔离和设备管理教程中的管理员、prof
 
 - [运营商 DM 客户端分析与双层拦截实测（ColorOS / iQOO）](references/carrier-dm-clients-and-systemhelper-mitigation.md)
 - [三星 OneUI 8.5 `system helper` 实证、遥测域名与 Muz·冰封 Freezer](references/samsung-oneui-systemhelper-and-freezer.md)
+- [系统遥测与隐私组件逆向分析（SystemHelper / `com.vivo.abe` / 山海引擎 / 手机管家）](references/telemetry-reverse-engineering-systemhelper-vivo-miui.md)
