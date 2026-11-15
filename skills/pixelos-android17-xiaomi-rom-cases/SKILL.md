@@ -15,3 +15,4 @@ description: 汇总小米与红米机型移植 PixelOS Android 17 的社区发�
 ## 已收录机型与版本
 
 - [2026 年 10 月小米 / 红米 PixelOS 17.0 发布与适配汇总](references/pixelos-17-xiaomi-2026-10-releases.md)：涵盖 Redmi K90 Ultra (`warsaw`)、Redmi K90 Pro Max (`myron`)、Xiaomi 15 (`dada`)、Xiaomi 14 Ultra (`aurora`)、Redmi K60 (`mondrian`)、Redmi K50 Ultra (`diting`) 与 Xiaomi 12 Pro (`zeus`)。
+- [2026 年 11 月小米 / 红米 PixelOS 17.0 发布与适配汇总](references/pixelos-17-xiaomi-2026-11-releases.md)：新增 Xiaomi 17 Pro (`pandora` 含背屏)、Xiaomi 15 Pro (`haotian`)、Xiaomi 14 / 14 Pro (`houji`/`shennong`)、Redmi K70 Pro (`manet`)、Redmi K80 (`zorn`) 及 11 月共性 APN/RIL/温控修复。
