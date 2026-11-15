@@ -79,3 +79,4 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [鸿蒙 PC 工具链迁移、Aerial TV 桌面、T511A 5G CPE 与 Win11 KB5127936](references/harmonyos-pc-aerial-tv-t511a-and-win11.md)
 - [二合一平板形态对比与 iPhone 18 Pro 256GB TLC 闪存供应商分析](references/2in1-tablet-and-iphone18pro-nand-analysis.md)
 - [2016 款 MacBook Pro 与 Touch Bar 交互设计十年回顾](references/macbook-pro-2016-touchbar-retrospective.md)
+- [国产 MS2131S USB3 采集卡静电击穿与 MS9332 HDMI 隔离实践](references/ms2131s-esd-and-ms9332-isolation.md)

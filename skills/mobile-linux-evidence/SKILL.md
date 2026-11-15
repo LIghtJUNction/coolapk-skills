@@ -26,3 +26,4 @@ description: 评估 Termux、手机 Linux、LXC 和 Docker 社区方案的可复
 - [OpenClaw Pocket 离线模块、Droidspaces LKM（`.ko`）与内核提权分析](references/openclaw-pocket-and-droidspaces-lkm.md)
 - [华为 MatePad 11（2021 / 骁龙 865）主线 Linux 7.3.1 适配实录](references/matepad11-mainline-linux-7-3.md)
 - [小米 13 主线双系统、小米 9 Linux UEFI（Docker）与 K20 Pro Ubuntu Chroot](references/fuxi-cepheus-and-k20pro-linux.md)
+- [小米平板 6S Pro/5 Linux 生态、LG V30 postmarketOS、ZeroPanel 与树莓派 4B](references/sheng-nabu-lgv30-pmos-and-zeropanel.md)
