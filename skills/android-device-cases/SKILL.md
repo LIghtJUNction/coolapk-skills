@@ -158,3 +158,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [Recovery 与第三方 ROM 移植案例（iPlay 50 Pro / TB375FC / yudi / TB-J606F / cannon）](references/recovery-and-rom-port-cases-batch1.md)
 - [Cannon / 小米 17 Pro Max / K30 5G / 三星 ArtisanROM 构建案例](references/cannon-xiaomi17pm-artisan-and-k30-builds.md)
 - [HyperOS 4 移植案例、Dash-Flash 保留数据刷机与界面观测](references/hyperos4-ports-and-ui-observations.md)
+- [一加 Ace 7 Pro 与 iQOO Neo12 实机对比体验](references/ace7pro-vs-neo12-hands-on.md)
