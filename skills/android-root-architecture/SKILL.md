@@ -67,3 +67,5 @@ seccomp 过滤机制早于 Linux 5.0；不能把整个机制与用户通知的�
 - [Android-x86 适配、Play 商店 Systemize 与临时 Root 断网修复](references/android-x86-systemizer-and-selinux-fixes.md)
 - [CVE-2026-98260 漏洞分析、Shell 临时 Root 台、`bat2sh`、GBK FUSE 死锁与定制容器内核](references/cve-98260-ldpreload-bat2sh-and-gbk-fuse.md)
 - [Droidspaces Action、一加 Ace6 HMBIRD GKI、MiUnlockTool、MTK Logo 改图与 Flutter 逆向](references/droidspaces-action-hmbird-rmflashtool-and-flutter-re.md)
+- [KernelSU-Next / SukiSU / FinaSU AnyKernel3（5.10–6.18）与内核版本隐藏](references/ak3-ksun-sukisu-finasu-and-susfs-hiding.md)
+- [Root 隐藏方案、ColorOS 17 分身抓包、9008 救砖与 iQOO/红米镜像归档](references/root-hiding-proxypin-9008-and-bl-unlock.md)
