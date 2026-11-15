@@ -19,3 +19,4 @@ description: 按路由器具体型号、运营商定制版本和固件整理社�
 - [Cudy TR3000 免电脑刷机方案与中兴 F50 供电稳定性实测](references/cudy-tr3000-no-pc-and-f50-power.md)
 - [随身 Wi-Fi MF605DW 整合包 v2 刷入与功能边界](references/mf605dw-portable-wifi-mod-v2.md)
 - [中兴 F50 B24 固件表现与 UULinker 随身 Wi-Fi iOS 监控工具](references/zte-f50-b24-and-uulinker.md)
+- [OpenWrt 固件（F50 / 容悦 E5 / LibWrt）、UFI-Gate 与 TTL 刷 U-Boot 指南](references/openwrt-f50-e5-xr1710g-and-uboot-ttl.md)

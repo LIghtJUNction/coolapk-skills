@@ -27,3 +27,4 @@ description: 分析家庭路由器、光猫组网与 IPv6 社区案例，区分�
 [路由器与组网案例参考](references/network-router-cases.md)保留原帖已提供的数值、版本、操作与资源入口；均按社区报告和具体条件理解。
 
 - [本地 AdGuardHome / SmartDNS 模块、私人 DoH 描述文件与系统广告拦截](references/adguardhome-smartdns-and-telemetry-blocking.md)
+- [安卓网络与信号工具（QMI 锁频 / RouteLink / `ddns-go-magisk` / FTP）及 IPv6 证书排查](references/android-network-tools-ddns-qmi-and-ipv6-cert.md)
