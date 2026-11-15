@@ -19,3 +19,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [电视/手表管理（GenTV / 通用手表管理器）、OneUI 9 跳转限制、HiHz 与 LiquidIsland BETA7](references/tv-watch-oneui-hihz-and-island-tools.md)
 - [自动记账助手（AutoJiZhang）：Shizuku + 钱迹自动化记账](references/autojizhang-shizuku-helper.md)
 - [Termux 原生手搓 APK、多源无广天气 App 与仿澎湃 4 相册](references/termux-apk-weather-and-gallery-apps.md)
+- [平铺窗口管理器、WearOS 圆屏中转、仿澎湃相册与 DroidExtend USB 扩展屏](references/tiling-wm-watch-control-gallery-and-droidextend.md)

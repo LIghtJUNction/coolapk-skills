@@ -32,3 +32,4 @@ description: 汇总跨平台桌面效率与多媒体工具（scrcpy 5.0.1、Flux
 - [Chaty：本地模型、文档问答与生成工具](references/chaty-local-ai.md)
 - [FileShare v1.0.14：局域网浏览器文件共享](references/fileshare-1014.md)
 - [跨平台开发者自建工具：Maltoria、MoRead 与 Lazer](references/dev-built-android-and-desktop-apps.md)
+- [artCraft 安卓移植与鱼书多端阅读器功能要点](references/artcraft-and-yushu-reader.md)

@@ -156,3 +156,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [Scene5 激活、刷新率和刘海区域适配](references/scene5-accessibility-and-display.md)
 - [模块化手机与 ThinkPad Z13 工程机维修案例](references/diy-k80ultra-and-z13.md)
 - [Recovery 与第三方 ROM 移植案例（iPlay 50 Pro / TB375FC / yudi / TB-J606F / cannon）](references/recovery-and-rom-port-cases-batch1.md)
+- [Cannon / 小米 17 Pro Max / K30 5G / 三星 ArtisanROM 构建案例](references/cannon-xiaomi17pm-artisan-and-k30-builds.md)
