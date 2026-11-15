@@ -88,3 +88,4 @@ Android 界面通常由 Activity 承载，但同一个 Activity 可以包含多�
 这是原帖的具体环境与声称有效的方法；没有系统、模块版本和日志，也没有说明开关具体属于哪个组件。不能扩展为所有 LSPosed/KernelSU 版本的固定设置，或宣称这是纯粹的浏览器修复。本库未修改手机文件或验证效果。
 
 [老版音质音效的人声回退案例](references/miui-voice-mode-reset.md)保留两个原始属性值，明确排除小米10S，并区分属性与命令。
+- [HyperOS 4 第三方桌面强制三键导航 ADB 全面屏手势修复](references/hyperos4-third-party-launcher-gestures.md)

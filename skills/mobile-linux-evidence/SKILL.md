@@ -29,3 +29,4 @@ description: 评估 Termux、手机 Linux、LXC 和 Docker 社区方案的可复
 - [小米平板 6S Pro/5 Linux 生态、LG V30 postmarketOS、ZeroPanel 与树莓派 4B](references/sheng-nabu-lgv30-pmos-and-zeropanel.md)
 - [`linux-warsaw` 主线 Linux 7.3-rc6 DTS 上游适配进展](references/linux-warsaw-mainline.md)
 - [OPPO Reno7 开源内核、UEFI 移植排障与 Kali 6.1 主线 Linux 进度](references/oppo-reno7-uefi-kali-mainline.md)
+- [iPad Pro M4 本地模拟运行 macOS (Henge) 配置与内存权限排障](references/ipad-m4-henge-macos-vm.md)

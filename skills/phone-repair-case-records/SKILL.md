@@ -33,3 +33,4 @@ description: 区分手机运存改件、电池更换与板级返修案例中的�
 
 - [索尼 Xperia PRO-I CPU 虚焊症状与修复记录](references/xperia-pro-i-cpu-solder-failure.md)
 - [麒麟 960–990 虚焊维修成本与 HTC omni100 EVT 排线断裂投屏调试](references/kirin-bga-solder-and-htc-omni100-evt.md)
+- [索尼 Xperia 1V/1IV 售后配件定价与努比亚 Z70 Ultra CPU 脱焊快修记录](references/xperia1v-screen-and-z70u-cpu-reball.md)

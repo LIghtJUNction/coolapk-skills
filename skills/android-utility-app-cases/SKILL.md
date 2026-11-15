@@ -23,3 +23,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [启动页深色适配、麦克风注入、水面落叶壁纸与 ActivityController 禁启](references/splash-bg-mic-inject-waterleaf-and-activity-block.md)
 - [相机自动水印工具与 Rust 版罗技鼠标轻量化工具](references/watermark-app-and-rust-mouse-tool.md)
 - [格窗工作台 LSPosed 模块：Android 15+ 多系统作用域与 NeXtep 互斥](references/panes-lsposed-workspace.md)
+- [vivo OTA Tracker、Aerial TV、妙享远控过检、PuddingWalls 与格窗工作台等实用工具案例](references/vivo-ota-tracker-aerial-tv-and-mitrust-bypass.md)

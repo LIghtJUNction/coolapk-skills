@@ -23,3 +23,4 @@ description: 整理耳机ANC、透传、频响、耳套密封与佩戴案例；�
 - [HIFIMAN HE600 与 HE6se V2：外观、听感记录与作者评价](references/source-68989410.md)
 - [蓝牙耳机与有线耳机音质差异：体积、前后端与营销论述](references/source-68765226.md)
 - [飞傲 FT7：结构、配件与原帖听感记录](references/source-69109976.md)
+- [铁三角 ATH-R70xa (470Ω) 对比索尼 MDR-Z1R 听感与驱动力实测](references/ath-r70xa-vs-mdr-z1r-review.md)

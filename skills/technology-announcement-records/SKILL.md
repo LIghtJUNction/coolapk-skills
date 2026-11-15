@@ -36,3 +36,4 @@ description: 检索按原发帖时点归档的设备、芯片、操作系统、�
 - [OpenClaw 2.0 更新概览](references/openclaw-2-update.md)
 
 日期以各页的API发帖日期（UTC+8）为准，传闻、计划、发布会参数与实际测试分开理解；不跨期拼接机型参数。
+- [2026 年 11 月科技周报（OSTA 星芒、MateBook Fold S、Apple 智能与供应链动态）](references/tech-weekly-2026-11-roundup.md)

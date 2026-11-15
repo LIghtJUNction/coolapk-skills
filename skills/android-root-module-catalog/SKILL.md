@@ -50,3 +50,4 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 - [`mtk-bwmod` 路由优先级、AxManager 免 Root 模块、Droidspaces 旧机利用与密钥避坑](references/mtk-bwmod-axmanager-and-hidden-env.md)
 - [SUSFS UI、高保真音频 XML、SIGSTOP 墓碑与 WorkBuddy Manager 模块](references/susfs-audio-tombstone-and-workbuddy-modules.md)
 - [`HyperBackground`：HyperOS 4 系统设置与我的设备背景自定义模块](references/hyperbackground-lsposed-module.md)
+- [Neo10 Pro 调度、HyperOS AAC-ELD、NativeComplements、焦点笔 Plus 与 SummaryForAll 模块](references/neo10pro-sched-aac-eld-nativecomplements-and-summary.md)

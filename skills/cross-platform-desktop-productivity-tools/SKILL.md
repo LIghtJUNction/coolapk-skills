@@ -34,3 +34,4 @@ description: 汇总跨平台桌面效率与多媒体工具（scrcpy 5.0.1、Flux
 - [跨平台开发者自建工具：Maltoria、MoRead 与 Lazer](references/dev-built-android-and-desktop-apps.md)
 - [artCraft 安卓移植与鱼书多端阅读器功能要点](references/artcraft-and-yushu-reader.md)
 - [OfficeGitSync 本地文档防抖备份与 BentoPDF 自托管 PDF 编辑器](references/officegitsync-and-bentopdf.md)
+- [索尼 A7M4 创意外观 LUT 转换器与白幕 ROM 固件检索工具](references/a7m4-lut-converter-and-baimu-rom-tool.md)

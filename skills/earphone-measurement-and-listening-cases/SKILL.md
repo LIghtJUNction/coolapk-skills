@@ -109,3 +109,4 @@ JT9原帖高频范围写成 `3000~1000Hz`，上下界倒置；这里只保留其
 ## 补充案例
 
 - [Bowers & Wilkins 无线降噪耳机选购与规格笔记](references/bowers-wilkins-wireless-headphones.md)
+- [OPPO Enco X4 声学架构、固件 116.116.199 底噪与跨平台 AAC 实测](references/oppo-enco-x4-acoustics-anc-and-aac.md)

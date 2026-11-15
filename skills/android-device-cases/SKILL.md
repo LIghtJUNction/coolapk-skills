@@ -163,3 +163,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [iQOO 16 与 iQOO Pad Ultra 发布规格记录（2026-09-29）](references/iqoo16-and-iqoo-pad-ultra-launch.md)
 - [短帖汇总：设备 ROM 移植进展、BakaSU 修复与三包换机依据](references/short-rom-ports-and-warranty-notes.md)
 - [MOTO X Play (CM13)、展讯 SC8810 (MIUI v3.2) 与酷派大观 Y60s/Lite 案例](references/moto-x-play-sc8810-and-freemeos-cases.md)
+- [努比亚 Z60U、Xperia 1 II/III、拯救者 Y700、LG V60 与小米平板 7 Pro 刷机/移植案例](references/z60u-xperia-y700-lgv60-and-rom-ports.md)

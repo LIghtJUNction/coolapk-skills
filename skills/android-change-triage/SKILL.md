@@ -29,3 +29,4 @@ description: 审核安卓刷机、Root、OTA 与救砖教程的适配条件和�
 - [第三方 ROM（EvoX / LineageOS 24）与 TWRP 16.0 适配记录](references/custom-rom-and-twrp16-port-cases.md)
 - [特定机型刷机、解工厂锁、GSI、9008 救砖与无障碍读屏实测](references/legacy-factory-unlock-gsi-9008-and-accessibility.md)
 - [EXT4 / EROFS 镜像格式解析与一加 Ace 6T 风驰内核调校](references/ext4-erofs-formats-and-ace6t-tuning.md)
+- [阿权 Lite 官改 ROM 刷机规范与华为 P30 短接 COM 1.0 降级解锁流程](references/aquan-lite-rom-and-p30-com10-downgrade.md)
