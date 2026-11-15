@@ -29,3 +29,4 @@ description: "需要整理或核查拓展坞的接口、散热和结构设计，
 ## 补充案例
 
 - [绿联多屏扩展坞 9 合 1：DisplayLink 与接口记录](references/ugreen-displaylink-9in1-dock.md)
+- [绿联 U716 TB5 雷电 5 扩展坞：接口、带宽与测试记录](references/ugreen-u716-tb5-dock.md)

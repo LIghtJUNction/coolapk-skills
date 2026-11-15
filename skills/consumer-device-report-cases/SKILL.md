@@ -67,3 +67,8 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [荣耀 WIN2 体验文章中的游戏性能、散热与系统功能](references/honor-win2-gaming-review.md)
 - [联想小新 10.1 彩墨柔光版：显示模式与学习功能](references/lenovo-xiaoxin-10-1-color-ink-tablet.md)
 - [T牌钛14轻薄本文章中的硬件规格与待核实说法](references/t-brand-titanium-14-laptop-claims.md)
+
+## 补充案例
+
+- [PS5 Pro、雷神 VIC68SE 与 KUYCON G27P 参数体验](references/ps5pro-magnetic-keyboard-5k.md)
+- [《GTA6》原帖信息：平台、性能与玩法预告](references/gta6-platform-and-gameplay-preview.md)

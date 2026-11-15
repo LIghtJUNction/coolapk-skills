@@ -23,3 +23,6 @@ description: 汇总 EulerOS/Ubuntu 云主机上的宝塔面板、Docker CE/conta
 - [Huawei Cloud EulerOS 上部署 Mininote](references/flexus-x-mininote-deployment.md)
 - [在 Flexus X 上配置 JupyterHub 与 Notebook：原帖命令和示例](references/flexus-x-jupyterhub-notebook.md)
 - [Flexus X 上运行 RabbitMQ 与 Elasticsearch 7.12.1：Docker 命令记录](references/docker-rabbitmq-elasticsearch-flexus.md)
+- [华为云 Flexus X 实例配置与选型](references/flexus-x-cloud-server-selection.md)
+- [Huawei Cloud EulerOS 上的 MySQL 安装与读写测试记录](references/flexus-x-mysql-test.md)
+- [Windows Server CPU 环境部署 YOLOv10 的原帖步骤](references/yolov10-cpu-windows-training.md)

@@ -16,3 +16,13 @@ description: 将装机验收和稳定性社区教程整理为分组件、有条�
 ## 补充案例
 
 - [宏碁掠夺者 Vesta II DDR5 RGB 7200：8000MT/s 超频记录](references/ddr5-vesta-ii-7200-overclock.md)
+- [汉存玄铠 DDR5 6000C28 内存参数与超频测试记录](references/hancun-ddr5-6000c28.md)
+- [雷神 MIX Pro II 迷你主机评测参数与基准记录](references/thunderobot-mix-pro-ii.md)
+- [笔记本选购：内存需求、涨价背景与机型配置记录](references/laptop-buying-2026-memory-price.md)
+- [机械大师 S102 + Ryzen 7 9700X / RTX 5070 ITX 装机与测试](references/itx-s102-9700x-5070-build.md)
+- [技嘉冰猎鹰 1000PG5 ICE 电源：规格与原帖测试](references/gigabyte-1000pg5-ice-psu.md)
+- [万元级 RTX 5060 游戏本选购要点（原帖参数记录）](references/gaming-laptop-buying-guide-2026.md)
+- [i9-14900K、Z790与高容量存储装机记录](references/desktop-pc-hardware-field-notes-14900k.md)
+- [技嘉 AI TOP ATOM 桌面AI平台现场报告](references/gigabyte-ai-top-atom-field-report.md)
+- [华硕 B760-G 小吹雪 S 搭配 i9-14900K 降压记录](references/asus-b760-14900k-undervolt.md)
+- [2025双11装机配件取舍指南](references/2025-11-pc-build-parts-budget-guidance.md)

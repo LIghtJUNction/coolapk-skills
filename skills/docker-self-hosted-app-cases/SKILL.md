@@ -31,3 +31,6 @@ description: 汇总 Docker/Compose 部署自托管应用的社区案例，涵盖
 - [Flexus X 上部署 ShowDoc：文章记录与可复现信息](references/flexusx-showdoc-article.md)
 - [Collabora Online 容器部署与云盘集成记录](references/flexusx-collabora-online-deployment.md)
 - [ZenTao 在 Flexus X 上的 Docker 部署记录](references/zentao-flexusx-docker-deployment.md)
+- [Ubuntu 上部署 Docker 与 DooTask 的原帖记录](references/flexus-x-dootask-docker.md)
+- [Flexus X 上运行 Radarr 的 Docker Compose 示例](references/radarr-docker-compose.md)
+- [Kodcloud 私有云用途与资源配置记录](references/kodcloud-docker-environment.md)

@@ -26,3 +26,6 @@ description: 汇总低成本嵌入式硬件（N1、RK3566、玩客云、jz02_v10
 - [HP ProDesk 600 G4 Desktop Mini 安装 macOS Ventura](references/hp-prodesk-600-g4-hackintosh.md)
 - [Dufs 文件服务：Docker 部署、访问控制与 cpolar 远程访问](references/dufs-cn-deployment.md)
 - [闲置 Android 手机：运动录像、FTP 上传 NAS 与远程查看](references/old-phone-nas-camera.md)
+- [零刻 ME Pro 与 fnOS 家用 NAS 体验记录](references/nas-me-pro-fnos.md)
+- [绿联云 DXP4800 GT：硬件、UGOS Pro 与使用体验](references/ugreen-dxp4800-gt-nas.md)
+- [四类数码设备的使用场景与配置记录](references/nas-steamdeck-thunderbolt5-itx-roundup.md)

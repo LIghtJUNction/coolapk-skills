@@ -29,4 +29,7 @@ npx skills add https://github.com/MemDeco-WG/Kam
 - [Coolapk 帖子 73871864](https://www.coolapk.com/feed/73871864)
 
 
-详见 [MagicNet 功能演进、网络冲突与开发反馈经验](references/magicnet.md)。
+详见：
+
+- [MagicNet 功能演进、网络冲突与开发反馈经验](references/magicnet.md)
+- [MagicNet 网络过滤、TUN 路径与构建安装记录](references/magicnet-operations.md)

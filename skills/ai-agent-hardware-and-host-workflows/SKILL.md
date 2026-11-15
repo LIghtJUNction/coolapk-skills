@@ -15,3 +15,4 @@ description: 参考社区 AI 终端改造与主机工作流案例，涵盖掌机
 - [Agent 状态显示与运动数据养成宠物](references/agent-status-display-and-exercise-pet.md)
 - [Local Dream：手机 NPU 运行 Qwen Image 2.1 的实测记录](references/local-dream-qwen-image-mobile-npu.md)
 - [安卓旗舰端侧大模型测试：线程数、带宽与长上下文](references/android-flagship-on-device-llm-benchmarks.md)
+- [Windows 本地部署 DeepSeek R1 70B 与手动导入 GGUF](references/deepseek-70b-local-windows-setup.md)
