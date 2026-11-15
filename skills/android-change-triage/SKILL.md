@@ -23,3 +23,5 @@ description: 审核安卓刷机、Root、OTA 与救砖教程的适配条件和�
 ## 具体案例与公开资源
 
 [按设备区分的 Android 更新与解锁案例](references/model-specific-update-cases.md)保留原帖已提供的数值、版本、操作与资源入口；均按社区报告和具体条件理解。
+
+- [欧加真系 SukiSU Ultra / AK3 Root 与环境隐藏流程线索](references/oplus-sukisu-ak3-root-workflow.md)

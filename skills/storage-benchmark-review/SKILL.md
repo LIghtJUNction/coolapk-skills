@@ -44,3 +44,4 @@ description: 整理和评估 SSD、移动硬盘的社区测试，保留接口、
 - [金百达 KP270 2TB SSD实测记录与装机配置](references/kingbank-kp270-2tb-ssd-review.md)
 - [六款128GB高速 microSD 卡横评记录](references/microsd-128gb-six-card-comparison.md)
 - [WD Blue 4TB台式机扩容与性能记录](references/wd-blue-4tb-desktop-expansion.md)
+- [移动端混用闪存同设备复测掉速个案](references/mobile-ufs-speed-drop-case.md)

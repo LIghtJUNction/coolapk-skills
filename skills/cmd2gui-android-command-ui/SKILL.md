@@ -14,3 +14,5 @@ description: 查询Cmd2GUIv6的TargetSDK35、前台服务崩溃修复、命令�
 
 
 Target SDK 描述应用面向的行为版本，不等于最低系统版本；原帖未提供 min SDK 或完整兼容列表。
+
+来源：[Coolapk 帖子 68025575](https://www.coolapk.com/feed/68025575)

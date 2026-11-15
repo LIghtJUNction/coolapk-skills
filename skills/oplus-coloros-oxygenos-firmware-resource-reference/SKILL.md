@@ -117,3 +117,8 @@ description: "根据帖子中的机型、版本和包类型整理的资源索引
 - [OPPO A7 系列与一加平板固件资源](references/oppo-tablet-and-a7-resources.md)
 - [Find X10、折叠屏及海外固件资源](references/find-x10-and-international-202611.md)
 - [ColorOS 17 尝鲜更新与功能记录](references/coloros17-tryout-updates-and-features.md)
+
+## 来源（主表与单条记录）
+
+- 主表（48 机型/50 目录汇总）：[74942649](https://www.coolapk.com/feed/74942649)
+- 单条资源记录：[75045444](https://www.coolapk.com/feed/75045444)、[75042584](https://www.coolapk.com/feed/75042584)、[75042580](https://www.coolapk.com/feed/75042580)、[75039667](https://www.coolapk.com/feed/75039667)、[75039292](https://www.coolapk.com/feed/75039292)、[75039285](https://www.coolapk.com/feed/75039285)、[75039175](https://www.coolapk.com/feed/75039175)、[75039104](https://www.coolapk.com/feed/75039104)、[75038816](https://www.coolapk.com/feed/75038816)、[75038011](https://www.coolapk.com/feed/75038011)、[75037309](https://www.coolapk.com/feed/75037309)、[75037055](https://www.coolapk.com/feed/75037055)、[75033754](https://www.coolapk.com/feed/75033754)、[75033732](https://www.coolapk.com/feed/75033732)、[75033582](https://www.coolapk.com/feed/75033582)、[75033182](https://www.coolapk.com/feed/75033182)、[75033180](https://www.coolapk.com/feed/75033180)、[75033177](https://www.coolapk.com/feed/75033177)、[75033175](https://www.coolapk.com/feed/75033175)、[75033173](https://www.coolapk.com/feed/75033173)

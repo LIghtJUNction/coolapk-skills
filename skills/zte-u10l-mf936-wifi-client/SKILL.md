@@ -62,3 +62,7 @@ ip addr add 192.168.10.5/24 dev wlan0
 ## 来源
 
 [酷安技术帖](https://www.coolapk.com/feed/64876343)
+
+## 补充案例
+
+- [LR511C 随身 Wi-Fi（MDM9615M）设备枚举与接口线索](references/lr511c-mdm9615m-rndis-serial.md)

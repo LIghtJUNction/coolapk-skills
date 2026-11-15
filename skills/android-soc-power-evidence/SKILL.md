@@ -43,3 +43,7 @@ PerfDog 等软件遥测与外部供电测量的读数来自不同测量路径。
 - GPU频点固件线索：[原帖](https://www.coolapk.com/feed/25358136)，[KonaBess公开工具页](http://www.coolapk.com/apk/xzr.konabess)
 
 原帖所含图片未读取，图中数据不纳入本文。测试视频标识BV1Wz411B7Tf是案例中使用的项目资源标识；不能从未读取的图像补充任何数字。本文不提供拆电池、外接电源的接线教程；来源没有提供足以复现接线或校准的细节。
+
+## 补充案例
+
+- [SCENE 调度参数、防盗版边界与 SoC 性能功耗对比记录](references/scene-scheduler-and-soc-comparisons.md)

@@ -12,3 +12,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [屏译 v0.4.8：Android 悬浮屏幕翻译](references/overlay-translator-android.md)
 - [通用安装程序 v1.20.0：Android 安装会话与特权后端](references/universal-installer-android.md)
 - [BlockAds 7.1.1：Android 域名过滤与内容过滤](references/blockads-711.md)
+- [小米与一加系统隐藏 Activity 与 am start 快捷入口记录](references/android-activity-shortcuts-and-am-start.md)

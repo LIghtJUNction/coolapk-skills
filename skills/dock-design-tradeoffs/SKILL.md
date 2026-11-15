@@ -30,3 +30,4 @@ description: "需要整理或核查拓展坞的接口、散热和结构设计，
 
 - [绿联多屏扩展坞 9 合 1：DisplayLink 与接口记录](references/ugreen-displaylink-9in1-dock.md)
 - [绿联 U716 TB5 雷电 5 扩展坞：接口、带宽与测试记录](references/ugreen-u716-tb5-dock.md)
+- [USB-A 工业级 HUB 兼容性与 USB 2.0 速率瓶颈观察](references/usb-a-hub-compatibility-and-speed.md)
