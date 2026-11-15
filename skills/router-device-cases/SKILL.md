@@ -20,3 +20,4 @@ description: 按路由器具体型号、运营商定制版本和固件整理社�
 - [随身 Wi-Fi MF605DW 整合包 v2 刷入与功能边界](references/mf605dw-portable-wifi-mod-v2.md)
 - [中兴 F50 B24 固件表现与 UULinker 随身 Wi-Fi iOS 监控工具](references/zte-f50-b24-and-uulinker.md)
 - [OpenWrt 固件（F50 / 容悦 E5 / LibWrt）、UFI-Gate 与 TTL 刷 U-Boot 指南](references/openwrt-f50-e5-xr1710g-and-uboot-ttl.md)
+- [5G CPE（通讯壳改造 / F50）、OpenWrt 编译/TTL 刷机与 PPPoE 断流排查](references/cpe-5g-modem-openwrt-and-isp-pppoe.md)

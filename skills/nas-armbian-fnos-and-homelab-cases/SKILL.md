@@ -32,3 +32,4 @@ description: 汇总低成本嵌入式硬件（N1、RK3566、玩客云、jz02_v10
 - [海尔拆机主板 + 飞牛 NAS（fnOS）一周年存储与服务部署记录](references/haier-board-fnos-nas-build.md)
 - [自托管与手机端服务部署（Android 离线青龙、OpenList、Hermes Agent、WebDAV）](references/self-hosted-qinglong-openlist-hermes-and-webdav.md)
 - [老旧笔记本（联想 G400）OMV7 部署 Immich/Jellyfin、UPnP 投屏与 NovaPlayer](references/g400-omv7-immich-jellyfin-and-upnp.md)
+- [NanoPi R5C / N100 飞牛+iStoreOS 虚拟化、Hyper-V 网卡排错与路由器限速踩坑](references/fnos-istoreos-r5c-and-mepro-lab.md)

@@ -47,3 +47,4 @@ description: 查询 Android Root 模块的用途、配置路径、触发参数�
 - [Aether_OptExt 线程分配：配置、拓扑与 eBPF 回退](references/source-72833346.md)
 - [外屏、系统特性与显示/存储调校案例](references/flip-screen-and-system-ui-tweaks.md)
 - [SUSFS 内核模块（.ko）、PowerStats 调度功耗统计与 Root 变砖排查](references/susfs-lkm-powerstats-and-brick-triage.md)
+- [`mtk-bwmod` 路由优先级、AxManager 免 Root 模块、Droidspaces 旧机利用与密钥避坑](references/mtk-bwmod-axmanager-and-hidden-env.md)
