@@ -20,3 +20,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [自动记账助手（AutoJiZhang）：Shizuku + 钱迹自动化记账](references/autojizhang-shizuku-helper.md)
 - [Termux 原生手搓 APK、多源无广天气 App 与仿澎湃 4 相册](references/termux-apk-weather-and-gallery-apps.md)
 - [平铺窗口管理器、WearOS 圆屏中转、仿澎湃相册与 DroidExtend USB 扩展屏](references/tiling-wm-watch-control-gallery-and-droidextend.md)
+- [启动页深色适配、麦克风注入、水面落叶壁纸与 ActivityController 禁启](references/splash-bg-mic-inject-waterleaf-and-activity-block.md)

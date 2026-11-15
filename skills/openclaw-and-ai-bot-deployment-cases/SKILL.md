@@ -27,3 +27,4 @@ description: 汇总 OpenClaw、Hermes、AstrBot/NapCat、KouriChat、MiGPT 与 O
 - [AI Agent 本地网关与 QQ Bot Linux VPS 二开部署案例](references/ai-gateways-and-qq-bot-vps-cases.md)
 - [AndbnA-qbot、AiCode、AI 记忆中枢、Comfy 工作台与 OpenCode Termux](references/andbna-aicode-memory-comfy-and-opencode.md)
 - [DeepSeek Harness 安卓移植、ZorvAI ACI 架构与 2026 国内智能体生态](references/dsh-android-zorvai-and-2026-agent-landscape.md)
+- [AI 搓本地应用、Hermes 辅助小米 6 刷机与 OpenClaw 成本教训](references/ai-app-building-hermes-mi6-and-openclaw-lessons.md)

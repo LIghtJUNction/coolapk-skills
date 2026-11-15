@@ -69,3 +69,4 @@ seccomp 过滤机制早于 Linux 5.0；不能把整个机制与用户通知的�
 - [Droidspaces Action、一加 Ace6 HMBIRD GKI、MiUnlockTool、MTK Logo 改图与 Flutter 逆向](references/droidspaces-action-hmbird-rmflashtool-and-flutter-re.md)
 - [KernelSU-Next / SukiSU / FinaSU AnyKernel3（5.10–6.18）与内核版本隐藏](references/ak3-ksun-sukisu-finasu-and-susfs-hiding.md)
 - [Root 隐藏方案、ColorOS 17 分身抓包、9008 救砖与 iQOO/红米镜像归档](references/root-hiding-proxypin-9008-and-bl-unlock.md)
+- [`rust-kit` / `rust-hook` 与高通平台第三方 ROM 基带处理笔记](references/rust-kit-and-qualcomm-baseband-notes.md)

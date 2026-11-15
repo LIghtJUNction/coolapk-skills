@@ -160,3 +160,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [HyperOS 4 移植案例、Dash-Flash 保留数据刷机与界面观测](references/hyperos4-ports-and-ui-observations.md)
 - [一加 Ace 7 Pro 与 iQOO Neo12 实机对比体验](references/ace7pro-vs-neo12-hands-on.md)
 - [追梦官改 HyperOS 4.0、HackiOS 双引导与冷门机 GSI/随身 WiFi 案例](references/dream-hyperos4-custom-roms-and-gsi-cases.md)
+- [iQOO 16 与 iQOO Pad Ultra 发布规格记录（2026-09-29）](references/iqoo16-and-iqoo-pad-ultra-launch.md)

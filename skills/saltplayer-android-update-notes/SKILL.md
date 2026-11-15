@@ -96,3 +96,4 @@ description: "SaltPlayer Android 版本变更参考"
 - [2025–2026 跨平台版本变更](references/2025-2026-platform-changes.md)
 - [2025 Windows 版本与 ColorOS 兼容性](references/2025-windows-and-coloros.md)
 - [Salt Player 跨平台与 12.3.2 音频更新速记](references/cross-platform-and-audiofx-notes.md)
+- 补充记录：鸿蒙原生 `1.8.0` 新增 USB 独占模式与自适应音频采样率（[74458823](https://www.coolapk.com/feed/74458823)）；小米 18 Fold 正脸 D 型屏左右不对称圆角适配（[73773938](https://www.coolapk.com/feed/73773938)）
