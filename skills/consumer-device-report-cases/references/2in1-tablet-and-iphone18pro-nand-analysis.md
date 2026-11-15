@@ -4,7 +4,7 @@
 
 ## 1. Surface 历代通病与 MatePad HarmonyOS Next 二合一生产力定位
 
-- **来源**：[酷安原帖](https://www.coolapk.com/feed/74837558)（`imgs=7`）
+- **来源**：[酷安原帖](https://www.coolapk.com/feed/74831571)（`imgs=9`）
 - **作者长期使用与硬件故障记录**：
   - Surface RT（Touch Cover 排线开胶、电池饿死）、Surface Pro X（键盘排线折断）、Surface Book 2 独显版（连接触点接触不良致底座显卡断连、平板电池损坏）、Surface Go（电池鼓包）；对比同时期安卓/鸿蒙平板（小米平板 5 Pro、MatePad 11、MatePad 11.5S、荣耀平板 9）未出现同类硬件品控故障，全金属一体机身（如 MatePad 11.5S）质感明显优于塑料机身或塑料支架机型。
   - 其余对 MacBook Air M2 静音本定位及 MatePad HarmonyOS Next 能否替代笔记本的详细论述见原帖图文。

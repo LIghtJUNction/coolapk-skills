@@ -4,7 +4,7 @@
 
 ## 1. 无 Root/无 PC 在 Android 上逆向并重实现鸿蒙 HDC 客户端（`hdc-js`）
 
-- **来源**：[酷安原帖](https://www.coolapk.com/feed/74986023)（`imgs=2`）
+- **来源**：[酷安原帖](https://www.coolapk.com/feed/74986444)（`imgs=2`）
 - **目标与环境壁垒**：在 `aarch64` Android 平板上无 Root 运行 DevEco CLI / 鸿蒙 HDC 遇到三层限制：官方仅提供 macOS/Windows/x86_64 Linux 二进制；App 内置 Node 缺少 `npm`；Android 29+ W^X 与 SELinux `untrusted_app` 域禁止直接 `exec` App 私有目录或 `/data/local/tmp` 写入的可执行文件（`EACCES`）。
 - **六阶段排障与交付路径**：
   1. **Node 自举 npm**：用内置 `https` 拉取 `registry.npmjs.org/npm` tarball，手写 60 行 tar 解析器（处理 `ustar`/GNU longname/PAX）解包运行 `npm-cli.js install`（`12.2.2`）。
