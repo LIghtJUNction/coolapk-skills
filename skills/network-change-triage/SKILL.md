@@ -30,3 +30,4 @@ description: 分析家庭路由器、光猫组网与 IPv6 社区案例，区分�
 - [安卓网络与信号工具（QMI 锁频 / RouteLink / `ddns-go-magisk` / FTP）及 IPv6 证书排查](references/android-network-tools-ddns-qmi-and-ipv6-cert.md)
 - [家庭 Mesh/IPv6/NAS 外网访问、Lucky 守护、NAT 测试与建站加速](references/home-mesh-ipv6-ddns-lucky-and-nat.md)
 - [iOS 屏蔽更新 DNS、ColorOS DoH、低延迟串流与随身 WiFi 天线检测](references/ios-ota-dns-doh-moonlight-and-wifi-antenna.md)
+- [日版 Surface Pro 5 Marvell 无线网卡 5GHz 149-165 信道驱动补丁](references/surface-pro5-jp-marvell-wifi-patch.md)

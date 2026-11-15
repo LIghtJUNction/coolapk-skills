@@ -22,3 +22,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [平铺窗口管理器、WearOS 圆屏中转、仿澎湃相册与 DroidExtend USB 扩展屏](references/tiling-wm-watch-control-gallery-and-droidextend.md)
 - [启动页深色适配、麦克风注入、水面落叶壁纸与 ActivityController 禁启](references/splash-bg-mic-inject-waterleaf-and-activity-block.md)
 - [相机自动水印工具与 Rust 版罗技鼠标轻量化工具](references/watermark-app-and-rust-mouse-tool.md)
+- [格窗工作台 LSPosed 模块：Android 15+ 多系统作用域与 NeXtep 互斥](references/panes-lsposed-workspace.md)

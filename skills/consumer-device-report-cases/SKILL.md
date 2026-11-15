@@ -81,3 +81,4 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [2016 款 MacBook Pro 与 Touch Bar 交互设计十年回顾](references/macbook-pro-2016-touchbar-retrospective.md)
 - [国产 MS2131S USB3 采集卡静电击穿与 MS9332 HDMI 隔离实践](references/ms2131s-esd-and-ms9332-isolation.md)
 - [节奏坦克 V3-D II、华为原厂头隐藏参数、绿联 45W 卡片与航嘉 WD750EVO 拆解](references/v3d2-huawei-chargers-ugreen45w-and-wd750evo.md)
+- [MateBook Pro S 鸿蒙7、iPhone 18 Pro、X500PM、一加16 与经典老机实测汇编](references/matebook-pro-s-iphone18pro-x500pm-and-retro-devices.md)

@@ -45,3 +45,4 @@ description: 整理和评估 SSD、移动硬盘的社区测试，保留接口、
 - [六款128GB高速 microSD 卡横评记录](references/microsd-128gb-six-card-comparison.md)
 - [WD Blue 4TB台式机扩容与性能记录](references/wd-blue-4tb-desktop-expansion.md)
 - [移动端混用闪存同设备复测掉速个案](references/mobile-ufs-speed-drop-case.md)
+- [iPhone 18 Pro 屏幕/LPDDR5X/NAND 架构对比与 JEDEC 内存互换实测](references/iphone18pro-dram-nand-and-jedec-compat.md)

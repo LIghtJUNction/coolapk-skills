@@ -71,3 +71,4 @@ seccomp 过滤机制早于 Linux 5.0；不能把整个机制与用户通知的�
 - [Root 隐藏方案、ColorOS 17 分身抓包、9008 救砖与 iQOO/红米镜像归档](references/root-hiding-proxypin-9008-and-bl-unlock.md)
 - [`rust-kit` / `rust-hook` 与高通平台第三方 ROM 基带处理笔记](references/rust-kit-and-qualcomm-baseband-notes.md)
 - [短帖汇总：KSU 防检测工具箱、Shizuku-NEXT、98260 提权准备与高通 410 随身 WiFi](references/short-ksu-shizuku-98260-and-410wifi.md)
+- [免解 BL 临时 Root 矩阵、春秋检测 4.5.8 逆向、开机动画路径与 DeviceSpoofer](references/ghostlock-bootanim-and-devicespoofer.md)
