@@ -29,3 +29,4 @@ description: 汇总低成本嵌入式硬件（N1、RK3566、玩客云、jz02_v10
 - [零刻 ME Pro 与 fnOS 家用 NAS 体验记录](references/nas-me-pro-fnos.md)
 - [绿联云 DXP4800 GT：硬件、UGOS Pro 与使用体验](references/ugreen-dxp4800-gt-nas.md)
 - [四类数码设备的使用场景与配置记录](references/nas-steamdeck-thunderbolt5-itx-roundup.md)
+- [海尔拆机主板 + 飞牛 NAS（fnOS）一周年存储与服务部署记录](references/haier-board-fnos-nas-build.md)

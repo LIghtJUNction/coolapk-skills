@@ -26,3 +26,4 @@ description: 将装机验收和稳定性社区教程整理为分组件、有条�
 - [技嘉 AI TOP ATOM 桌面AI平台现场报告](references/gigabyte-ai-top-atom-field-report.md)
 - [华硕 B760-G 小吹雪 S 搭配 i9-14900K 降压记录](references/asus-b760-14900k-undervolt.md)
 - [2025双11装机配件取舍指南](references/2025-11-pc-build-parts-budget-guidance.md)
+- [AM5 9800X3D 与 LGA1700 性价比整机装机配置记录](references/am5-9800x3d-and-lga1700-budget-builds.md)

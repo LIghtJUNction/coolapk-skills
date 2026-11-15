@@ -73,3 +73,4 @@ description: 查询手机、折叠屏和显示硬件的发布报告案例；保�
 - [PS5 Pro、雷神 VIC68SE 与 KUYCON G27P 参数体验](references/ps5pro-magnetic-keyboard-5k.md)
 - [《GTA6》原帖信息：平台、性能与玩法预告](references/gta6-platform-and-gameplay-preview.md)
 - [OEM 系统温控频点、音频/备份限制与硬件做工反馈](references/oem-os-thermal-camera-and-hardware-feedback.md)
+- [UMPC VAIO 酷袋本、USB 3.2 标称差异与平板扩展坞供电实测](references/umpc-vaio-usb-standards-and-dock-power.md)

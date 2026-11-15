@@ -38,3 +38,4 @@ description: 按设备条件、分区和故障分析 HyperOS 3 移植记录，�
 ## 结构对比线索
 
 - [ROM 二次打包对比中提到的文件与组件](references/rom-repackaging-comparison-evidence.md)
+- [HyperOS 4 第三方适配与移植发布记录（2026-11）](references/hyperos4-custom-rom-releases-2026-11.md)
