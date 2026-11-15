@@ -1,6 +1,7 @@
 # Only curated skills and their overview are eligible for version control.
 /*
 !/.gitignore
+!/AGENTS.md
 !/README.md
 !/LICENSE
 !/.github/

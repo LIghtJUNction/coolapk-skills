@@ -155,3 +155,4 @@ description: 按精确机型、代号和固件读取安卓社区刷机、内核�
 - [ColorOS 17 菜单与天气壁纸观察](references/coloros17-ui-preview.md)
 - [Scene5 激活、刷新率和刘海区域适配](references/scene5-accessibility-and-display.md)
 - [模块化手机与 ThinkPad Z13 工程机维修案例](references/diy-k80ultra-and-z13.md)
+- [Recovery 与第三方 ROM 移植案例（iPlay 50 Pro / TB375FC / yudi / TB-J606F / cannon）](references/recovery-and-rom-port-cases-batch1.md)

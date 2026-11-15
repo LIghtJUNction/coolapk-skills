@@ -58,7 +58,7 @@ Pad 8 是 v4.0.30 中写出的移植来源，不据此列为目标机型。K80 P
 
 ## Recovery 与评论资源
 
-独立的 [K100 Pro OrangeFox 记录](../orangefox-k100-pro-case/SKILL.md)不构成本 ROM 各版本的兼容证明。评论中的卡住、解密失败或保数据经历也不是通用恢复步骤。
+第三方或独立的 Recovery 解密记录不构成本 ROM 各版本的兼容证明。评论中的卡住、解密失败或保数据经历也不是通用恢复步骤。
 
 另有[第三方补充资源](references/comment-resources.md)，与作者 ROM 下载入口分别标注。只记录公开地址与口令，不转发包内文件。
 

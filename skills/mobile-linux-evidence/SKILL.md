@@ -24,3 +24,4 @@ description: 评估 Termux、手机 Linux、LXC 和 Docker 社区方案的可复
 
 - [OPPO Reno7 运行 7.3 主线 Linux 分区与刷机线索](references/oppo-reno7-mainline-linux.md)
 - [OpenClaw Pocket 离线模块、Droidspaces LKM（`.ko`）与内核提权分析](references/openclaw-pocket-and-droidspaces-lkm.md)
+- [华为 MatePad 11（2021 / 骁龙 865）主线 Linux 7.3.1 适配实录](references/matepad11-mainline-linux-7-3.md)

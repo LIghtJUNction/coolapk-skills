@@ -18,3 +18,4 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [Android 智能体（Nyral / Orion）、定时自动化（AddinTimer）与轻量化工具案例](references/android-agent-automation-and-notes.md)
 - [电视/手表管理（GenTV / 通用手表管理器）、OneUI 9 跳转限制、HiHz 与 LiquidIsland BETA7](references/tv-watch-oneui-hihz-and-island-tools.md)
 - [自动记账助手（AutoJiZhang）：Shizuku + 钱迹自动化记账](references/autojizhang-shizuku-helper.md)
+- [Termux 原生手搓 APK、多源无广天气 App 与仿澎湃 4 相册](references/termux-apk-weather-and-gallery-apps.md)

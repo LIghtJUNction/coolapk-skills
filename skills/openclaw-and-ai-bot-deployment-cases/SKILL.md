@@ -24,3 +24,4 @@ description: 汇总 OpenClaw、Hermes、AstrBot/NapCat、KouriChat、MiGPT 与 O
 - [Voice Companion Bundle：Windows 与 WSL2 本地语音数字人](references/voice-companion-bundle.md)
 - [LM Studio 运行 Qwen3.8：显存选择、OpenAI 兼容 API 与远程访问](references/qwen-lmstudio-local-api.md)
 - [Infinite-Canvas：AI 创作节点工作流与远程访问](references/infinite-canvas-workflow.md)
+- [AI Agent 本地网关与 QQ Bot Linux VPS 二开部署案例](references/ai-gateways-and-qq-bot-vps-cases.md)
