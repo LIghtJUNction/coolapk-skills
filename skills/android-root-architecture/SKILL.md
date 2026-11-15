@@ -63,3 +63,4 @@ seccomp 过滤机制早于 Linux 5.0；不能把整个机制与用户通知的�
 ## 补充案例
 
 - [免解 BL 临时 Root（GhostLock / CVE-2026-64560）与工程 abl 案例](references/temp-root-ghostlock-and-abl-cases.md)
+- [GhostLock 592、Timer Root、MTK `lk.img` 解锁与 Fastbootd 工具案例](references/temp-root-592-timerroot-and-lk-unlock.md)

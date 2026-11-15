@@ -15,3 +15,5 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [小米与一加系统隐藏 Activity 与 am start 快捷入口记录](references/android-activity-shortcuts-and-am-start.md)
 - [系统伪装（CocoMask）、ColorOS 调校（横幅/字体/刷新率）与防盗取证案例](references/cocomask-coloros-tweaks-and-antitheft.md)
 - [实用工具案例：Liquid Island BETA8、轻量化跳广告、九号出行 NBFIX 与 Hana Agent](references/liquid-island-skipad-nbfix-and-hana.md)
+- [Android 智能体（Nyral / Orion）、定时自动化（AddinTimer）与轻量化工具案例](references/android-agent-automation-and-notes.md)
+- [电视/手表管理（GenTV / 通用手表管理器）、OneUI 9 跳转限制、HiHz 与 LiquidIsland BETA7](references/tv-watch-oneui-hihz-and-island-tools.md)

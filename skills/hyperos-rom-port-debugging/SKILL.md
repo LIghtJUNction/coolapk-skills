@@ -40,3 +40,4 @@ description: 按设备条件、分区和故障分析 HyperOS 3 移植记录，�
 - [ROM 二次打包对比中提到的文件与组件](references/rom-repackaging-comparison-evidence.md)
 - [HyperOS 4 第三方适配与移植发布记录（2026-11）](references/hyperos4-custom-rom-releases-2026-11.md)
 - [小米 MIX Flip（HyperOS 4 移植）版本特征与系统改动记录](references/mix-flip-hyperos4-port-notes.md)
+- [小米 17 系列 HyperOS 4.0（4.0.2.0 / 4.0.5.0）官改版发布特征记录](references/xiaomi17-hyperos4-mod-releases.md)
