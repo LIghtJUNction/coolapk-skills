@@ -26,3 +26,4 @@ description: 审核安卓刷机、Root、OTA 与救砖教程的适配条件和�
 
 - [欧加真系 SukiSU Ultra / AK3 Root 与环境隐藏流程线索](references/oplus-sukisu-ak3-root-workflow.md)
 - [Recovery、Cube 恢复与双机刷机/Root 实操案例](references/recovery-cube-dual-phone-flashing-cases.md)
+- [第三方 ROM（EvoX / LineageOS 24）与 TWRP 16.0 适配记录](references/custom-rom-and-twrp16-port-cases.md)

@@ -59,3 +59,7 @@ seccomp 过滤机制早于 Linux 5.0；不能把整个机制与用户通知的�
 
 不同方案的机制各有取舍；应按设备条件和维护需求选择，不能从机制描述推出稳定性或隐藏 root 能力的排名。
 来源：[酷安原帖](https://www.coolapk.com/feed/72167115)。正文已读，5张配图及评论未读；本技能纠正原文并补充上列官方资料，没有执行设备命令、解包或刷写测试。
+
+## 补充案例
+
+- [免解 BL 临时 Root（GhostLock / CVE-2026-64560）与工程 abl 案例](references/temp-root-ghostlock-and-abl-cases.md)

@@ -17,3 +17,4 @@ description: 按路由器具体型号、运营商定制版本和固件整理社�
 - [Cudy TR3000 256MB 安装 K-Wrt 并配置无线与 cpolar](references/cudy-tr3000-kwrt-install.md)
 - [中兴 F50 安装 UFI-TOOLS 并配置 cpolar 远程访问](references/zte-f50-ufi-tools-cpolar.md)
 - [Cudy TR3000 免电脑刷机方案与中兴 F50 供电稳定性实测](references/cudy-tr3000-no-pc-and-f50-power.md)
+- [随身 Wi-Fi MF605DW 整合包 v2 刷入与功能边界](references/mf605dw-portable-wifi-mod-v2.md)

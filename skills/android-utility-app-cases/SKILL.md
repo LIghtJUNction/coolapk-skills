@@ -13,3 +13,5 @@ description: 汇总 Android 实用工具（屏译悬浮翻译、通用安装程�
 - [通用安装程序 v1.20.0：Android 安装会话与特权后端](references/universal-installer-android.md)
 - [BlockAds 7.1.1：Android 域名过滤与内容过滤](references/blockads-711.md)
 - [小米与一加系统隐藏 Activity 与 am start 快捷入口记录](references/android-activity-shortcuts-and-am-start.md)
+- [系统伪装（CocoMask）、ColorOS 调校（横幅/字体/刷新率）与防盗取证案例](references/cocomask-coloros-tweaks-and-antitheft.md)
+- [实用工具案例：Liquid Island BETA8、轻量化跳广告、九号出行 NBFIX 与 Hana Agent](references/liquid-island-skipad-nbfix-and-hana.md)
