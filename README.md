@@ -6,6 +6,7 @@
 
 | 分类 | 技能 |
 |---|---|
+| 小米 / 红米 ROM | [小米 / 红米 PixelOS Android 17 适配与更新案例](skills/pixelos-android17-xiaomi-rom-cases/SKILL.md) |
 | Android 实用工具 | [Android 实用工具与系统增强案例](skills/android-utility-app-cases/SKILL.md) |
 | Windows 工具 | [Windows 系统维护、磁盘与网络工具案例](skills/windows-system-and-disk-utilities/SKILL.md) |
 | 桌面效率工具 | [跨平台桌面效率与多媒体工具案例](skills/cross-platform-desktop-productivity-tools/SKILL.md) |

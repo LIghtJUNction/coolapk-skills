@@ -65,3 +65,7 @@ HLS 播放地址示例（原帖给出的 HTTP URL）：
 ## 证据边界
 
 本文按原帖记录 SRS 6、配置文件名、端口、脚本和示例地址。图片内容未读取，评论未提供；原帖中的具体配置编辑界面及播放器结果因此未纳入。部署成功与延迟描述均为原帖报告。
+
+## 补充案例
+
+- [Flexus X 上 Docker 部署 SRS6 与 WebRTC/RTMP 互转配置](references/flexus-x-srs6-webrtc-rtmp.md)

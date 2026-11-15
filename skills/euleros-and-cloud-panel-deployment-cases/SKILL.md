@@ -26,3 +26,6 @@ description: 汇总 EulerOS/Ubuntu 云主机上的宝塔面板、Docker CE/conta
 - [华为云 Flexus X 实例配置与选型](references/flexus-x-cloud-server-selection.md)
 - [Huawei Cloud EulerOS 上的 MySQL 安装与读写测试记录](references/flexus-x-mysql-test.md)
 - [Windows Server CPU 环境部署 YOLOv10 的原帖步骤](references/yolov10-cpu-windows-training.md)
+- [Windows 云主机部署 MoneyPrinterTurbo 短视频生成工具](references/flexus-x-moneyprinter-windows.md)
+- [Huawei Cloud EulerOS 上安装 MySQL 与 Python 读写测试记录](references/flexus-x-hce-mysql-python-test.md)
+- [Flexus X 上 PHP 商城（CRMEB / 分销商城）与 PHPYUN 部署配置记录](references/flexus-x-php-mall-and-phpyun-deployments.md)

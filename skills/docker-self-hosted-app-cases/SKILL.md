@@ -34,3 +34,4 @@ description: 汇总 Docker/Compose 部署自托管应用的社区案例，涵盖
 - [Ubuntu 上部署 Docker 与 DooTask 的原帖记录](references/flexus-x-dootask-docker.md)
 - [Flexus X 上运行 Radarr 的 Docker Compose 示例](references/radarr-docker-compose.md)
 - [Kodcloud 私有云用途与资源配置记录](references/kodcloud-docker-environment.md)
+- [Flexus X 上部署 AWVS 与 Elasticsearch 7.16.2 容器记录](references/flexus-x-awvs-and-es-docker.md)
